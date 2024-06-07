@@ -1,0 +1,1358 @@
+record_id,redcap_event_name,idade,sexo_tr,escolaridade_tr,estado_civil_tr,etnia_tr,igi_escore,ehad_ansiedade_escore,ehad_depressao_escore,aaq_score,spaq_score,dbas_score,randomizacao_tr,neuroticismo_escore_t,extroversao_escore_t,abertura_escore_t,amabilidade_escore_t,conscienciosidade_escore_t
+3,recrutamento_arm_1,35,Masculine,Superior,Single/Divorced,White,21,10,11,32,15,102,ACT,65,30,53,62,51
+3,elegibilidade_arm_1,35,Masculine,Superior,Single/Divorced,White,21,10,11,32,15,102,ACT,65,30,53,62,51
+3,reteste_arm_1,35,Masculine,Superior,Single/Divorced,White,10,10,6,25,16,102,ACT,65,30,53,62,51
+3,elegibilidade_mini_arm_1,35,Masculine,Superior,Single/Divorced,White,10,10,6,25,24,59,ACT,65,30,53,62,51
+3,desfechos_arm_1,35,Masculine,Superior,Single/Divorced,White,10,10,6,25,24,59,ACT,65,30,53,62,51
+3,followup_arm_1,35,Masculine,Superior,Single/Divorced,White,12,9,4,22,27,65,ACT,65,30,53,62,51
+10,recrutamento_arm_1,44.3,Feminine,Superior,Single/Divorced,White,12,5,5,14,37,46,WL,45,52,20,53,62
+10,elegibilidade_arm_1,44.3,Feminine,Superior,Single/Divorced,White,12,5,5,14,37,46,WL,45,52,20,53,62
+10,reteste_arm_1,44.3,Feminine,Superior,Single/Divorced,White,9,6,3,11,31,49,WL,45,52,20,53,62
+10,elegibilidade_mini_arm_1,44.3,Feminine,Superior,Single/Divorced,White,9,6,3,11,32,51,WL,45,52,20,53,62
+10,desfechos_arm_1,44.3,Feminine,Superior,Single/Divorced,White,9,6,3,11,32,51,WL,45,52,20,53,62
+10,followup_arm_1,44.3,Feminine,Superior,Single/Divorced,White,13,3,2,7,30,64,WL,45,52,20,53,62
+16,recrutamento_arm_1,32.3,Feminine,Superior,Married/United,Non White,18,13,10,41,8,104,CBT,68,32,58,66,44
+16,elegibilidade_arm_1,32.3,Feminine,Superior,Married/United,Non White,18,13,10,41,8,104,CBT,68,32,58,66,44
+16,reteste_arm_1,32.3,Feminine,Superior,Married/United,Non White,6,14,6,30,8,120,CBT,68,32,58,66,44
+16,elegibilidade_mini_arm_1,32.3,Feminine,Superior,Married/United,Non White,6,14,6,30,27,51,CBT,68,32,58,66,44
+16,desfechos_arm_1,32.3,Feminine,Superior,Married/United,Non White,6,14,6,30,27,51,CBT,68,32,58,66,44
+16,followup_arm_1,32.3,Feminine,Superior,Married/United,Non White,5,8,6,29,39,48,CBT,68,32,58,66,44
+20,recrutamento_arm_1,38.3,Masculine,Superior,Single/Divorced,White,17,7,1,10,33,60,WL,46,39,42,46,57
+20,elegibilidade_arm_1,38.3,Masculine,Superior,Single/Divorced,White,17,7,1,10,33,60,WL,46,39,42,46,57
+20,reteste_arm_1,38.3,Masculine,Superior,Single/Divorced,White,16,5,1,8,28,77,WL,46,39,42,46,57
+20,elegibilidade_mini_arm_1,38.3,Masculine,Superior,Single/Divorced,White,16,5,1,8,29,105,WL,46,39,42,46,57
+20,desfechos_arm_1,38.3,Masculine,Superior,Single/Divorced,White,16,5,1,8,29,105,WL,46,39,42,46,57
+20,followup_arm_1,38.3,Masculine,Superior,Single/Divorced,White,15,3,3,13,26,100,WL,46,39,42,46,57
+20,desfechos_le_arm_1,38.3,Masculine,Superior,Single/Divorced,White,13,3,0,9,28,85,WL,46,39,42,46,57
+71,recrutamento_arm_1,41.6,Feminine,Nao Superior,Married/United,White,16,14,15,43,8,124,ACT,71,45,48,55,51
+71,elegibilidade_arm_1,41.6,Feminine,Nao Superior,Married/United,White,16,14,15,43,8,124,ACT,71,45,48,55,51
+71,reteste_arm_1,41.6,Feminine,Nao Superior,Married/United,White,3,6,5,24,12,140,ACT,71,45,48,55,51
+71,elegibilidade_mini_arm_1,41.6,Feminine,Nao Superior,Married/United,White,3,6,5,24,28,37,ACT,71,45,48,55,51
+71,desfechos_arm_1,41.6,Feminine,Nao Superior,Married/United,White,3,6,5,24,28,37,ACT,71,45,48,55,51
+71,followup_arm_1,41.6,Feminine,Nao Superior,Married/United,White,13,11,8,32,19,113,ACT,71,45,48,55,51
+73,recrutamento_arm_1,22,Feminine,Nao Superior,Single/Divorced,White,14,13,7,29,17,76,CBT,78,33,37,20,44
+73,elegibilidade_arm_1,22,Feminine,Nao Superior,Single/Divorced,White,14,13,7,29,17,76,CBT,78,33,37,20,44
+73,reteste_arm_1,22,Feminine,Nao Superior,Single/Divorced,White,14,13,7,29,14,114,CBT,78,33,37,20,44
+73,elegibilidade_mini_arm_1,22,Feminine,Nao Superior,Single/Divorced,White,14,13,7,29,14,114,CBT,78,33,37,20,44
+73,desfechos_arm_1,22,Feminine,Nao Superior,Single/Divorced,White,14,13,7,29,14,114,CBT,78,33,37,20,44
+82,recrutamento_arm_1,59.3,Feminine,Superior,Married/United,White,22,10,10,35,23,94,ACT,45,33,44,71,47
+82,elegibilidade_arm_1,59.3,Feminine,Superior,Married/United,White,22,10,10,35,23,94,ACT,45,33,44,71,47
+82,reteste_arm_1,59.3,Feminine,Superior,Married/United,White,12,7,5,24,17,120,ACT,45,33,44,71,47
+82,elegibilidade_mini_arm_1,59.3,Feminine,Superior,Married/United,White,12,7,5,24,44,31,ACT,45,33,44,71,47
+82,desfechos_arm_1,59.3,Feminine,Superior,Married/United,White,12,7,5,24,44,31,ACT,45,33,44,71,47
+82,followup_arm_1,59.3,Feminine,Superior,Married/United,White,7,7,5,23,44,31,ACT,45,33,44,71,47
+84,recrutamento_arm_1,51.1,Feminine,Superior,Married/United,White,25,13,12,38,15,75,CBT,42,52,58,55,44
+84,elegibilidade_arm_1,51.1,Feminine,Superior,Married/United,White,25,13,12,38,15,75,CBT,42,52,58,55,44
+84,reteste_arm_1,51.1,Feminine,Superior,Married/United,White,22,17,19,42,16,88,CBT,42,52,58,55,44
+84,elegibilidade_mini_arm_1,51.1,Feminine,Superior,Married/United,White,22,17,19,42,12,128,CBT,42,52,58,55,44
+84,desfechos_arm_1,51.1,Feminine,Superior,Married/United,White,22,17,19,42,12,128,CBT,42,52,58,55,44
+84,followup_arm_1,51.1,Feminine,Superior,Married/United,White,10,10,12,33,25,92,CBT,42,52,58,55,44
+85,recrutamento_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,18,9,5,18,26,84,CBT,51,39,56,26,35
+85,elegibilidade_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,18,9,5,18,26,84,CBT,51,39,56,26,35
+85,reteste_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,13,7,1,13,25,79,CBT,51,39,56,26,35
+85,elegibilidade_mini_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,13,7,1,13,30,64,CBT,51,39,56,26,35
+85,desfechos_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,13,7,1,13,30,64,CBT,51,39,56,26,35
+85,followup_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,16,6,3,16,32,70,CBT,51,39,56,26,35
+93,recrutamento_arm_1,39.2,Feminine,Superior,Single/Divorced,White,21,15,15,39,8,141,WL,63,44,63,55,40
+93,elegibilidade_arm_1,39.2,Feminine,Superior,Single/Divorced,White,21,15,15,39,8,141,WL,63,44,63,55,40
+93,reteste_arm_1,39.2,Feminine,Superior,Single/Divorced,White,19,13,15,41,16,140,WL,63,44,63,55,40
+93,elegibilidade_mini_arm_1,39.2,Feminine,Superior,Single/Divorced,White,19,13,15,41,7,151,WL,63,44,63,55,40
+93,desfechos_arm_1,39.2,Feminine,Superior,Single/Divorced,White,19,13,15,41,7,151,WL,63,44,63,55,40
+93,followup_arm_1,39.2,Feminine,Superior,Single/Divorced,White,21,16,15,41,3,141,WL,63,44,63,55,40
+93,desfechos_le_arm_1,39.2,Feminine,Superior,Single/Divorced,White,17,11,13,34,18,80,WL,63,44,63,55,40
+106,recrutamento_arm_1,40.2,Feminine,Superior,Married/United,White,21,10,8,25,11,125,ACT,48,44,58,55,63
+106,elegibilidade_arm_1,40.2,Feminine,Superior,Married/United,White,21,10,8,25,11,125,ACT,48,44,58,55,63
+106,reteste_arm_1,40.2,Feminine,Superior,Married/United,White,15,8,3,22,14,131,ACT,48,44,58,55,63
+106,elegibilidade_mini_arm_1,40.2,Feminine,Superior,Married/United,White,15,8,3,22,32,71,ACT,48,44,58,55,63
+106,desfechos_arm_1,40.2,Feminine,Superior,Married/United,White,15,8,3,22,32,71,ACT,48,44,58,55,63
+106,followup_arm_1,40.2,Feminine,Superior,Married/United,White,9,8,4,26,32,103,ACT,48,44,58,55,63
+122,recrutamento_arm_1,36.7,Feminine,Superior,Single/Divorced,White,24,12,14,38,5,137,ACT,73,45,53,33,47
+122,elegibilidade_arm_1,36.7,Feminine,Superior,Single/Divorced,White,24,12,14,38,5,137,ACT,73,45,53,33,47
+122,reteste_arm_1,36.7,Feminine,Superior,Single/Divorced,White,19,11,9,36,1,145,ACT,73,45,53,33,47
+122,elegibilidade_mini_arm_1,36.7,Feminine,Superior,Single/Divorced,White,19,11,9,36,10,113,ACT,73,45,53,33,47
+122,desfechos_arm_1,36.7,Feminine,Superior,Single/Divorced,White,19,11,9,36,10,113,ACT,73,45,53,33,47
+122,followup_arm_1,36.7,Feminine,Superior,Single/Divorced,White,15,10,10,34,16,116,ACT,73,45,53,33,47
+124,recrutamento_arm_1,22.6,Feminine,Nao Superior,Single/Divorced,White,19,14,7,33,12,117,CBT,69,60,44,46,40
+124,elegibilidade_arm_1,22.6,Feminine,Nao Superior,Single/Divorced,White,19,14,7,33,12,117,CBT,69,60,44,46,40
+124,reteste_arm_1,22.6,Feminine,Nao Superior,Single/Divorced,White,19,14,7,33,12,118,CBT,69,60,44,46,40
+124,elegibilidade_mini_arm_1,22.6,Feminine,Nao Superior,Single/Divorced,White,19,14,7,33,12,118,CBT,69,60,44,46,40
+124,desfechos_arm_1,22.6,Feminine,Nao Superior,Single/Divorced,White,19,14,7,33,12,118,CBT,69,60,44,46,40
+130,recrutamento_arm_1,45.3,Masculine,Superior,Single/Divorced,White,24,19,14,46,18,118,WL,68,37,51,44,48
+130,elegibilidade_arm_1,45.3,Masculine,Superior,Single/Divorced,White,24,19,14,46,18,118,WL,68,37,51,44,48
+130,reteste_arm_1,45.3,Masculine,Superior,Single/Divorced,White,22,15,13,42,16,131,WL,68,37,51,44,48
+130,elegibilidade_mini_arm_1,45.3,Masculine,Superior,Single/Divorced,White,22,15,13,42,16,112,WL,68,37,51,44,48
+130,desfechos_arm_1,45.3,Masculine,Superior,Single/Divorced,White,22,15,13,42,16,112,WL,68,37,51,44,48
+130,followup_arm_1,45.3,Masculine,Superior,Single/Divorced,White,20,18,18,45,20,120,WL,68,37,51,44,48
+130,desfechos_le_arm_1,45.3,Masculine,Superior,Single/Divorced,White,17,17,12,37,21,104,WL,68,37,51,44,48
+135,recrutamento_arm_1,38.3,Feminine,Superior,Married/United,White,16,7,11,36,9,105,CBT,42,49,48,71,59
+135,elegibilidade_arm_1,38.3,Feminine,Superior,Married/United,White,16,7,11,36,9,105,CBT,42,49,48,71,59
+135,reteste_arm_1,38.3,Feminine,Superior,Married/United,White,2,2,4,10,15,120,CBT,42,49,48,71,59
+135,elegibilidade_mini_arm_1,38.3,Feminine,Superior,Married/United,White,2,2,4,10,42,19,CBT,42,49,48,71,59
+135,desfechos_arm_1,38.3,Feminine,Superior,Married/United,White,2,2,4,10,42,19,CBT,42,49,48,71,59
+135,followup_arm_1,38.3,Feminine,Superior,Married/United,White,1,1,2,12,42,10,CBT,42,49,48,71,59
+194,recrutamento_arm_1,57.1,Feminine,Superior,Single/Divorced,White,17,7,13,33,17,134,ACT,56,44,58,48,53
+194,elegibilidade_arm_1,57.1,Feminine,Superior,Single/Divorced,White,17,7,13,33,17,134,ACT,56,44,58,48,53
+194,reteste_arm_1,57.1,Feminine,Superior,Single/Divorced,White,8,4,8,26,12,133,ACT,56,44,58,48,53
+194,elegibilidade_mini_arm_1,57.1,Feminine,Superior,Single/Divorced,White,8,4,8,26,30,85,ACT,56,44,58,48,53
+194,desfechos_arm_1,57.1,Feminine,Superior,Single/Divorced,White,8,4,8,26,30,85,ACT,56,44,58,48,53
+194,followup_arm_1,57.1,Feminine,Superior,Single/Divorced,White,7,6,9,28,34,74,ACT,56,44,58,48,53
+199,recrutamento_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,16,11,6,26,20,117,WL,46,52,63,50,51
+199,elegibilidade_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,16,11,6,26,20,117,WL,46,52,63,50,51
+199,reteste_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,13,11,3,22,32,95,WL,46,52,63,50,51
+199,elegibilidade_mini_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,13,11,3,22,32,95,WL,46,52,63,50,51
+199,desfechos_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,13,11,3,22,32,95,WL,46,52,63,50,51
+199,followup_arm_1,24.2,Masculine,Nao Superior,Single/Divorced,White,13,11,3,22,32,95,WL,46,52,63,50,51
+203,recrutamento_arm_1,39,Feminine,Superior,Single/Divorced,Non White,24,13,12,29,2,155,WL,53,44,56,55,59
+203,elegibilidade_arm_1,39,Feminine,Superior,Single/Divorced,Non White,24,13,12,29,2,155,WL,53,44,56,55,59
+203,reteste_arm_1,39,Feminine,Superior,Single/Divorced,Non White,16,10,10,28,2,151,WL,53,44,56,55,59
+203,elegibilidade_mini_arm_1,39,Feminine,Superior,Single/Divorced,Non White,16,10,10,28,11,150,WL,53,44,56,55,59
+203,desfechos_arm_1,39,Feminine,Superior,Single/Divorced,Non White,16,10,10,28,11,150,WL,53,44,56,55,59
+203,followup_arm_1,39,Feminine,Superior,Single/Divorced,Non White,19,12,10,35,0,140,WL,53,44,56,55,59
+203,desfechos_le_arm_1,39,Feminine,Superior,Single/Divorced,Non White,19,12,10,35,0,140,WL,53,44,56,55,59
+211,recrutamento_arm_1,34.1,Feminine,Superior,Married/United,Non White,14,12,11,28,19,104,WL,68,35,48,52,54
+211,elegibilidade_arm_1,34.1,Feminine,Superior,Married/United,Non White,14,12,11,28,19,104,WL,68,35,48,52,54
+211,reteste_arm_1,34.1,Feminine,Superior,Married/United,Non White,11,7,3,21,12,115,WL,68,35,48,52,54
+211,elegibilidade_mini_arm_1,34.1,Feminine,Superior,Married/United,Non White,11,7,3,21,26,77,WL,68,35,48,52,54
+211,desfechos_arm_1,34.1,Feminine,Superior,Married/United,Non White,11,7,3,21,26,77,WL,68,35,48,52,54
+211,followup_arm_1,34.1,Feminine,Superior,Married/United,Non White,15,11,10,30,12,84,WL,68,35,48,52,54
+235,recrutamento_arm_1,50,Feminine,Superior,Married/United,White,17,15,11,29,16,127,CBT,56,71,61,46,56
+235,elegibilidade_arm_1,50,Feminine,Superior,Married/United,White,17,15,11,29,16,127,CBT,56,71,61,46,56
+235,reteste_arm_1,50,Feminine,Superior,Married/United,White,1,7,1,14,12,116,CBT,56,71,61,46,56
+235,elegibilidade_mini_arm_1,50,Feminine,Superior,Married/United,White,1,7,1,14,29,12,CBT,56,71,61,46,56
+235,desfechos_arm_1,50,Feminine,Superior,Married/United,White,1,7,1,14,29,12,CBT,56,71,61,46,56
+235,followup_arm_1,50,Feminine,Superior,Married/United,White,1,5,1,14,42,2,CBT,56,71,61,46,56
+248,recrutamento_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,15,4,5,13,18,123,ACT,48,32,32,59,47
+248,elegibilidade_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,15,4,5,13,18,123,ACT,48,32,32,59,47
+248,reteste_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,11,2,2,14,21,112,ACT,48,32,32,59,47
+248,elegibilidade_mini_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,11,2,2,14,30,55,ACT,48,32,32,59,47
+248,desfechos_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,11,2,2,14,30,55,ACT,48,32,32,59,47
+248,followup_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,10,5,4,17,24,90,ACT,48,32,32,59,47
+253,recrutamento_arm_1,51.7,Masculine,Superior,Married/United,Non White,14,3,4,22,21,105,WL,39,44,53,53,46
+253,elegibilidade_arm_1,51.7,Masculine,Superior,Married/United,Non White,14,3,4,22,21,105,WL,39,44,53,53,46
+253,reteste_arm_1,51.7,Masculine,Superior,Married/United,Non White,14,2,3,15,20,102,WL,39,44,53,53,46
+253,elegibilidade_mini_arm_1,51.7,Masculine,Superior,Married/United,Non White,14,2,3,15,24,89,WL,39,44,53,53,46
+253,desfechos_arm_1,51.7,Masculine,Superior,Married/United,Non White,14,2,3,15,24,89,WL,39,44,53,53,46
+253,followup_arm_1,51.7,Masculine,Superior,Married/United,Non White,11,3,6,12,27,89,WL,39,44,53,53,46
+253,desfechos_le_arm_1,51.7,Masculine,Superior,Married/United,Non White,7,3,2,12,34,29,WL,39,44,53,53,46
+254,recrutamento_arm_1,33.6,Feminine,Superior,Single/Divorced,White,22,17,5,44,10,99,WL,61,50,60,44,57
+254,elegibilidade_arm_1,33.6,Feminine,Superior,Single/Divorced,White,22,17,5,44,10,99,WL,61,50,60,44,57
+254,reteste_arm_1,33.6,Feminine,Superior,Single/Divorced,White,23,16,5,38,11,110,WL,61,50,60,44,57
+254,elegibilidade_mini_arm_1,33.6,Feminine,Superior,Single/Divorced,White,23,16,5,38,8,119,WL,61,50,60,44,57
+254,desfechos_arm_1,33.6,Feminine,Superior,Single/Divorced,White,23,16,5,38,8,119,WL,61,50,60,44,57
+254,followup_arm_1,33.6,Feminine,Superior,Single/Divorced,White,21,18,6,41,8,114,WL,61,50,60,44,57
+254,desfechos_le_arm_1,33.6,Feminine,Superior,Single/Divorced,White,16,11,3,33,19,75,WL,61,50,60,44,57
+264,recrutamento_arm_1,34.7,Feminine,Superior,Single/Divorced,White,11,11,11,30,12,104,ACT,63,42,49,41,53
+264,elegibilidade_arm_1,34.7,Feminine,Superior,Single/Divorced,White,11,11,11,30,12,104,ACT,63,42,49,41,53
+264,reteste_arm_1,34.7,Feminine,Superior,Single/Divorced,White,4,5,3,18,22,99,ACT,63,42,49,41,53
+264,elegibilidade_mini_arm_1,34.7,Feminine,Superior,Single/Divorced,White,4,5,3,18,45,47,ACT,63,42,49,41,53
+264,desfechos_arm_1,34.7,Feminine,Superior,Single/Divorced,White,4,5,3,18,45,47,ACT,63,42,49,41,53
+264,followup_arm_1,34.7,Feminine,Superior,Single/Divorced,White,4,3,4,20,43,15,ACT,63,42,49,41,53
+274,recrutamento_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,19,9,8,29,23,106,CBT,51,40,65,35,46
+274,elegibilidade_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,19,9,8,29,23,106,CBT,51,40,65,35,46
+274,reteste_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,3,6,4,21,24,91,CBT,51,40,65,35,46
+274,elegibilidade_mini_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,3,6,4,21,23,35,CBT,51,40,65,35,46
+274,desfechos_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,3,6,4,21,23,35,CBT,51,40,65,35,46
+274,followup_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,4,4,3,17,33,44,CBT,51,40,65,35,46
+277,recrutamento_arm_1,37.8,Feminine,Superior,Married/United,White,18,14,10,18,16,126,WL,68,28,46,53,32
+277,elegibilidade_arm_1,37.8,Feminine,Superior,Married/United,White,18,14,10,18,16,126,WL,68,28,46,53,32
+277,reteste_arm_1,37.8,Feminine,Superior,Married/United,White,21,17,8,34,16,123,WL,68,28,46,53,32
+277,elegibilidade_mini_arm_1,37.8,Feminine,Superior,Married/United,White,21,17,8,34,15,132,WL,68,28,46,53,32
+277,desfechos_arm_1,37.8,Feminine,Superior,Married/United,White,21,17,8,34,15,132,WL,68,28,46,53,32
+277,followup_arm_1,37.8,Feminine,Superior,Married/United,White,12,13,6,20,18,128,WL,68,28,46,53,32
+277,desfechos_le_arm_1,37.8,Feminine,Superior,Married/United,White,12,13,6,20,18,128,WL,68,28,46,53,32
+279,recrutamento_arm_1,18,Feminine,Nao Superior,Single/Divorced,White,19,19,15,47,11,139,ACT,79,23,56,46,20
+279,elegibilidade_arm_1,18,Feminine,Nao Superior,Single/Divorced,White,19,19,15,47,11,139,ACT,79,23,56,46,20
+279,reteste_arm_1,18,Feminine,Nao Superior,Single/Divorced,White,19,19,15,47,11,149,ACT,79,23,56,46,20
+279,elegibilidade_mini_arm_1,18,Feminine,Nao Superior,Single/Divorced,White,19,19,15,47,11,149,ACT,79,23,56,46,20
+279,desfechos_arm_1,18,Feminine,Nao Superior,Single/Divorced,White,19,19,15,47,11,149,ACT,79,23,56,46,20
+280,recrutamento_arm_1,39.2,Feminine,Superior,Single/Divorced,White,22,12,3,32,15,127,CBT,52,57,23,26,47
+280,elegibilidade_arm_1,39.2,Feminine,Superior,Single/Divorced,White,22,12,3,32,15,127,CBT,52,57,23,26,47
+280,reteste_arm_1,39.2,Feminine,Superior,Single/Divorced,White,11,9,3,26,10,106,CBT,52,57,23,26,47
+280,elegibilidade_mini_arm_1,39.2,Feminine,Superior,Single/Divorced,White,11,9,3,26,20,71,CBT,52,57,23,26,47
+280,desfechos_arm_1,39.2,Feminine,Superior,Single/Divorced,White,11,9,3,26,20,71,CBT,52,57,23,26,47
+280,followup_arm_1,39.2,Feminine,Superior,Single/Divorced,White,16,12,2,24,21,97,CBT,52,57,23,26,47
+283,recrutamento_arm_1,36.2,Feminine,Superior,Married/United,White,22,10,8,28,28,97,CBT,63,49,25,42,43
+283,elegibilidade_arm_1,36.2,Feminine,Superior,Married/United,White,22,10,8,28,28,97,CBT,63,49,25,42,43
+283,reteste_arm_1,36.2,Feminine,Superior,Married/United,White,1,6,3,12,20,104,CBT,63,49,25,42,43
+283,elegibilidade_mini_arm_1,36.2,Feminine,Superior,Married/United,White,1,6,3,12,35,16,CBT,63,49,25,42,43
+283,desfechos_arm_1,36.2,Feminine,Superior,Married/United,White,1,6,3,12,35,16,CBT,63,49,25,42,43
+283,followup_arm_1,36.2,Feminine,Superior,Married/United,White,4,5,2,19,21,16,CBT,63,49,25,42,43
+287,recrutamento_arm_1,37.7,Feminine,Superior,Married/United,White,12,6,5,21,29,79,ACT,49,33,53,61,53
+287,elegibilidade_arm_1,37.7,Feminine,Superior,Married/United,White,12,6,5,21,29,79,ACT,49,33,53,61,53
+287,reteste_arm_1,37.7,Feminine,Superior,Married/United,White,8,6,2,14,29,69,ACT,49,33,53,61,53
+287,elegibilidade_mini_arm_1,37.7,Feminine,Superior,Married/United,White,8,6,2,14,38,75,ACT,49,33,53,61,53
+287,desfechos_arm_1,37.7,Feminine,Superior,Married/United,White,8,6,2,14,38,75,ACT,49,33,53,61,53
+287,followup_arm_1,37.7,Feminine,Superior,Married/United,White,5,5,2,16,38,69,ACT,49,33,53,61,53
+298,recrutamento_arm_1,43.8,Feminine,Superior,Single/Divorced,White,17,12,5,29,21,134,WL,42,64,51,50,65
+298,elegibilidade_arm_1,43.8,Feminine,Superior,Single/Divorced,White,17,12,5,29,21,134,WL,42,64,51,50,65
+298,reteste_arm_1,43.8,Feminine,Superior,Single/Divorced,White,4,5,0,15,22,127,WL,42,64,51,50,65
+298,elegibilidade_mini_arm_1,43.8,Feminine,Superior,Single/Divorced,White,4,5,0,15,26,55,WL,42,64,51,50,65
+298,desfechos_arm_1,43.8,Feminine,Superior,Single/Divorced,White,4,5,0,15,26,55,WL,42,64,51,50,65
+298,followup_arm_1,43.8,Feminine,Superior,Single/Divorced,White,7,2,0,7,27,68,WL,42,64,51,50,65
+313,recrutamento_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,21,15,11,28,21,139,CBT,46,65,34,61,62
+313,elegibilidade_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,21,15,11,28,21,139,CBT,46,65,34,61,62
+313,reteste_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,3,0,1,8,10,149,CBT,46,65,34,61,62
+313,elegibilidade_mini_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,3,0,1,8,27,39,CBT,46,65,34,61,62
+313,desfechos_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,3,0,1,8,27,39,CBT,46,65,34,61,62
+313,followup_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,4,8,4,22,35,31,CBT,46,65,34,61,62
+315,recrutamento_arm_1,47.9,Masculine,Superior,Single/Divorced,White,20,6,7,31,18,103,CBT,61,44,58,50,62
+315,elegibilidade_arm_1,47.9,Masculine,Superior,Single/Divorced,White,20,6,7,31,18,103,CBT,61,44,58,50,62
+315,reteste_arm_1,47.9,Masculine,Superior,Single/Divorced,White,20,6,7,31,15,111,CBT,61,44,58,50,62
+315,elegibilidade_mini_arm_1,47.9,Masculine,Superior,Single/Divorced,White,20,6,7,31,15,111,CBT,61,44,58,50,62
+315,desfechos_arm_1,47.9,Masculine,Superior,Single/Divorced,White,20,6,7,31,15,111,CBT,61,44,58,50,62
+335,recrutamento_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,26,11,12,28,11,130,WL,61,47,41,37,47
+335,elegibilidade_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,26,11,12,28,11,130,WL,61,47,41,37,47
+335,reteste_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,17,4,10,26,13,123,WL,61,47,41,37,47
+335,elegibilidade_mini_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,17,4,10,26,14,111,WL,61,47,41,37,47
+335,desfechos_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,17,4,10,26,14,111,WL,61,47,41,37,47
+335,followup_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,17,10,9,38,13,73,WL,61,47,41,37,47
+335,desfechos_le_arm_1,50.8,Feminine,Superior,Single/Divorced,Non White,14,4,7,16,25,62,WL,61,47,41,37,47
+343,recrutamento_arm_1,32.6,Feminine,Superior,Married/United,White,20,15,11,38,16,130,ACT,62,55,46,46,32
+343,elegibilidade_arm_1,32.6,Feminine,Superior,Married/United,White,20,15,11,38,16,130,ACT,62,55,46,46,32
+343,reteste_arm_1,32.6,Feminine,Superior,Married/United,White,17,10,8,42,9,127,ACT,62,55,46,46,32
+343,elegibilidade_mini_arm_1,32.6,Feminine,Superior,Married/United,White,17,10,8,42,26,107,ACT,62,55,46,46,32
+343,desfechos_arm_1,32.6,Feminine,Superior,Married/United,White,17,10,8,42,26,107,ACT,62,55,46,46,32
+343,followup_arm_1,32.6,Feminine,Superior,Married/United,White,17,15,7,39,26,96,ACT,62,55,46,46,32
+368,recrutamento_arm_1,41,Feminine,Superior,Married/United,White,21,15,13,48,8,137,ACT,63,30,49,50,38
+368,elegibilidade_arm_1,41,Feminine,Superior,Married/United,White,21,15,13,48,8,137,ACT,63,30,49,50,38
+368,reteste_arm_1,41,Feminine,Superior,Married/United,White,15,11,10,30,2,139,ACT,63,30,49,50,38
+368,elegibilidade_mini_arm_1,41,Feminine,Superior,Married/United,White,15,11,10,30,17,111,ACT,63,30,49,50,38
+368,desfechos_arm_1,41,Feminine,Superior,Married/United,White,15,11,10,30,17,111,ACT,63,30,49,50,38
+368,followup_arm_1,41,Feminine,Superior,Married/United,White,8,13,8,40,21,128,ACT,63,30,49,50,38
+369,recrutamento_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,18,13,2,44,21,112,WL,76,39,48,61,50
+369,elegibilidade_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,18,13,2,44,21,112,WL,76,39,48,61,50
+369,reteste_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,18,6,0,37,20,99,WL,76,39,48,61,50
+369,elegibilidade_mini_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,18,6,0,37,22,100,WL,76,39,48,61,50
+369,desfechos_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,18,6,0,37,22,100,WL,76,39,48,61,50
+369,followup_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,17,7,1,34,23,108,WL,76,39,48,61,50
+369,desfechos_le_arm_1,23.7,Feminine,Nao Superior,Single/Divorced,White,8,6,1,26,27,74,WL,76,39,48,61,50
+393,recrutamento_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,24,15,10,37,17,80,CBT,62,40,20,42,53
+393,elegibilidade_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,24,15,10,37,17,80,CBT,62,40,20,42,53
+393,reteste_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,22,16,9,40,16,58,CBT,62,40,20,42,53
+393,elegibilidade_mini_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,22,16,9,40,9,114,CBT,62,40,20,42,53
+393,desfechos_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,22,16,9,40,9,114,CBT,62,40,20,42,53
+393,followup_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,22,16,10,41,9,109,CBT,62,40,20,42,53
+412,recrutamento_arm_1,42,Masculine,Superior,Married/United,Non White,17,4,4,13,23,112,CBT,38,37,41,52,56
+412,elegibilidade_arm_1,42,Masculine,Superior,Married/United,Non White,17,4,4,13,23,112,CBT,38,37,41,52,56
+412,reteste_arm_1,42,Masculine,Superior,Married/United,Non White,4,3,1,7,22,117,CBT,38,37,41,52,56
+412,elegibilidade_mini_arm_1,42,Masculine,Superior,Married/United,Non White,4,3,1,7,29,43,CBT,38,37,41,52,56
+412,desfechos_arm_1,42,Masculine,Superior,Married/United,Non White,4,3,1,7,29,43,CBT,38,37,41,52,56
+412,followup_arm_1,42,Masculine,Superior,Married/United,Non White,8,3,0,8,30,38,CBT,38,37,41,52,56
+435,recrutamento_arm_1,56.7,Feminine,Nao Superior,Single/Divorced,Non White,19,11,7,28,20,134,CBT,61,40,37,62,57
+435,elegibilidade_arm_1,56.7,Feminine,Nao Superior,Single/Divorced,Non White,19,11,7,28,20,134,CBT,61,40,37,62,57
+435,reteste_arm_1,56.7,Feminine,Nao Superior,Single/Divorced,Non White,19,11,7,28,25,129,CBT,61,40,37,62,57
+435,elegibilidade_mini_arm_1,56.7,Feminine,Nao Superior,Single/Divorced,Non White,19,11,7,28,25,129,CBT,61,40,37,62,57
+435,desfechos_arm_1,56.7,Feminine,Nao Superior,Single/Divorced,Non White,19,11,7,28,25,129,CBT,61,40,37,62,57
+437,recrutamento_arm_1,54,Feminine,Superior,Single/Divorced,White,16,16,14,39,11,125,ACT,58,40,56,61,47
+437,elegibilidade_arm_1,54,Feminine,Superior,Single/Divorced,White,16,16,14,39,11,125,ACT,58,40,56,61,47
+437,reteste_arm_1,54,Feminine,Superior,Single/Divorced,White,3,7,6,25,22,102,ACT,58,40,56,61,47
+437,elegibilidade_mini_arm_1,54,Feminine,Superior,Single/Divorced,White,3,7,6,25,44,29,ACT,58,40,56,61,47
+437,desfechos_arm_1,54,Feminine,Superior,Single/Divorced,White,3,7,6,25,44,29,ACT,58,40,56,61,47
+437,followup_arm_1,54,Feminine,Superior,Single/Divorced,White,5,13,6,34,41,55,ACT,58,40,56,61,47
+448,recrutamento_arm_1,26.6,Feminine,Superior,Married/United,Non White,26,9,5,24,9,124,ACT,62,54,41,59,46
+448,elegibilidade_arm_1,26.6,Feminine,Superior,Married/United,Non White,26,9,5,24,9,124,ACT,62,54,41,59,46
+448,reteste_arm_1,26.6,Feminine,Superior,Married/United,Non White,17,8,3,23,6,125,ACT,62,54,41,59,46
+448,elegibilidade_mini_arm_1,26.6,Feminine,Superior,Married/United,Non White,17,8,3,23,11,100,ACT,62,54,41,59,46
+448,desfechos_arm_1,26.6,Feminine,Superior,Married/United,Non White,17,8,3,23,11,100,ACT,62,54,41,59,46
+448,followup_arm_1,26.6,Feminine,Superior,Married/United,Non White,17,11,1,25,20,88,ACT,62,54,41,59,46
+470,recrutamento_arm_1,33.6,Masculine,Superior,Married/United,White,22,12,10,29,9,144,CBT,51,28,60,55,54
+470,elegibilidade_arm_1,33.6,Masculine,Superior,Married/United,White,22,12,10,29,9,144,CBT,51,28,60,55,54
+470,reteste_arm_1,33.6,Masculine,Superior,Married/United,White,8,5,2,9,8,145,CBT,51,28,60,55,54
+470,elegibilidade_mini_arm_1,33.6,Masculine,Superior,Married/United,White,8,5,2,9,31,51,CBT,51,28,60,55,54
+470,desfechos_arm_1,33.6,Masculine,Superior,Married/United,White,8,5,2,9,31,51,CBT,51,28,60,55,54
+470,followup_arm_1,33.6,Masculine,Superior,Married/United,White,9,5,2,12,27,66,CBT,51,28,60,55,54
+481,recrutamento_arm_1,34.5,Feminine,Superior,Married/United,White,22,10,4,29,21,113,ACT,71,60,56,50,32
+481,elegibilidade_arm_1,34.5,Feminine,Superior,Married/United,White,22,10,4,29,21,113,ACT,71,60,56,50,32
+481,reteste_arm_1,34.5,Feminine,Superior,Married/United,White,16,14,8,28,20,95,ACT,71,60,56,50,32
+481,elegibilidade_mini_arm_1,34.5,Feminine,Superior,Married/United,White,16,14,8,28,20,108,ACT,71,60,56,50,32
+481,desfechos_arm_1,34.5,Feminine,Superior,Married/United,White,16,14,8,28,20,108,ACT,71,60,56,50,32
+481,followup_arm_1,34.5,Feminine,Superior,Married/United,White,8,8,5,32,23,126,ACT,71,60,56,50,32
+489,recrutamento_arm_1,37.1,Feminine,Superior,Married/United,White,18,9,9,26,16,116,WL,43,33,60,42,66
+489,elegibilidade_arm_1,37.1,Feminine,Superior,Married/United,White,18,9,9,26,16,116,WL,43,33,60,42,66
+489,reteste_arm_1,37.1,Feminine,Superior,Married/United,White,17,6,3,17,29,102,WL,43,33,60,42,66
+489,elegibilidade_mini_arm_1,37.1,Feminine,Superior,Married/United,White,17,6,3,17,25,110,WL,43,33,60,42,66
+489,desfechos_arm_1,37.1,Feminine,Superior,Married/United,White,17,6,3,17,25,110,WL,43,33,60,42,66
+489,followup_arm_1,37.1,Feminine,Superior,Married/United,White,14,7,4,29,21,109,WL,43,33,60,42,66
+489,desfechos_le_arm_1,37.1,Feminine,Superior,Married/United,White,9,5,1,16,39,74,WL,43,33,60,42,66
+533,recrutamento_arm_1,50.7,Feminine,Superior,Married/United,White,19,14,5,20,38,81,CBT,65,49,41,48,56
+533,elegibilidade_arm_1,50.7,Feminine,Superior,Married/United,White,19,14,5,20,38,81,CBT,65,49,41,48,56
+533,reteste_arm_1,50.7,Feminine,Superior,Married/United,White,7,9,3,23,29,79,CBT,65,49,41,48,56
+533,elegibilidade_mini_arm_1,50.7,Feminine,Superior,Married/United,White,7,9,3,23,33,39,CBT,65,49,41,48,56
+533,desfechos_arm_1,50.7,Feminine,Superior,Married/United,White,7,9,3,23,33,39,CBT,65,49,41,48,56
+533,followup_arm_1,50.7,Feminine,Superior,Married/United,White,12,10,3,16,44,57,CBT,65,49,41,48,56
+549,recrutamento_arm_1,31.3,Masculine,Superior,Single/Divorced,White,18,15,8,25,16,129,CBT,45,52,49,52,54
+549,elegibilidade_arm_1,31.3,Masculine,Superior,Single/Divorced,White,18,15,8,25,16,129,CBT,45,52,49,52,54
+549,reteste_arm_1,31.3,Masculine,Superior,Single/Divorced,White,15,3,3,20,7,151,CBT,45,52,49,52,54
+549,elegibilidade_mini_arm_1,31.3,Masculine,Superior,Single/Divorced,White,15,3,3,20,26,115,CBT,45,52,49,52,54
+549,desfechos_arm_1,31.3,Masculine,Superior,Single/Divorced,White,15,3,3,20,26,115,CBT,45,52,49,52,54
+549,followup_arm_1,31.3,Masculine,Superior,Single/Divorced,White,7,5,4,14,24,104,CBT,45,52,49,52,54
+554,recrutamento_arm_1,44.7,Feminine,Superior,Married/United,Non White,24,9,7,34,11,144,WL,51,57,54,42,48
+554,elegibilidade_arm_1,44.7,Feminine,Superior,Married/United,Non White,24,9,7,34,11,144,WL,51,57,54,42,48
+554,reteste_arm_1,44.7,Feminine,Superior,Married/United,Non White,16,4,6,21,5,131,WL,51,57,54,42,48
+554,elegibilidade_mini_arm_1,44.7,Feminine,Superior,Married/United,Non White,16,4,6,21,12,108,WL,51,57,54,42,48
+554,desfechos_arm_1,44.7,Feminine,Superior,Married/United,Non White,16,4,6,21,12,108,WL,51,57,54,42,48
+554,followup_arm_1,44.7,Feminine,Superior,Married/United,Non White,19,4,9,22,9,117,WL,51,57,54,42,48
+554,desfechos_le_arm_1,44.7,Feminine,Superior,Married/United,Non White,14,4,6,31,9,107,WL,51,57,54,42,48
+564,recrutamento_arm_1,44.2,Feminine,Superior,Married/United,White,18,7,9,25,26,95,ACT,52,45,56,48,50
+564,elegibilidade_arm_1,44.2,Feminine,Superior,Married/United,White,18,7,9,25,26,95,ACT,52,45,56,48,50
+564,reteste_arm_1,44.2,Feminine,Superior,Married/United,White,14,8,6,23,28,109,ACT,52,45,56,48,50
+564,elegibilidade_mini_arm_1,44.2,Feminine,Superior,Married/United,White,14,8,6,23,37,86,ACT,52,45,56,48,50
+564,desfechos_arm_1,44.2,Feminine,Superior,Married/United,White,14,8,6,23,37,86,ACT,52,45,56,48,50
+564,followup_arm_1,44.2,Feminine,Superior,Married/United,White,16,9,8,23,32,100,ACT,52,45,56,48,50
+568,recrutamento_arm_1,55.1,Feminine,Superior,Married/United,Non White,24,7,7,15,24,109,ACT,28,42,49,62,48
+568,elegibilidade_arm_1,55.1,Feminine,Superior,Married/United,Non White,24,7,7,15,24,109,ACT,28,42,49,62,48
+568,reteste_arm_1,55.1,Feminine,Superior,Married/United,Non White,9,3,3,13,22,79,ACT,28,42,49,62,48
+568,elegibilidade_mini_arm_1,55.1,Feminine,Superior,Married/United,Non White,9,3,3,13,42,28,ACT,28,42,49,62,48
+568,desfechos_arm_1,55.1,Feminine,Superior,Married/United,Non White,9,3,3,13,42,28,ACT,28,42,49,62,48
+568,followup_arm_1,55.1,Feminine,Superior,Married/United,Non White,20,3,2,15,26,50,ACT,28,42,49,62,48
+571,recrutamento_arm_1,41.3,Feminine,Nao Superior,Married/United,White,25,7,1,17,12,97,WL,48,57,46,42,59
+571,elegibilidade_arm_1,41.3,Feminine,Nao Superior,Married/United,White,25,7,1,17,12,97,WL,48,57,46,42,59
+571,reteste_arm_1,41.3,Feminine,Nao Superior,Married/United,White,14,4,2,23,18,114,WL,48,57,46,42,59
+571,elegibilidade_mini_arm_1,41.3,Feminine,Nao Superior,Married/United,White,14,4,2,23,30,67,WL,48,57,46,42,59
+571,desfechos_arm_1,41.3,Feminine,Nao Superior,Married/United,White,14,4,2,23,30,67,WL,48,57,46,42,59
+571,followup_arm_1,41.3,Feminine,Nao Superior,Married/United,White,9,8,5,13,18,67,WL,48,57,46,42,59
+571,desfechos_le_arm_1,41.3,Feminine,Nao Superior,Married/United,White,15,6,3,19,33,66,WL,48,57,46,42,59
+596,recrutamento_arm_1,59.4,Feminine,Superior,Married/United,White,19,14,12,33,14,84,WL,62,59,37,42,57
+596,elegibilidade_arm_1,59.4,Feminine,Superior,Married/United,White,19,14,12,33,14,84,WL,62,59,37,42,57
+596,reteste_arm_1,59.4,Feminine,Superior,Married/United,White,14,13,13,29,19,75,WL,62,59,37,42,57
+596,elegibilidade_mini_arm_1,59.4,Feminine,Superior,Married/United,White,14,13,13,29,17,79,WL,62,59,37,42,57
+596,desfechos_arm_1,59.4,Feminine,Superior,Married/United,White,14,13,13,29,17,79,WL,62,59,37,42,57
+596,followup_arm_1,59.4,Feminine,Superior,Married/United,White,16,13,15,36,13,88,WL,62,59,37,42,57
+596,desfechos_le_arm_1,59.4,Feminine,Superior,Married/United,White,14,13,10,33,20,78,WL,62,59,37,42,57
+604,recrutamento_arm_1,39.6,Feminine,Nao Superior,Married/United,White,21,16,12,46,16,75,WL,66,33,23,44,50
+604,elegibilidade_arm_1,39.6,Feminine,Nao Superior,Married/United,White,21,16,12,46,16,75,WL,66,33,23,44,50
+604,elegibilidade_mini_arm_1,39.6,Feminine,Nao Superior,Married/United,White,18,10,11,45,21,57,WL,66,33,23,44,50
+604,desfechos_arm_1,39.6,Feminine,Nao Superior,Married/United,White,18,10,11,45,21,57,WL,66,33,23,44,50
+604,followup_arm_1,39.6,Feminine,Nao Superior,Married/United,White,20,12,12,33,22,66,WL,66,33,23,44,50
+604,desfechos_le_arm_1,39.6,Feminine,Nao Superior,Married/United,White,20,12,12,33,22,66,WL,66,33,23,44,50
+641,recrutamento_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,15,10,12,32,24,104,ACT,53,30,25,32,40
+641,elegibilidade_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,15,10,12,32,24,104,ACT,53,30,25,32,40
+641,elegibilidade_mini_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,12,7,11,25,27,78,ACT,53,30,25,32,40
+641,desfechos_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,12,7,11,25,27,78,ACT,53,30,25,32,40
+641,followup_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,3,6,7,17,39,60,ACT,53,30,25,32,40
+649,recrutamento_arm_1,38.2,Feminine,Superior,Married/United,White,23,11,2,32,21,132,WL,68,64,34,46,63
+649,elegibilidade_arm_1,38.2,Feminine,Superior,Married/United,White,23,11,2,32,21,132,WL,68,64,34,46,63
+649,reteste_arm_1,38.2,Feminine,Superior,Married/United,White,14,17,9,38,19,109,WL,68,64,34,46,63
+649,elegibilidade_mini_arm_1,38.2,Feminine,Superior,Married/United,White,14,17,9,38,15,120,WL,68,64,34,46,63
+649,desfechos_arm_1,38.2,Feminine,Superior,Married/United,White,14,17,9,38,15,120,WL,68,64,34,46,63
+649,followup_arm_1,38.2,Feminine,Superior,Married/United,White,14,17,9,38,15,120,WL,68,64,34,46,63
+651,recrutamento_arm_1,54,Masculine,Superior,Single/Divorced,White,26,14,10,29,11,152,CBT,63,37,58,52,38
+651,elegibilidade_arm_1,54,Masculine,Superior,Single/Divorced,White,26,14,10,29,11,152,CBT,63,37,58,52,38
+651,reteste_arm_1,54,Masculine,Superior,Single/Divorced,White,12,9,9,18,18,137,CBT,63,37,58,52,38
+651,elegibilidade_mini_arm_1,54,Masculine,Superior,Single/Divorced,White,12,9,9,18,21,50,CBT,63,37,58,52,38
+651,desfechos_arm_1,54,Masculine,Superior,Single/Divorced,White,12,9,9,18,21,50,CBT,63,37,58,52,38
+651,followup_arm_1,54,Masculine,Superior,Single/Divorced,White,6,8,4,19,30,41,CBT,63,37,58,52,38
+657,recrutamento_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,14,14,4,31,26,106,ACT,66,33,58,53,34
+657,elegibilidade_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,14,14,4,31,26,106,ACT,66,33,58,53,34
+657,reteste_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,9,9,8,31,21,115,ACT,66,33,58,53,34
+657,elegibilidade_mini_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,9,9,8,31,24,73,ACT,66,33,58,53,34
+657,desfechos_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,9,9,8,31,24,73,ACT,66,33,58,53,34
+657,followup_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,8,11,6,36,21,107,ACT,66,33,58,53,34
+660,recrutamento_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,18,7,5,17,24,75,CBT,53,54,42,61,56
+660,elegibilidade_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,18,7,5,17,24,75,CBT,53,54,42,61,56
+660,reteste_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,3,8,10,22,27,67,CBT,53,54,42,61,56
+660,elegibilidade_mini_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,3,8,10,22,29,13,CBT,53,54,42,61,56
+660,desfechos_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,3,8,10,22,29,13,CBT,53,54,42,61,56
+660,followup_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,3,8,10,20,21,5,CBT,53,54,42,61,56
+668,recrutamento_arm_1,31,Feminine,Superior,Single/Divorced,Non White,21,11,13,40,4,118,WL,73,42,32,35,34
+668,elegibilidade_arm_1,31,Feminine,Superior,Single/Divorced,Non White,21,11,13,40,4,118,WL,73,42,32,35,34
+668,reteste_arm_1,31,Feminine,Superior,Single/Divorced,Non White,19,12,10,39,15,133,WL,73,42,32,35,34
+668,elegibilidade_mini_arm_1,31,Feminine,Superior,Single/Divorced,Non White,19,12,10,39,18,112,WL,73,42,32,35,34
+668,desfechos_arm_1,31,Feminine,Superior,Single/Divorced,Non White,19,12,10,39,18,112,WL,73,42,32,35,34
+668,followup_arm_1,31,Feminine,Superior,Single/Divorced,Non White,20,9,9,40,13,125,WL,73,42,32,35,34
+668,desfechos_le_arm_1,31,Feminine,Superior,Single/Divorced,Non White,20,9,9,40,13,125,WL,73,42,32,35,34
+706,recrutamento_arm_1,54.6,Feminine,Superior,Married/United,White,16,9,8,23,20,122,CBT,49,42,49,52,41
+706,elegibilidade_arm_1,54.6,Feminine,Superior,Married/United,White,16,9,8,23,20,122,CBT,49,42,49,52,41
+706,reteste_arm_1,54.6,Feminine,Superior,Married/United,White,3,5,4,17,15,126,CBT,49,42,49,52,41
+706,elegibilidade_mini_arm_1,54.6,Feminine,Superior,Married/United,White,3,5,4,17,30,17,CBT,49,42,49,52,41
+706,desfechos_arm_1,54.6,Feminine,Superior,Married/United,White,3,5,4,17,30,17,CBT,49,42,49,52,41
+706,followup_arm_1,54.6,Feminine,Superior,Married/United,White,6,5,2,12,44,110,CBT,49,42,49,52,41
+707,recrutamento_arm_1,32.1,Feminine,Superior,Married/United,White,21,12,4,27,13,114,WL,41,52,53,71,66
+707,elegibilidade_arm_1,32.1,Feminine,Superior,Married/United,White,21,12,4,27,13,114,WL,41,52,53,71,66
+707,reteste_arm_1,32.1,Feminine,Superior,Married/United,White,21,12,4,27,18,127,WL,41,52,53,71,66
+707,elegibilidade_mini_arm_1,32.1,Feminine,Superior,Married/United,White,21,12,4,27,18,127,WL,41,52,53,71,66
+707,desfechos_arm_1,32.1,Feminine,Superior,Married/United,White,21,12,4,27,18,127,WL,41,52,53,71,66
+722,recrutamento_arm_1,38.5,Masculine,Superior,Single/Divorced,White,22,7,1,19,23,135,CBT,52,62,39,42,59
+722,elegibilidade_arm_1,38.5,Masculine,Superior,Single/Divorced,White,22,7,1,19,23,135,CBT,52,62,39,42,59
+722,reteste_arm_1,38.5,Masculine,Superior,Single/Divorced,White,16,4,1,13,22,119,CBT,52,62,39,42,59
+722,elegibilidade_mini_arm_1,38.5,Masculine,Superior,Single/Divorced,White,16,4,1,13,37,63,CBT,52,62,39,42,59
+722,desfechos_arm_1,38.5,Masculine,Superior,Single/Divorced,White,16,4,1,13,37,63,CBT,52,62,39,42,59
+722,followup_arm_1,38.5,Masculine,Superior,Single/Divorced,White,10,3,1,11,38,68,CBT,52,62,39,42,59
+734,recrutamento_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,24,12,12,44,5,136,ACT,75,20,46,53,22
+734,elegibilidade_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,24,12,12,44,5,136,ACT,75,20,46,53,22
+734,reteste_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,13,9,7,32,5,144,ACT,75,20,46,53,22
+734,elegibilidade_mini_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,13,9,7,32,12,101,ACT,75,20,46,53,22
+734,desfechos_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,13,9,7,32,12,101,ACT,75,20,46,53,22
+734,followup_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,16,16,13,45,6,112,ACT,75,20,46,53,22
+756,recrutamento_arm_1,27.2,Feminine,Superior,Single/Divorced,White,23,21,16,47,8,155,ACT,71,67,36,78,69
+756,elegibilidade_arm_1,27.2,Feminine,Superior,Single/Divorced,White,23,21,16,47,8,155,ACT,71,67,36,78,69
+756,reteste_arm_1,27.2,Feminine,Superior,Single/Divorced,White,23,21,16,47,5,121,ACT,71,67,36,78,69
+756,elegibilidade_mini_arm_1,27.2,Feminine,Superior,Single/Divorced,White,23,21,16,47,5,121,ACT,71,67,36,78,69
+756,desfechos_arm_1,27.2,Feminine,Superior,Single/Divorced,White,23,21,16,47,5,121,ACT,71,67,36,78,69
+776,recrutamento_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,18,11,4,27,19,87,CBT,58,45,44,52,48
+776,elegibilidade_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,18,11,4,27,19,87,CBT,58,45,44,52,48
+776,reteste_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,10,3,6,11,16,84,CBT,58,45,44,52,48
+776,elegibilidade_mini_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,10,3,6,11,24,32,CBT,58,45,44,52,48
+776,desfechos_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,10,3,6,11,24,32,CBT,58,45,44,52,48
+776,followup_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,7,4,5,22,18,29,CBT,58,45,44,52,48
+778,recrutamento_arm_1,57.8,Feminine,Superior,Married/United,White,20,8,5,25,24,75,ACT,52,49,54,64,50
+778,elegibilidade_arm_1,57.8,Feminine,Superior,Married/United,White,20,8,5,25,24,75,ACT,52,49,54,64,50
+778,reteste_arm_1,57.8,Feminine,Superior,Married/United,White,15,4,5,21,32,89,ACT,52,49,54,64,50
+778,elegibilidade_mini_arm_1,57.8,Feminine,Superior,Married/United,White,15,4,5,21,32,60,ACT,52,49,54,64,50
+778,desfechos_arm_1,57.8,Feminine,Superior,Married/United,White,15,4,5,21,32,60,ACT,52,49,54,64,50
+778,followup_arm_1,57.8,Feminine,Superior,Married/United,White,17,4,7,18,36,38,ACT,52,49,54,64,50
+790,recrutamento_arm_1,28.1,Masculine,Superior,Single/Divorced,White,19,7,14,29,14,107,WL,55,30,44,41,35
+790,elegibilidade_arm_1,28.1,Masculine,Superior,Single/Divorced,White,19,7,14,29,14,107,WL,55,30,44,41,35
+790,reteste_arm_1,28.1,Masculine,Superior,Single/Divorced,White,16,7,11,26,15,114,WL,55,30,44,41,35
+790,elegibilidade_mini_arm_1,28.1,Masculine,Superior,Single/Divorced,White,16,7,11,26,22,112,WL,55,30,44,41,35
+790,desfechos_arm_1,28.1,Masculine,Superior,Single/Divorced,White,16,7,11,26,22,112,WL,55,30,44,41,35
+790,followup_arm_1,28.1,Masculine,Superior,Single/Divorced,White,16,7,11,26,22,112,WL,55,30,44,41,35
+794,recrutamento_arm_1,37.4,Masculine,Superior,Single/Divorced,White,18,11,9,31,24,103,WL,51,50,39,39,47
+794,elegibilidade_arm_1,37.4,Masculine,Superior,Single/Divorced,White,18,11,9,31,24,103,WL,51,50,39,39,47
+794,reteste_arm_1,37.4,Masculine,Superior,Single/Divorced,White,9,3,8,18,28,85,WL,51,50,39,39,47
+794,elegibilidade_mini_arm_1,37.4,Masculine,Superior,Single/Divorced,White,9,3,8,18,36,71,WL,51,50,39,39,47
+794,desfechos_arm_1,37.4,Masculine,Superior,Single/Divorced,White,9,3,8,18,36,71,WL,51,50,39,39,47
+794,followup_arm_1,37.4,Masculine,Superior,Single/Divorced,White,12,7,8,18,35,77,WL,51,50,39,39,47
+794,desfechos_le_arm_1,37.4,Masculine,Superior,Single/Divorced,White,6,4,4,19,40,53,WL,51,50,39,39,47
+812,recrutamento_arm_1,45.5,Feminine,Superior,Married/United,White,19,9,12,11,11,125,WL,51,27,61,50,66
+812,elegibilidade_arm_1,45.5,Feminine,Superior,Married/United,White,19,9,12,11,11,125,WL,51,27,61,50,66
+812,reteste_arm_1,45.5,Feminine,Superior,Married/United,White,17,11,13,15,11,133,WL,51,27,61,50,66
+812,elegibilidade_mini_arm_1,45.5,Feminine,Superior,Married/United,White,17,11,13,15,13,133,WL,51,27,61,50,66
+812,desfechos_arm_1,45.5,Feminine,Superior,Married/United,White,17,11,13,15,13,133,WL,51,27,61,50,66
+812,followup_arm_1,45.5,Feminine,Superior,Married/United,White,16,4,11,21,24,119,WL,51,27,61,50,66
+812,desfechos_le_arm_1,45.5,Feminine,Superior,Married/United,White,9,6,8,15,37,81,WL,51,27,61,50,66
+822,recrutamento_arm_1,42.5,Feminine,Nao Superior,Married/United,White,25,14,9,32,14,129,CBT,62,50,29,61,59
+822,elegibilidade_arm_1,42.5,Feminine,Nao Superior,Married/United,White,25,14,9,32,14,129,CBT,62,50,29,61,59
+822,reteste_arm_1,42.5,Feminine,Nao Superior,Married/United,White,25,14,9,32,15,115,CBT,62,50,29,61,59
+822,elegibilidade_mini_arm_1,42.5,Feminine,Nao Superior,Married/United,White,25,14,9,32,15,115,CBT,62,50,29,61,59
+822,desfechos_arm_1,42.5,Feminine,Nao Superior,Married/United,White,25,14,9,32,15,115,CBT,62,50,29,61,59
+824,recrutamento_arm_1,46.7,Feminine,Superior,Married/United,Non White,22,8,12,27,4,136,ACT,55,39,34,59,53
+824,elegibilidade_arm_1,46.7,Feminine,Superior,Married/United,Non White,22,8,12,27,4,136,ACT,55,39,34,59,53
+824,reteste_arm_1,46.7,Feminine,Superior,Married/United,Non White,16,7,8,36,3,142,ACT,55,39,34,59,53
+824,elegibilidade_mini_arm_1,46.7,Feminine,Superior,Married/United,Non White,16,7,8,36,3,136,ACT,55,39,34,59,53
+824,desfechos_arm_1,46.7,Feminine,Superior,Married/United,Non White,16,7,8,36,3,136,ACT,55,39,34,59,53
+824,followup_arm_1,46.7,Feminine,Superior,Married/United,Non White,19,6,7,34,7,153,ACT,55,39,34,59,53
+825,recrutamento_arm_1,42.4,Feminine,Superior,Married/United,White,15,11,10,35,24,100,WL,78,28,56,66,50
+825,elegibilidade_arm_1,42.4,Feminine,Superior,Married/United,White,15,11,10,35,24,100,WL,78,28,56,66,50
+825,reteste_arm_1,42.4,Feminine,Superior,Married/United,White,14,15,13,45,21,106,WL,78,28,56,66,50
+825,elegibilidade_mini_arm_1,42.4,Feminine,Superior,Married/United,White,14,15,13,45,23,103,WL,78,28,56,66,50
+825,desfechos_arm_1,42.4,Feminine,Superior,Married/United,White,14,15,13,45,23,103,WL,78,28,56,66,50
+825,followup_arm_1,42.4,Feminine,Superior,Married/United,White,15,11,12,35,21,91,WL,78,28,56,66,50
+825,desfechos_le_arm_1,42.4,Feminine,Superior,Married/United,White,2,12,13,38,30,55,WL,78,28,56,66,50
+836,recrutamento_arm_1,52.8,Feminine,Superior,Single/Divorced,White,26,10,10,18,16,89,WL,41,39,36,66,63
+836,elegibilidade_arm_1,52.8,Feminine,Superior,Single/Divorced,White,26,10,10,18,16,89,WL,41,39,36,66,63
+836,reteste_arm_1,52.8,Feminine,Superior,Single/Divorced,White,22,3,5,12,20,91,WL,41,39,36,66,63
+836,elegibilidade_mini_arm_1,52.8,Feminine,Superior,Single/Divorced,White,22,3,5,12,18,82,WL,41,39,36,66,63
+836,desfechos_arm_1,52.8,Feminine,Superior,Single/Divorced,White,22,3,5,12,18,82,WL,41,39,36,66,63
+836,followup_arm_1,52.8,Feminine,Superior,Single/Divorced,White,25,7,5,18,21,122,WL,41,39,36,66,63
+836,desfechos_le_arm_1,52.8,Feminine,Superior,Single/Divorced,White,13,2,2,13,30,68,WL,41,39,36,66,63
+856,recrutamento_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,24,7,4,28,11,142,WL,48,47,32,62,60
+856,elegibilidade_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,24,7,4,28,11,142,WL,48,47,32,62,60
+856,reteste_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,25,5,1,12,19,137,WL,48,47,32,62,60
+856,elegibilidade_mini_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,25,5,1,12,24,146,WL,48,47,32,62,60
+856,desfechos_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,25,5,1,12,24,146,WL,48,47,32,62,60
+856,followup_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,21,6,1,13,23,137,WL,48,47,32,62,60
+856,desfechos_le_arm_1,53.4,Feminine,Nao Superior,Married/United,Non White,21,5,1,12,25,132,WL,48,47,32,62,60
+858,recrutamento_arm_1,51.2,Feminine,Superior,Single/Divorced,White,20,9,12,26,11,113,WL,39,50,49,59,53
+858,elegibilidade_arm_1,51.2,Feminine,Superior,Single/Divorced,White,20,9,12,26,11,113,WL,39,50,49,59,53
+858,reteste_arm_1,51.2,Feminine,Superior,Single/Divorced,White,19,2,4,16,18,138,WL,39,50,49,59,53
+858,elegibilidade_mini_arm_1,51.2,Feminine,Superior,Single/Divorced,White,19,2,4,16,18,139,WL,39,50,49,59,53
+858,desfechos_arm_1,51.2,Feminine,Superior,Single/Divorced,White,19,2,4,16,18,139,WL,39,50,49,59,53
+858,followup_arm_1,51.2,Feminine,Superior,Single/Divorced,White,25,5,4,14,18,119,WL,39,50,49,59,53
+858,desfechos_le_arm_1,51.2,Feminine,Superior,Single/Divorced,White,6,2,2,12,29,90,WL,39,50,49,59,53
+863,recrutamento_arm_1,31.1,Masculine,Superior,Married/United,White,19,10,3,12,41,61,ACT,49,42,54,64,60
+863,elegibilidade_arm_1,31.1,Masculine,Superior,Married/United,White,19,10,3,12,41,61,ACT,49,42,54,64,60
+863,reteste_arm_1,31.1,Masculine,Superior,Married/United,White,17,9,3,14,34,71,ACT,49,42,54,64,60
+863,elegibilidade_mini_arm_1,31.1,Masculine,Superior,Married/United,White,17,9,3,14,33,83,ACT,49,42,54,64,60
+863,desfechos_arm_1,31.1,Masculine,Superior,Married/United,White,17,9,3,14,33,83,ACT,49,42,54,64,60
+863,followup_arm_1,31.1,Masculine,Superior,Married/United,White,21,8,2,14,33,83,ACT,49,42,54,64,60
+870,recrutamento_arm_1,47,Feminine,Superior,Married/United,Non White,14,6,4,27,15,105,CBT,43,50,49,66,47
+870,elegibilidade_arm_1,47,Feminine,Superior,Married/United,Non White,14,6,4,27,15,105,CBT,43,50,49,66,47
+870,reteste_arm_1,47,Feminine,Superior,Married/United,Non White,6,5,4,10,19,128,CBT,43,50,49,66,47
+870,elegibilidade_mini_arm_1,47,Feminine,Superior,Married/United,Non White,6,5,4,10,27,30,CBT,43,50,49,66,47
+870,desfechos_arm_1,47,Feminine,Superior,Married/United,Non White,6,5,4,10,27,30,CBT,43,50,49,66,47
+870,followup_arm_1,47,Feminine,Superior,Married/United,Non White,5,2,1,9,26,31,CBT,43,50,49,66,47
+885,recrutamento_arm_1,39,Feminine,Superior,Married/United,White,18,13,16,33,1,140,CBT,63,20,66,50,51
+885,elegibilidade_arm_1,39,Feminine,Superior,Married/United,White,18,13,16,33,1,140,CBT,63,20,66,50,51
+885,reteste_arm_1,39,Feminine,Superior,Married/United,White,18,13,16,33,2,139,CBT,63,20,66,50,51
+885,elegibilidade_mini_arm_1,39,Feminine,Superior,Married/United,White,18,13,16,33,2,139,CBT,63,20,66,50,51
+885,desfechos_arm_1,39,Feminine,Superior,Married/United,White,18,13,16,33,2,139,CBT,63,20,66,50,51
+893,recrutamento_arm_1,54.6,Feminine,Superior,Single/Divorced,White,16,6,4,9,18,120,ACT,38,60,54,71,66
+893,elegibilidade_arm_1,54.6,Feminine,Superior,Single/Divorced,White,16,6,4,9,18,120,ACT,38,60,54,71,66
+893,reteste_arm_1,54.6,Feminine,Superior,Single/Divorced,White,10,5,7,9,18,119,ACT,38,60,54,71,66
+893,elegibilidade_mini_arm_1,54.6,Feminine,Superior,Single/Divorced,White,10,5,7,9,21,121,ACT,38,60,54,71,66
+893,desfechos_arm_1,54.6,Feminine,Superior,Single/Divorced,White,10,5,7,9,21,121,ACT,38,60,54,71,66
+893,followup_arm_1,54.6,Feminine,Superior,Single/Divorced,White,6,4,6,21,24,102,ACT,38,60,54,71,66
+917,recrutamento_arm_1,24.1,Masculine,Superior,Single/Divorced,White,24,7,2,21,25,133,CBT,63,35,48,20,34
+917,elegibilidade_arm_1,24.1,Masculine,Superior,Single/Divorced,White,24,7,2,21,25,133,CBT,63,35,48,20,34
+917,reteste_arm_1,24.1,Masculine,Superior,Single/Divorced,White,4,1,3,10,21,137,CBT,63,35,48,20,34
+917,elegibilidade_mini_arm_1,24.1,Masculine,Superior,Single/Divorced,White,4,1,3,10,48,11,CBT,63,35,48,20,34
+917,desfechos_arm_1,24.1,Masculine,Superior,Single/Divorced,White,4,1,3,10,48,11,CBT,63,35,48,20,34
+917,followup_arm_1,24.1,Masculine,Superior,Single/Divorced,White,4,1,3,10,48,11,CBT,63,35,48,20,34
+922,recrutamento_arm_1,32.3,Feminine,Superior,Single/Divorced,White,18,9,12,35,21,89,CBT,46,33,32,50,59
+922,elegibilidade_arm_1,32.3,Feminine,Superior,Single/Divorced,White,18,9,12,35,21,89,CBT,46,33,32,50,59
+922,reteste_arm_1,32.3,Feminine,Superior,Single/Divorced,White,11,9,7,34,24,113,CBT,46,33,32,50,59
+922,elegibilidade_mini_arm_1,32.3,Feminine,Superior,Single/Divorced,White,11,9,7,34,25,67,CBT,46,33,32,50,59
+922,desfechos_arm_1,32.3,Feminine,Superior,Single/Divorced,White,11,9,7,34,25,67,CBT,46,33,32,50,59
+922,followup_arm_1,32.3,Feminine,Superior,Single/Divorced,White,13,7,12,30,23,70,CBT,46,33,32,50,59
+926,recrutamento_arm_1,38.8,Feminine,Superior,Married/United,White,20,10,10,25,13,123,ACT,62,49,37,70,60
+926,elegibilidade_arm_1,38.8,Feminine,Superior,Married/United,White,20,10,10,25,13,123,ACT,62,49,37,70,60
+926,reteste_arm_1,38.8,Feminine,Superior,Married/United,White,17,10,10,25,15,107,ACT,62,49,37,70,60
+926,elegibilidade_mini_arm_1,38.8,Feminine,Superior,Married/United,White,17,10,10,25,11,127,ACT,62,49,37,70,60
+926,desfechos_arm_1,38.8,Feminine,Superior,Married/United,White,17,10,10,25,11,127,ACT,62,49,37,70,60
+926,followup_arm_1,38.8,Feminine,Superior,Married/United,White,17,12,7,32,24,127,ACT,62,49,37,70,60
+928,recrutamento_arm_1,41.9,Feminine,Superior,Married/United,White,25,8,9,29,NA,NA,ACT,59,50,36,59,53
+928,elegibilidade_arm_1,41.9,Feminine,Superior,Married/United,White,25,8,9,29,NA,NA,ACT,59,50,36,59,53
+928,elegibilidade_mini_arm_1,41.9,Feminine,Superior,Married/United,White,25,8,9,29,NA,NA,ACT,59,50,36,59,53
+928,desfechos_arm_1,41.9,Feminine,Superior,Married/United,White,25,8,9,29,NA,NA,ACT,59,50,36,59,53
+929,recrutamento_arm_1,31.4,Masculine,Superior,Single/Divorced,White,9,6,4,24,9,119,CBT,59,50,44,50,40
+929,elegibilidade_arm_1,31.4,Masculine,Superior,Single/Divorced,White,9,6,4,24,9,119,CBT,59,50,44,50,40
+929,reteste_arm_1,31.4,Masculine,Superior,Single/Divorced,White,10,6,5,19,9,105,CBT,59,50,44,50,40
+929,elegibilidade_mini_arm_1,31.4,Masculine,Superior,Single/Divorced,White,10,6,5,19,29,71,CBT,59,50,44,50,40
+929,desfechos_arm_1,31.4,Masculine,Superior,Single/Divorced,White,10,6,5,19,29,71,CBT,59,50,44,50,40
+929,followup_arm_1,31.4,Masculine,Superior,Single/Divorced,White,9,6,5,22,32,82,CBT,59,50,44,50,40
+930,recrutamento_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,13,15,14,37,25,120,CBT,NA,NA,NA,NA,NA
+930,elegibilidade_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,13,15,14,37,25,120,CBT,NA,NA,NA,NA,NA
+930,elegibilidade_mini_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,4,14,8,29,41,22,CBT,NA,NA,NA,NA,NA
+930,desfechos_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,4,14,8,29,41,22,CBT,NA,NA,NA,NA,NA
+930,followup_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,10,12,6,21,42,18,CBT,NA,NA,NA,NA,NA
+939,recrutamento_arm_1,49.3,Feminine,Superior,Married/United,White,15,1,1,9,19,93,ACT,33,45,39,64,60
+939,elegibilidade_arm_1,49.3,Feminine,Superior,Married/United,White,15,1,1,9,19,93,ACT,33,45,39,64,60
+939,reteste_arm_1,49.3,Feminine,Superior,Married/United,White,9,4,1,13,6,116,ACT,33,45,39,64,60
+939,elegibilidade_mini_arm_1,49.3,Feminine,Superior,Married/United,White,9,4,1,13,23,82,ACT,33,45,39,64,60
+939,desfechos_arm_1,49.3,Feminine,Superior,Married/United,White,9,4,1,13,23,82,ACT,33,45,39,64,60
+939,followup_arm_1,49.3,Feminine,Superior,Married/United,White,3,2,1,13,21,66,ACT,33,45,39,64,60
+942,recrutamento_arm_1,26.7,Masculine,Nao Superior,Single/Divorced,White,19,13,9,33,1,149,ACT,63,37,37,57,51
+942,elegibilidade_arm_1,26.7,Masculine,Nao Superior,Single/Divorced,White,19,13,9,33,1,149,ACT,63,37,37,57,51
+942,reteste_arm_1,26.7,Masculine,Nao Superior,Single/Divorced,White,19,13,9,33,4,153,ACT,63,37,37,57,51
+942,elegibilidade_mini_arm_1,26.7,Masculine,Nao Superior,Single/Divorced,White,19,13,9,33,4,153,ACT,63,37,37,57,51
+942,desfechos_arm_1,26.7,Masculine,Nao Superior,Single/Divorced,White,19,13,9,33,4,153,ACT,63,37,37,57,51
+979,recrutamento_arm_1,33.2,Feminine,Superior,Married/United,White,20,7,2,17,20,100,ACT,51,57,49,50,32
+979,elegibilidade_arm_1,33.2,Feminine,Superior,Married/United,White,20,7,2,17,20,100,ACT,51,57,49,50,32
+979,reteste_arm_1,33.2,Feminine,Superior,Married/United,White,8,5,2,10,21,120,ACT,51,57,49,50,32
+979,elegibilidade_mini_arm_1,33.2,Feminine,Superior,Married/United,White,8,5,2,10,28,51,ACT,51,57,49,50,32
+979,desfechos_arm_1,33.2,Feminine,Superior,Married/United,White,8,5,2,10,28,51,ACT,51,57,49,50,32
+979,followup_arm_1,33.2,Feminine,Superior,Married/United,White,10,10,2,16,24,59,ACT,51,57,49,50,32
+1001,recrutamento_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,23,13,11,37,20,125,WL,72,32,56,30,46
+1001,elegibilidade_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,23,13,11,37,20,125,WL,72,32,56,30,46
+1001,reteste_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,22,12,12,38,19,132,WL,72,32,56,30,46
+1001,elegibilidade_mini_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,22,12,12,38,17,147,WL,72,32,56,30,46
+1001,desfechos_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,22,12,12,38,17,147,WL,72,32,56,30,46
+1001,followup_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,18,12,15,39,25,128,WL,72,32,56,30,46
+1001,desfechos_le_arm_1,30.5,Masculine,Superior,Single/Divorced,Non White,9,11,12,35,23,106,WL,72,32,56,30,46
+1026,recrutamento_arm_1,35.8,Feminine,Nao Superior,Single/Divorced,Non White,22,10,13,42,6,147,CBT,56,35,63,37,31
+1026,elegibilidade_arm_1,35.8,Feminine,Nao Superior,Single/Divorced,Non White,22,10,13,42,6,147,CBT,56,35,63,37,31
+1026,reteste_arm_1,35.8,Feminine,Nao Superior,Single/Divorced,Non White,22,10,13,42,5,145,CBT,56,35,63,37,31
+1026,elegibilidade_mini_arm_1,35.8,Feminine,Nao Superior,Single/Divorced,Non White,22,10,13,42,5,145,CBT,56,35,63,37,31
+1026,desfechos_arm_1,35.8,Feminine,Nao Superior,Single/Divorced,Non White,22,10,13,42,5,145,CBT,56,35,63,37,31
+1057,recrutamento_arm_1,42.1,Feminine,Superior,Single/Divorced,White,17,11,6,28,18,103,CBT,58,47,58,57,57
+1057,elegibilidade_arm_1,42.1,Feminine,Superior,Single/Divorced,White,17,11,6,28,18,103,CBT,58,47,58,57,57
+1057,reteste_arm_1,42.1,Feminine,Superior,Single/Divorced,White,7,8,2,14,19,88,CBT,58,47,58,57,57
+1057,elegibilidade_mini_arm_1,42.1,Feminine,Superior,Single/Divorced,White,7,8,2,14,25,71,CBT,58,47,58,57,57
+1057,desfechos_arm_1,42.1,Feminine,Superior,Single/Divorced,White,7,8,2,14,25,71,CBT,58,47,58,57,57
+1057,followup_arm_1,42.1,Feminine,Superior,Single/Divorced,White,6,9,3,20,33,24,CBT,58,47,58,57,57
+1075,recrutamento_arm_1,50.9,Feminine,Superior,Single/Divorced,White,20,6,9,12,28,102,CBT,62,40,46,33,47
+1075,elegibilidade_arm_1,50.9,Feminine,Superior,Single/Divorced,White,20,6,9,12,28,102,CBT,62,40,46,33,47
+1075,reteste_arm_1,50.9,Feminine,Superior,Single/Divorced,White,8,6,5,11,20,129,CBT,62,40,46,33,47
+1075,elegibilidade_mini_arm_1,50.9,Feminine,Superior,Single/Divorced,White,8,6,5,11,29,90,CBT,62,40,46,33,47
+1075,desfechos_arm_1,50.9,Feminine,Superior,Single/Divorced,White,8,6,5,11,29,90,CBT,62,40,46,33,47
+1075,followup_arm_1,50.9,Feminine,Superior,Single/Divorced,White,5,5,7,22,36,61,CBT,62,40,46,33,47
+1076,recrutamento_arm_1,37.6,Feminine,Superior,Married/United,White,19,14,10,28,28,77,WL,59,50,42,46,65
+1076,elegibilidade_arm_1,37.6,Feminine,Superior,Married/United,White,19,14,10,28,28,77,WL,59,50,42,46,65
+1076,reteste_arm_1,37.6,Feminine,Superior,Married/United,White,15,16,11,15,37,64,WL,59,50,42,46,65
+1076,elegibilidade_mini_arm_1,37.6,Feminine,Superior,Married/United,White,15,16,11,15,35,72,WL,59,50,42,46,65
+1076,desfechos_arm_1,37.6,Feminine,Superior,Married/United,White,15,16,11,15,35,72,WL,59,50,42,46,65
+1076,followup_arm_1,37.6,Feminine,Superior,Married/United,White,14,11,8,16,35,57,WL,59,50,42,46,65
+1078,recrutamento_arm_1,49.2,Masculine,Superior,Married/United,White,24,4,4,24,19,64,ACT,55,44,56,64,56
+1078,elegibilidade_arm_1,49.2,Masculine,Superior,Married/United,White,24,4,4,24,19,64,ACT,55,44,56,64,56
+1078,reteste_arm_1,49.2,Masculine,Superior,Married/United,White,18,5,4,22,25,65,ACT,55,44,56,64,56
+1078,elegibilidade_mini_arm_1,49.2,Masculine,Superior,Married/United,White,18,5,4,22,24,61,ACT,55,44,56,64,56
+1078,desfechos_arm_1,49.2,Masculine,Superior,Married/United,White,18,5,4,22,24,61,ACT,55,44,56,64,56
+1078,followup_arm_1,49.2,Masculine,Superior,Married/United,White,7,3,2,11,48,32,ACT,55,44,56,64,56
+1123,recrutamento_arm_1,38.7,Feminine,Superior,Married/United,Non White,19,10,9,36,2,125,WL,NA,NA,NA,NA,NA
+1123,elegibilidade_arm_1,38.7,Feminine,Superior,Married/United,Non White,19,10,9,36,2,125,WL,NA,NA,NA,NA,NA
+1123,reteste_arm_1,38.7,Feminine,Superior,Married/United,Non White,23,12,13,40,8,136,WL,NA,NA,NA,NA,NA
+1123,elegibilidade_mini_arm_1,38.7,Feminine,Superior,Married/United,Non White,23,12,13,40,6,144,WL,NA,NA,NA,NA,NA
+1123,desfechos_arm_1,38.7,Feminine,Superior,Married/United,Non White,23,12,13,40,6,144,WL,NA,NA,NA,NA,NA
+1123,followup_arm_1,38.7,Feminine,Superior,Married/United,Non White,25,13,11,40,4,144,WL,NA,NA,NA,NA,NA
+1123,desfechos_le_arm_1,38.7,Feminine,Superior,Married/United,Non White,25,13,11,40,4,144,WL,NA,NA,NA,NA,NA
+1138,recrutamento_arm_1,35.8,Feminine,Superior,Married/United,Non White,15,6,5,19,23,68,WL,43,57,41,48,60
+1138,elegibilidade_arm_1,35.8,Feminine,Superior,Married/United,Non White,15,6,5,19,23,68,WL,43,57,41,48,60
+1138,reteste_arm_1,35.8,Feminine,Superior,Married/United,Non White,12,4,3,8,29,89,WL,43,57,41,48,60
+1138,elegibilidade_mini_arm_1,35.8,Feminine,Superior,Married/United,Non White,12,4,3,8,25,70,WL,43,57,41,48,60
+1138,desfechos_arm_1,35.8,Feminine,Superior,Married/United,Non White,12,4,3,8,25,70,WL,43,57,41,48,60
+1138,followup_arm_1,35.8,Feminine,Superior,Married/United,Non White,8,5,1,7,25,68,WL,43,57,41,48,60
+1138,desfechos_le_arm_1,35.8,Feminine,Superior,Married/United,Non White,4,4,3,8,26,34,WL,43,57,41,48,60
+1145,recrutamento_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,18,16,11,39,22,133,WL,78,35,58,61,22
+1145,elegibilidade_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,18,16,11,39,22,133,WL,78,35,58,61,22
+1145,reteste_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,21,15,11,34,7,138,WL,78,35,58,61,22
+1145,elegibilidade_mini_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,21,15,11,34,14,117,WL,78,35,58,61,22
+1145,desfechos_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,21,15,11,34,14,117,WL,78,35,58,61,22
+1145,followup_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,19,15,12,38,15,127,WL,78,35,58,61,22
+1145,desfechos_le_arm_1,21.9,Feminine,Nao Superior,Single/Divorced,White,10,11,8,27,34,84,WL,78,35,58,61,22
+1178,recrutamento_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,16,12,8,24,19,90,CBT,61,49,61,42,62
+1178,elegibilidade_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,16,12,8,24,19,90,CBT,61,49,61,42,62
+1178,reteste_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,7,6,1,12,18,64,CBT,61,49,61,42,62
+1178,elegibilidade_mini_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,7,6,1,12,40,12,CBT,61,49,61,42,62
+1178,desfechos_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,7,6,1,12,40,12,CBT,61,49,61,42,62
+1178,followup_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,5,6,3,10,43,18,CBT,61,49,61,42,62
+1183,recrutamento_arm_1,33.8,Feminine,Nao Superior,Single/Divorced,White,15,6,8,32,9,88,CBT,51,22,48,62,38
+1183,elegibilidade_arm_1,33.8,Feminine,Nao Superior,Single/Divorced,White,15,6,8,32,9,88,CBT,51,22,48,62,38
+1183,reteste_arm_1,33.8,Feminine,Nao Superior,Single/Divorced,White,15,6,8,32,13,70,CBT,51,22,48,62,38
+1183,elegibilidade_mini_arm_1,33.8,Feminine,Nao Superior,Single/Divorced,White,15,6,8,32,13,70,CBT,51,22,48,62,38
+1183,desfechos_arm_1,33.8,Feminine,Nao Superior,Single/Divorced,White,15,6,8,32,13,70,CBT,51,22,48,62,38
+1191,recrutamento_arm_1,27.2,Feminine,Superior,Married/United,White,17,13,17,21,20,90,ACT,61,60,42,55,59
+1191,elegibilidade_arm_1,27.2,Feminine,Superior,Married/United,White,17,13,17,21,20,90,ACT,61,60,42,55,59
+1191,reteste_arm_1,27.2,Feminine,Superior,Married/United,White,12,13,12,22,18,102,ACT,61,60,42,55,59
+1191,elegibilidade_mini_arm_1,27.2,Feminine,Superior,Married/United,White,12,13,12,22,29,82,ACT,61,60,42,55,59
+1191,desfechos_arm_1,27.2,Feminine,Superior,Married/United,White,12,13,12,22,29,82,ACT,61,60,42,55,59
+1191,followup_arm_1,27.2,Feminine,Superior,Married/United,White,13,10,15,19,22,115,ACT,61,60,42,55,59
+1221,recrutamento_arm_1,26.8,Feminine,Superior,Single/Divorced,White,15,15,5,31,18,101,WL,65,33,49,46,25
+1221,elegibilidade_arm_1,26.8,Feminine,Superior,Single/Divorced,White,15,15,5,31,18,101,WL,65,33,49,46,25
+1221,reteste_arm_1,26.8,Feminine,Superior,Single/Divorced,White,12,9,7,22,25,90,WL,65,33,49,46,25
+1221,elegibilidade_mini_arm_1,26.8,Feminine,Superior,Single/Divorced,White,12,9,7,22,37,95,WL,65,33,49,46,25
+1221,desfechos_arm_1,26.8,Feminine,Superior,Single/Divorced,White,12,9,7,22,37,95,WL,65,33,49,46,25
+1221,followup_arm_1,26.8,Feminine,Superior,Single/Divorced,White,13,10,5,20,26,61,WL,65,33,49,46,25
+1221,desfechos_le_arm_1,26.8,Feminine,Superior,Single/Divorced,White,10,7,4,27,29,40,WL,65,33,49,46,25
+1223,recrutamento_arm_1,29.4,Feminine,Nao Superior,Single/Divorced,Non White,20,16,13,39,3,108,CBT,76,39,41,28,21
+1223,elegibilidade_arm_1,29.4,Feminine,Nao Superior,Single/Divorced,Non White,20,16,13,39,3,108,CBT,76,39,41,28,21
+1223,reteste_arm_1,29.4,Feminine,Nao Superior,Single/Divorced,Non White,20,16,13,39,9,95,CBT,76,39,41,28,21
+1223,elegibilidade_mini_arm_1,29.4,Feminine,Nao Superior,Single/Divorced,Non White,20,16,13,39,9,95,CBT,76,39,41,28,21
+1223,desfechos_arm_1,29.4,Feminine,Nao Superior,Single/Divorced,Non White,20,16,13,39,9,95,CBT,76,39,41,28,21
+1244,recrutamento_arm_1,31,Feminine,Superior,Married/United,White,20,14,5,26,21,116,ACT,65,50,70,57,66
+1244,elegibilidade_arm_1,31,Feminine,Superior,Married/United,White,20,14,5,26,21,116,ACT,65,50,70,57,66
+1244,reteste_arm_1,31,Feminine,Superior,Married/United,White,3,5,1,15,26,104,ACT,65,50,70,57,66
+1244,elegibilidade_mini_arm_1,31,Feminine,Superior,Married/United,White,3,5,1,15,42,61,ACT,65,50,70,57,66
+1244,desfechos_arm_1,31,Feminine,Superior,Married/United,White,3,5,1,15,42,61,ACT,65,50,70,57,66
+1244,followup_arm_1,31,Feminine,Superior,Married/United,White,7,7,1,14,42,61,ACT,65,50,70,57,66
+1245,recrutamento_arm_1,27.3,Feminine,Superior,Married/United,Non White,27,20,15,47,5,137,WL,38,49,51,71,68
+1245,elegibilidade_arm_1,27.3,Feminine,Superior,Married/United,Non White,27,20,15,47,5,137,WL,38,49,51,71,68
+1245,reteste_arm_1,27.3,Feminine,Superior,Married/United,Non White,19,20,12,41,16,119,WL,38,49,51,71,68
+1245,elegibilidade_mini_arm_1,27.3,Feminine,Superior,Married/United,Non White,19,20,12,41,11,139,WL,38,49,51,71,68
+1245,desfechos_arm_1,27.3,Feminine,Superior,Married/United,Non White,19,20,12,41,11,139,WL,38,49,51,71,68
+1245,followup_arm_1,27.3,Feminine,Superior,Married/United,Non White,23,19,18,40,2,140,WL,38,49,51,71,68
+1245,desfechos_le_arm_1,27.3,Feminine,Superior,Married/United,Non White,23,19,18,40,2,140,WL,38,49,51,71,68
+1292,recrutamento_arm_1,48.2,Feminine,Superior,Married/United,Non White,14,6,6,8,28,81,ACT,42,40,34,61,56
+1292,elegibilidade_arm_1,48.2,Feminine,Superior,Married/United,Non White,14,6,6,8,28,81,ACT,42,40,34,61,56
+1292,reteste_arm_1,48.2,Feminine,Superior,Married/United,Non White,0,2,2,9,34,91,ACT,42,40,34,61,56
+1292,elegibilidade_mini_arm_1,48.2,Feminine,Superior,Married/United,Non White,0,2,2,9,36,15,ACT,42,40,34,61,56
+1292,desfechos_arm_1,48.2,Feminine,Superior,Married/United,Non White,0,2,2,9,36,15,ACT,42,40,34,61,56
+1292,followup_arm_1,48.2,Feminine,Superior,Married/United,Non White,2,3,2,7,42,9,ACT,42,40,34,61,56
+1294,recrutamento_arm_1,50.2,Feminine,Superior,Married/United,Non White,18,7,7,11,19,116,WL,56,50,53,59,51
+1294,elegibilidade_arm_1,50.2,Feminine,Superior,Married/United,Non White,18,7,7,11,19,116,WL,56,50,53,59,51
+1294,reteste_arm_1,50.2,Feminine,Superior,Married/United,Non White,17,10,10,26,21,92,WL,56,50,53,59,51
+1294,elegibilidade_mini_arm_1,50.2,Feminine,Superior,Married/United,Non White,17,10,10,26,21,106,WL,56,50,53,59,51
+1294,desfechos_arm_1,50.2,Feminine,Superior,Married/United,Non White,17,10,10,26,21,106,WL,56,50,53,59,51
+1294,followup_arm_1,50.2,Feminine,Superior,Married/United,Non White,9,9,6,18,24,99,WL,56,50,53,59,51
+1294,desfechos_le_arm_1,50.2,Feminine,Superior,Married/United,Non White,9,7,3,13,28,66,WL,56,50,53,59,51
+1300,recrutamento_arm_1,34,Feminine,Superior,Married/United,Non White,19,12,9,31,21,112,WL,62,37,46,53,43
+1300,elegibilidade_arm_1,34,Feminine,Superior,Married/United,Non White,19,12,9,31,21,112,WL,62,37,46,53,43
+1300,reteste_arm_1,34,Feminine,Superior,Married/United,Non White,18,8,3,28,11,118,WL,62,37,46,53,43
+1300,elegibilidade_mini_arm_1,34,Feminine,Superior,Married/United,Non White,18,8,3,28,16,129,WL,62,37,46,53,43
+1300,desfechos_arm_1,34,Feminine,Superior,Married/United,Non White,18,8,3,28,16,129,WL,62,37,46,53,43
+1300,followup_arm_1,34,Feminine,Superior,Married/United,Non White,14,6,2,25,22,111,WL,62,37,46,53,43
+1300,desfechos_le_arm_1,34,Feminine,Superior,Married/United,Non White,5,8,2,24,30,54,WL,62,37,46,53,43
+1302,recrutamento_arm_1,37.1,Feminine,Superior,Married/United,White,24,10,8,31,12,95,CBT,49,57,37,42,51
+1302,elegibilidade_arm_1,37.1,Feminine,Superior,Married/United,White,24,10,8,31,12,95,CBT,49,57,37,42,51
+1302,reteste_arm_1,37.1,Feminine,Superior,Married/United,White,2,4,3,16,20,91,CBT,49,57,37,42,51
+1302,elegibilidade_mini_arm_1,37.1,Feminine,Superior,Married/United,White,2,4,3,16,47,9,CBT,49,57,37,42,51
+1302,desfechos_arm_1,37.1,Feminine,Superior,Married/United,White,2,4,3,16,47,9,CBT,49,57,37,42,51
+1302,followup_arm_1,37.1,Feminine,Superior,Married/United,White,5,5,4,14,43,9,CBT,49,57,37,42,51
+1308,recrutamento_arm_1,45.6,Feminine,Nao Superior,Married/United,White,12,3,5,19,21,128,CBT,48,35,49,68,66
+1308,elegibilidade_arm_1,45.6,Feminine,Nao Superior,Married/United,White,12,3,5,19,21,128,CBT,48,35,49,68,66
+1308,reteste_arm_1,45.6,Feminine,Nao Superior,Married/United,White,10,2,2,8,25,110,CBT,48,35,49,68,66
+1308,elegibilidade_mini_arm_1,45.6,Feminine,Nao Superior,Married/United,White,10,2,2,8,37,73,CBT,48,35,49,68,66
+1308,desfechos_arm_1,45.6,Feminine,Nao Superior,Married/United,White,10,2,2,8,37,73,CBT,48,35,49,68,66
+1308,followup_arm_1,45.6,Feminine,Nao Superior,Married/United,White,4,2,2,17,48,40,CBT,48,35,49,68,66
+1313,recrutamento_arm_1,32.8,Masculine,Nao Superior,Single/Divorced,Non White,8,3,0,23,33,68,ACT,39,47,63,44,44
+1313,elegibilidade_arm_1,32.8,Masculine,Nao Superior,Single/Divorced,Non White,8,3,0,23,33,68,ACT,39,47,63,44,44
+1313,reteste_arm_1,32.8,Masculine,Nao Superior,Single/Divorced,Non White,8,3,0,23,29,87,ACT,39,47,63,44,44
+1313,elegibilidade_mini_arm_1,32.8,Masculine,Nao Superior,Single/Divorced,Non White,8,3,0,23,29,87,ACT,39,47,63,44,44
+1313,desfechos_arm_1,32.8,Masculine,Nao Superior,Single/Divorced,Non White,8,3,0,23,29,87,ACT,39,47,63,44,44
+1323,recrutamento_arm_1,58.8,Feminine,Nao Superior,Single/Divorced,White,15,10,7,27,28,42,WL,NA,NA,NA,NA,NA
+1323,elegibilidade_arm_1,58.8,Feminine,Nao Superior,Single/Divorced,White,15,10,7,27,28,42,WL,NA,NA,NA,NA,NA
+1323,reteste_arm_1,58.8,Feminine,Nao Superior,Single/Divorced,White,15,10,7,27,31,46,WL,NA,NA,NA,NA,NA
+1323,elegibilidade_mini_arm_1,58.8,Feminine,Nao Superior,Single/Divorced,White,15,10,7,27,31,46,WL,NA,NA,NA,NA,NA
+1323,desfechos_arm_1,58.8,Feminine,Nao Superior,Single/Divorced,White,15,10,7,27,31,46,WL,NA,NA,NA,NA,NA
+1375,recrutamento_arm_1,53.1,Masculine,Superior,Married/United,Non White,13,8,9,9,33,49,CBT,28,33,27,53,44
+1375,elegibilidade_arm_1,53.1,Masculine,Superior,Married/United,Non White,13,8,9,9,33,49,CBT,28,33,27,53,44
+1375,reteste_arm_1,53.1,Masculine,Superior,Married/United,Non White,11,8,11,11,25,63,CBT,28,33,27,53,44
+1375,elegibilidade_mini_arm_1,53.1,Masculine,Superior,Married/United,Non White,11,8,11,11,29,27,CBT,28,33,27,53,44
+1375,desfechos_arm_1,53.1,Masculine,Superior,Married/United,Non White,11,8,11,11,29,27,CBT,28,33,27,53,44
+1375,followup_arm_1,53.1,Masculine,Superior,Married/United,Non White,10,8,9,9,28,44,CBT,28,33,27,53,44
+1402,recrutamento_arm_1,48.3,Feminine,Nao Superior,Single/Divorced,White,22,11,6,15,14,126,CBT,41,62,44,50,69
+1402,elegibilidade_arm_1,48.3,Feminine,Nao Superior,Single/Divorced,White,22,11,6,15,14,126,CBT,41,62,44,50,69
+1402,reteste_arm_1,48.3,Feminine,Nao Superior,Single/Divorced,White,22,11,6,15,23,126,CBT,41,62,44,50,69
+1402,elegibilidade_mini_arm_1,48.3,Feminine,Nao Superior,Single/Divorced,White,22,11,6,15,23,126,CBT,41,62,44,50,69
+1402,desfechos_arm_1,48.3,Feminine,Nao Superior,Single/Divorced,White,22,11,6,15,23,126,CBT,41,62,44,50,69
+1415,recrutamento_arm_1,47.3,Feminine,Superior,Single/Divorced,Non White,20,8,7,28,23,89,CBT,61,39,51,53,57
+1415,elegibilidade_arm_1,47.3,Feminine,Superior,Single/Divorced,Non White,20,8,7,28,23,89,CBT,61,39,51,53,57
+1415,reteste_arm_1,47.3,Feminine,Superior,Single/Divorced,Non White,20,8,7,28,22,101,CBT,61,39,51,53,57
+1415,elegibilidade_mini_arm_1,47.3,Feminine,Superior,Single/Divorced,Non White,20,8,7,28,22,101,CBT,61,39,51,53,57
+1415,desfechos_arm_1,47.3,Feminine,Superior,Single/Divorced,Non White,20,8,7,28,22,101,CBT,61,39,51,53,57
+1417,recrutamento_arm_1,54.3,Feminine,Superior,Single/Divorced,White,19,11,8,34,25,99,WL,62,40,56,53,56
+1417,elegibilidade_arm_1,54.3,Feminine,Superior,Single/Divorced,White,19,11,8,34,25,99,WL,62,40,56,53,56
+1417,reteste_arm_1,54.3,Feminine,Superior,Single/Divorced,White,9,9,9,28,24,70,WL,62,40,56,53,56
+1417,elegibilidade_mini_arm_1,54.3,Feminine,Superior,Single/Divorced,White,9,9,9,28,33,75,WL,62,40,56,53,56
+1417,desfechos_arm_1,54.3,Feminine,Superior,Single/Divorced,White,9,9,9,28,33,75,WL,62,40,56,53,56
+1417,followup_arm_1,54.3,Feminine,Superior,Single/Divorced,White,10,10,4,35,23,98,WL,62,40,56,53,56
+1417,desfechos_le_arm_1,54.3,Feminine,Superior,Single/Divorced,White,10,10,4,35,23,98,WL,62,40,56,53,56
+1424,recrutamento_arm_1,34.5,Feminine,Superior,Single/Divorced,White,15,13,9,22,11,93,CBT,49,50,49,59,25
+1424,elegibilidade_arm_1,34.5,Feminine,Superior,Single/Divorced,White,15,13,9,22,11,93,CBT,49,50,49,59,25
+1424,reteste_arm_1,34.5,Feminine,Superior,Single/Divorced,White,11,9,10,25,7,90,CBT,49,50,49,59,25
+1424,elegibilidade_mini_arm_1,34.5,Feminine,Superior,Single/Divorced,White,11,9,10,25,17,84,CBT,49,50,49,59,25
+1424,desfechos_arm_1,34.5,Feminine,Superior,Single/Divorced,White,11,9,10,25,17,84,CBT,49,50,49,59,25
+1424,followup_arm_1,34.5,Feminine,Superior,Single/Divorced,White,11,9,2,21,22,106,CBT,49,50,49,59,25
+1438,recrutamento_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,22,6,7,18,14,121,CBT,38,33,42,70,60
+1438,elegibilidade_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,22,6,7,18,14,121,CBT,38,33,42,70,60
+1438,reteste_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,4,3,2,11,15,105,CBT,38,33,42,70,60
+1438,elegibilidade_mini_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,4,3,2,11,39,48,CBT,38,33,42,70,60
+1438,desfechos_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,4,3,2,11,39,48,CBT,38,33,42,70,60
+1438,followup_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,12,2,2,12,39,30,CBT,38,33,42,70,60
+1439,recrutamento_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,16,15,11,35,19,111,ACT,71,32,54,33,24
+1439,elegibilidade_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,16,15,11,35,19,111,ACT,71,32,54,33,24
+1439,reteste_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,14,12,12,32,22,91,ACT,71,32,54,33,24
+1439,elegibilidade_mini_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,14,12,12,32,29,82,ACT,71,32,54,33,24
+1439,desfechos_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,14,12,12,32,29,82,ACT,71,32,54,33,24
+1439,followup_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,17,13,13,35,24,96,ACT,71,32,54,33,24
+1444,recrutamento_arm_1,57.2,Feminine,Superior,Married/United,White,25,15,10,39,25,136,WL,72,33,48,62,57
+1444,elegibilidade_arm_1,57.2,Feminine,Superior,Married/United,White,25,15,10,39,25,136,WL,72,33,48,62,57
+1444,reteste_arm_1,57.2,Feminine,Superior,Married/United,White,16,8,14,24,19,132,WL,72,33,48,62,57
+1444,elegibilidade_mini_arm_1,57.2,Feminine,Superior,Married/United,White,16,8,14,24,27,102,WL,72,33,48,62,57
+1444,desfechos_arm_1,57.2,Feminine,Superior,Married/United,White,16,8,14,24,27,102,WL,72,33,48,62,57
+1444,followup_arm_1,57.2,Feminine,Superior,Married/United,White,19,15,9,34,18,115,WL,72,33,48,62,57
+1444,desfechos_le_arm_1,57.2,Feminine,Superior,Married/United,White,6,5,9,21,40,64,WL,72,33,48,62,57
+1448,recrutamento_arm_1,59.2,Feminine,Superior,Married/United,White,19,10,11,27,4,130,ACT,53,50,46,53,47
+1448,elegibilidade_arm_1,59.2,Feminine,Superior,Married/United,White,19,10,11,27,4,130,ACT,53,50,46,53,47
+1448,reteste_arm_1,59.2,Feminine,Superior,Married/United,White,18,11,7,25,4,138,ACT,53,50,46,53,47
+1448,elegibilidade_mini_arm_1,59.2,Feminine,Superior,Married/United,White,18,11,7,25,15,115,ACT,53,50,46,53,47
+1448,desfechos_arm_1,59.2,Feminine,Superior,Married/United,White,18,11,7,25,15,115,ACT,53,50,46,53,47
+1448,followup_arm_1,59.2,Feminine,Superior,Married/United,White,17,9,7,26,12,120,ACT,53,50,46,53,47
+1475,recrutamento_arm_1,50.7,Feminine,Superior,Single/Divorced,White,22,5,9,30,10,155,WL,59,49,34,41,57
+1475,elegibilidade_arm_1,50.7,Feminine,Superior,Single/Divorced,White,22,5,9,30,10,155,WL,59,49,34,41,57
+1475,reteste_arm_1,50.7,Feminine,Superior,Single/Divorced,White,12,6,6,16,1,136,WL,59,49,34,41,57
+1475,elegibilidade_mini_arm_1,50.7,Feminine,Superior,Single/Divorced,White,12,6,6,16,0,110,WL,59,49,34,41,57
+1475,desfechos_arm_1,50.7,Feminine,Superior,Single/Divorced,White,12,6,6,16,0,110,WL,59,49,34,41,57
+1475,followup_arm_1,50.7,Feminine,Superior,Single/Divorced,White,20,4,8,8,6,151,WL,59,49,34,41,57
+1475,desfechos_le_arm_1,50.7,Feminine,Superior,Single/Divorced,White,5,3,2,13,15,61,WL,59,49,34,41,57
+1492,recrutamento_arm_1,25,Feminine,Superior,Married/United,NA,17,10,13,42,24,72,CBT,76,39,34,50,34
+1492,elegibilidade_arm_1,25,Feminine,Superior,Married/United,NA,17,10,13,42,24,72,CBT,76,39,34,50,34
+1492,reteste_arm_1,25,Feminine,Superior,Married/United,NA,17,10,13,42,27,55,CBT,76,39,34,50,34
+1492,elegibilidade_mini_arm_1,25,Feminine,Superior,Married/United,NA,17,10,13,42,27,55,CBT,76,39,34,50,34
+1492,desfechos_arm_1,25,Feminine,Superior,Married/United,NA,17,10,13,42,27,55,CBT,76,39,34,50,34
+1498,recrutamento_arm_1,56.5,Masculine,Nao Superior,Married/United,White,12,8,9,29,23,104,WL,NA,NA,NA,NA,NA
+1498,elegibilidade_arm_1,56.5,Masculine,Nao Superior,Married/United,White,12,8,9,29,23,104,WL,NA,NA,NA,NA,NA
+1498,reteste_arm_1,56.5,Masculine,Nao Superior,Married/United,White,12,8,9,29,20,103,WL,NA,NA,NA,NA,NA
+1498,elegibilidade_mini_arm_1,56.5,Masculine,Nao Superior,Married/United,White,12,8,9,29,20,103,WL,NA,NA,NA,NA,NA
+1498,desfechos_arm_1,56.5,Masculine,Nao Superior,Married/United,White,12,8,9,29,20,103,WL,NA,NA,NA,NA,NA
+1515,recrutamento_arm_1,59.4,Feminine,Superior,Married/United,White,16,12,14,36,20,61,CBT,68,22,48,53,57
+1515,elegibilidade_arm_1,59.4,Feminine,Superior,Married/United,White,16,12,14,36,20,61,CBT,68,22,48,53,57
+1515,reteste_arm_1,59.4,Feminine,Superior,Married/United,White,13,9,17,37,33,68,CBT,68,22,48,53,57
+1515,elegibilidade_mini_arm_1,59.4,Feminine,Superior,Married/United,White,13,9,17,37,27,58,CBT,68,22,48,53,57
+1515,desfechos_arm_1,59.4,Feminine,Superior,Married/United,White,13,9,17,37,27,58,CBT,68,22,48,53,57
+1515,followup_arm_1,59.4,Feminine,Superior,Married/United,White,14,12,13,34,26,95,CBT,68,22,48,53,57
+1518,recrutamento_arm_1,31,Feminine,Superior,Single/Divorced,Non White,21,15,10,29,30,94,WL,68,33,44,53,46
+1518,elegibilidade_arm_1,31,Feminine,Superior,Single/Divorced,Non White,21,15,10,29,30,94,WL,68,33,44,53,46
+1518,reteste_arm_1,31,Feminine,Superior,Single/Divorced,Non White,13,18,13,28,28,73,WL,68,33,44,53,46
+1518,elegibilidade_mini_arm_1,31,Feminine,Superior,Single/Divorced,Non White,13,18,13,28,29,77,WL,68,33,44,53,46
+1518,desfechos_arm_1,31,Feminine,Superior,Single/Divorced,Non White,13,18,13,28,29,77,WL,68,33,44,53,46
+1518,followup_arm_1,31,Feminine,Superior,Single/Divorced,Non White,19,11,8,29,29,82,WL,68,33,44,53,46
+1518,desfechos_le_arm_1,31,Feminine,Superior,Single/Divorced,Non White,9,10,10,28,35,53,WL,68,33,44,53,46
+1519,recrutamento_arm_1,54.3,Masculine,Superior,Married/United,White,26,7,8,31,16,131,WL,52,39,44,42,54
+1519,elegibilidade_arm_1,54.3,Masculine,Superior,Married/United,White,26,7,8,31,16,131,WL,52,39,44,42,54
+1519,reteste_arm_1,54.3,Masculine,Superior,Married/United,White,15,4,4,20,13,115,WL,52,39,44,42,54
+1519,elegibilidade_mini_arm_1,54.3,Masculine,Superior,Married/United,White,15,4,4,20,28,63,WL,52,39,44,42,54
+1519,desfechos_arm_1,54.3,Masculine,Superior,Married/United,White,15,4,4,20,28,63,WL,52,39,44,42,54
+1519,followup_arm_1,54.3,Masculine,Superior,Married/United,White,20,4,6,26,20,74,WL,52,39,44,42,54
+1519,desfechos_le_arm_1,54.3,Masculine,Superior,Married/United,White,18,2,5,22,27,59,WL,52,39,44,42,54
+1522,recrutamento_arm_1,27.7,Masculine,Superior,Single/Divorced,White,21,14,13,45,19,116,ACT,73,39,46,42,22
+1522,elegibilidade_arm_1,27.7,Masculine,Superior,Single/Divorced,White,21,14,13,45,19,116,ACT,73,39,46,42,22
+1522,reteste_arm_1,27.7,Masculine,Superior,Single/Divorced,White,4,7,6,19,25,94,ACT,73,39,46,42,22
+1522,elegibilidade_mini_arm_1,27.7,Masculine,Superior,Single/Divorced,White,4,7,6,19,28,54,ACT,73,39,46,42,22
+1522,desfechos_arm_1,27.7,Masculine,Superior,Single/Divorced,White,4,7,6,19,28,54,ACT,73,39,46,42,22
+1522,followup_arm_1,27.7,Masculine,Superior,Single/Divorced,White,10,7,10,26,25,74,ACT,73,39,46,42,22
+1541,recrutamento_arm_1,52.2,Feminine,Superior,Married/United,White,16,3,1,12,30,89,CBT,36,57,36,62,53
+1541,elegibilidade_arm_1,52.2,Feminine,Superior,Married/United,White,16,3,1,12,30,89,CBT,36,57,36,62,53
+1541,reteste_arm_1,52.2,Feminine,Superior,Married/United,White,8,2,2,11,24,86,CBT,36,57,36,62,53
+1541,elegibilidade_mini_arm_1,52.2,Feminine,Superior,Married/United,White,8,2,2,11,29,88,CBT,36,57,36,62,53
+1541,desfechos_arm_1,52.2,Feminine,Superior,Married/United,White,8,2,2,11,29,88,CBT,36,57,36,62,53
+1541,followup_arm_1,52.2,Feminine,Superior,Married/United,White,9,3,3,12,34,48,CBT,36,57,36,62,53
+1553,recrutamento_arm_1,26.2,Feminine,Superior,Single/Divorced,White,20,16,7,31,17,123,ACT,NA,NA,NA,NA,NA
+1553,elegibilidade_arm_1,26.2,Feminine,Superior,Single/Divorced,White,20,16,7,31,17,123,ACT,NA,NA,NA,NA,NA
+1553,reteste_arm_1,26.2,Feminine,Superior,Single/Divorced,White,20,16,7,31,23,114,ACT,NA,NA,NA,NA,NA
+1553,elegibilidade_mini_arm_1,26.2,Feminine,Superior,Single/Divorced,White,20,16,7,31,23,114,ACT,NA,NA,NA,NA,NA
+1553,desfechos_arm_1,26.2,Feminine,Superior,Single/Divorced,White,20,16,7,31,23,114,ACT,NA,NA,NA,NA,NA
+1563,recrutamento_arm_1,54.7,Feminine,Superior,Married/United,White,17,11,12,35,14,116,WL,53,39,42,48,53
+1563,elegibilidade_arm_1,54.7,Feminine,Superior,Married/United,White,17,11,12,35,14,116,WL,53,39,42,48,53
+1563,reteste_arm_1,54.7,Feminine,Superior,Married/United,White,15,12,13,30,16,127,WL,53,39,42,48,53
+1563,elegibilidade_mini_arm_1,54.7,Feminine,Superior,Married/United,White,15,12,13,30,12,113,WL,53,39,42,48,53
+1563,desfechos_arm_1,54.7,Feminine,Superior,Married/United,White,15,12,13,30,12,113,WL,53,39,42,48,53
+1563,followup_arm_1,54.7,Feminine,Superior,Married/United,White,13,10,11,29,16,123,WL,53,39,42,48,53
+1563,desfechos_le_arm_1,54.7,Feminine,Superior,Married/United,White,5,10,13,14,31,103,WL,53,39,42,48,53
+1567,recrutamento_arm_1,55.4,Feminine,Superior,Married/United,White,25,13,11,34,12,115,ACT,55,44,54,52,48
+1567,elegibilidade_arm_1,55.4,Feminine,Superior,Married/United,White,25,13,11,34,12,115,ACT,55,44,54,52,48
+1567,reteste_arm_1,55.4,Feminine,Superior,Married/United,White,13,9,9,29,21,99,ACT,55,44,54,52,48
+1567,elegibilidade_mini_arm_1,55.4,Feminine,Superior,Married/United,White,13,9,9,29,22,85,ACT,55,44,54,52,48
+1567,desfechos_arm_1,55.4,Feminine,Superior,Married/United,White,13,9,9,29,22,85,ACT,55,44,54,52,48
+1567,followup_arm_1,55.4,Feminine,Superior,Married/United,White,13,11,10,28,20,98,ACT,55,44,54,52,48
+1597,recrutamento_arm_1,57.1,Feminine,Nao Superior,Married/United,White,13,12,8,24,41,95,WL,53,62,39,48,50
+1597,elegibilidade_arm_1,57.1,Feminine,Nao Superior,Married/United,White,13,12,8,24,41,95,WL,53,62,39,48,50
+1597,elegibilidade_mini_arm_1,57.1,Feminine,Nao Superior,Married/United,White,11,9,8,14,41,75,WL,53,62,39,48,50
+1597,desfechos_arm_1,57.1,Feminine,Nao Superior,Married/United,White,11,9,8,14,41,75,WL,53,62,39,48,50
+1597,followup_arm_1,57.1,Feminine,Nao Superior,Married/United,White,4,14,5,26,44,64,WL,53,62,39,48,50
+1597,desfechos_le_arm_1,57.1,Feminine,Nao Superior,Married/United,White,4,14,5,26,44,64,WL,53,62,39,48,50
+1598,recrutamento_arm_1,54.7,Feminine,Superior,Married/United,White,14,8,7,14,21,78,ACT,NA,NA,NA,NA,NA
+1598,elegibilidade_arm_1,54.7,Feminine,Superior,Married/United,White,14,8,7,14,21,78,ACT,NA,NA,NA,NA,NA
+1598,reteste_arm_1,54.7,Feminine,Superior,Married/United,White,7,4,2,11,24,76,ACT,NA,NA,NA,NA,NA
+1598,elegibilidade_mini_arm_1,54.7,Feminine,Superior,Married/United,White,7,4,2,11,25,75,ACT,NA,NA,NA,NA,NA
+1598,desfechos_arm_1,54.7,Feminine,Superior,Married/United,White,7,4,2,11,25,75,ACT,NA,NA,NA,NA,NA
+1598,followup_arm_1,54.7,Feminine,Superior,Married/United,White,5,3,3,11,24,60,ACT,NA,NA,NA,NA,NA
+1617,recrutamento_arm_1,29.7,Feminine,Superior,Single/Divorced,White,16,13,6,37,24,118,ACT,61,49,63,46,65
+1617,elegibilidade_arm_1,29.7,Feminine,Superior,Single/Divorced,White,16,13,6,37,24,118,ACT,61,49,63,46,65
+1617,reteste_arm_1,29.7,Feminine,Superior,Single/Divorced,White,16,13,6,37,29,117,ACT,61,49,63,46,65
+1617,elegibilidade_mini_arm_1,29.7,Feminine,Superior,Single/Divorced,White,16,13,6,37,29,117,ACT,61,49,63,46,65
+1617,desfechos_arm_1,29.7,Feminine,Superior,Single/Divorced,White,16,13,6,37,29,117,ACT,61,49,63,46,65
+1622,recrutamento_arm_1,39.3,Feminine,Superior,Single/Divorced,White,19,10,8,35,23,96,ACT,63,22,36,35,51
+1622,elegibilidade_arm_1,39.3,Feminine,Superior,Single/Divorced,White,19,10,8,35,23,96,ACT,63,22,36,35,51
+1622,reteste_arm_1,39.3,Feminine,Superior,Single/Divorced,White,19,10,8,35,23,104,ACT,63,22,36,35,51
+1622,elegibilidade_mini_arm_1,39.3,Feminine,Superior,Single/Divorced,White,19,10,8,35,23,104,ACT,63,22,36,35,51
+1622,desfechos_arm_1,39.3,Feminine,Superior,Single/Divorced,White,19,10,8,35,23,104,ACT,63,22,36,35,51
+1644,recrutamento_arm_1,57.5,Masculine,Superior,Married/United,White,25,10,5,14,16,148,ACT,38,67,53,57,63
+1644,elegibilidade_arm_1,57.5,Masculine,Superior,Married/United,White,25,10,5,14,16,148,ACT,38,67,53,57,63
+1644,reteste_arm_1,57.5,Masculine,Superior,Married/United,White,20,10,5,15,18,151,ACT,38,67,53,57,63
+1644,elegibilidade_mini_arm_1,57.5,Masculine,Superior,Married/United,White,20,10,5,15,15,143,ACT,38,67,53,57,63
+1644,desfechos_arm_1,57.5,Masculine,Superior,Married/United,White,20,10,5,15,15,143,ACT,38,67,53,57,63
+1644,followup_arm_1,57.5,Masculine,Superior,Married/United,White,25,8,8,17,8,145,ACT,38,67,53,57,63
+1654,recrutamento_arm_1,47.5,Masculine,Superior,Married/United,White,14,4,5,10,27,50,ACT,29,20,51,44,62
+1654,elegibilidade_arm_1,47.5,Masculine,Superior,Married/United,White,14,4,5,10,27,50,ACT,29,20,51,44,62
+1654,reteste_arm_1,47.5,Masculine,Superior,Married/United,White,14,1,7,8,22,75,ACT,29,20,51,44,62
+1654,elegibilidade_mini_arm_1,47.5,Masculine,Superior,Married/United,White,14,1,7,8,27,58,ACT,29,20,51,44,62
+1654,desfechos_arm_1,47.5,Masculine,Superior,Married/United,White,14,1,7,8,27,58,ACT,29,20,51,44,62
+1654,followup_arm_1,47.5,Masculine,Superior,Married/United,White,10,2,5,7,38,60,ACT,29,20,51,44,62
+1658,recrutamento_arm_1,32.5,Feminine,Superior,Married/United,White,19,14,7,28,20,127,WL,49,52,34,42,48
+1658,elegibilidade_arm_1,32.5,Feminine,Superior,Married/United,White,19,14,7,28,20,127,WL,49,52,34,42,48
+1658,reteste_arm_1,32.5,Feminine,Superior,Married/United,White,17,12,3,23,22,128,WL,49,52,34,42,48
+1658,elegibilidade_mini_arm_1,32.5,Feminine,Superior,Married/United,White,17,12,3,23,22,124,WL,49,52,34,42,48
+1658,desfechos_arm_1,32.5,Feminine,Superior,Married/United,White,17,12,3,23,22,124,WL,49,52,34,42,48
+1658,followup_arm_1,32.5,Feminine,Superior,Married/United,White,16,15,5,31,20,116,WL,49,52,34,42,48
+1658,desfechos_le_arm_1,32.5,Feminine,Superior,Married/United,White,11,6,3,18,34,38,WL,49,52,34,42,48
+1701,recrutamento_arm_1,44.8,Feminine,Nao Superior,Married/United,White,25,12,3,30,4,102,ACT,46,52,41,59,63
+1701,elegibilidade_arm_1,44.8,Feminine,Nao Superior,Married/United,White,25,12,3,30,4,102,ACT,46,52,41,59,63
+1701,reteste_arm_1,44.8,Feminine,Nao Superior,Married/United,White,6,5,0,17,4,113,ACT,46,52,41,59,63
+1701,elegibilidade_mini_arm_1,44.8,Feminine,Nao Superior,Married/United,White,6,5,0,17,41,44,ACT,46,52,41,59,63
+1701,desfechos_arm_1,44.8,Feminine,Nao Superior,Married/United,White,6,5,0,17,41,44,ACT,46,52,41,59,63
+1701,followup_arm_1,44.8,Feminine,Nao Superior,Married/United,White,8,3,0,18,35,10,ACT,46,52,41,59,63
+1720,recrutamento_arm_1,28.3,Feminine,Superior,Single/Divorced,White,23,7,3,21,22,126,CBT,62,30,54,33,40
+1720,elegibilidade_arm_1,28.3,Feminine,Superior,Single/Divorced,White,23,7,3,21,22,126,CBT,62,30,54,33,40
+1720,reteste_arm_1,28.3,Feminine,Superior,Single/Divorced,White,13,3,6,26,15,143,CBT,62,30,54,33,40
+1720,elegibilidade_mini_arm_1,28.3,Feminine,Superior,Single/Divorced,White,13,3,6,26,23,137,CBT,62,30,54,33,40
+1720,desfechos_arm_1,28.3,Feminine,Superior,Single/Divorced,White,13,3,6,26,23,137,CBT,62,30,54,33,40
+1720,followup_arm_1,28.3,Feminine,Superior,Single/Divorced,White,7,8,3,24,23,138,CBT,62,30,54,33,40
+1736,recrutamento_arm_1,48,Feminine,Superior,Married/United,Non White,19,4,5,28,24,90,CBT,55,32,39,48,47
+1736,elegibilidade_arm_1,48,Feminine,Superior,Married/United,Non White,19,4,5,28,24,90,CBT,55,32,39,48,47
+1736,reteste_arm_1,48,Feminine,Superior,Married/United,Non White,14,4,5,26,27,77,CBT,55,32,39,48,47
+1736,elegibilidade_mini_arm_1,48,Feminine,Superior,Married/United,Non White,14,4,5,26,34,61,CBT,55,32,39,48,47
+1736,desfechos_arm_1,48,Feminine,Superior,Married/United,Non White,14,4,5,26,34,61,CBT,55,32,39,48,47
+1736,followup_arm_1,48,Feminine,Superior,Married/United,Non White,10,4,8,24,28,67,CBT,55,32,39,48,47
+1742,recrutamento_arm_1,51.4,Feminine,Nao Superior,Married/United,White,24,6,5,28,15,121,ACT,43,54,39,55,59
+1742,elegibilidade_arm_1,51.4,Feminine,Nao Superior,Married/United,White,24,6,5,28,15,121,ACT,43,54,39,55,59
+1742,reteste_arm_1,51.4,Feminine,Nao Superior,Married/United,White,15,5,2,27,10,66,ACT,43,54,39,55,59
+1742,elegibilidade_mini_arm_1,51.4,Feminine,Nao Superior,Married/United,White,15,5,2,27,21,109,ACT,43,54,39,55,59
+1742,desfechos_arm_1,51.4,Feminine,Nao Superior,Married/United,White,15,5,2,27,21,109,ACT,43,54,39,55,59
+1742,followup_arm_1,51.4,Feminine,Nao Superior,Married/United,White,14,4,3,26,19,103,ACT,43,54,39,55,59
+2549,recrutamento_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,23,15,10,33,10,133,CBT,75,44,51,52,38
+2549,elegibilidade_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,23,15,10,33,10,133,CBT,75,44,51,52,38
+2549,reteste_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,14,10,10,32,10,134,CBT,75,44,51,52,38
+2549,elegibilidade_mini_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,14,10,10,32,20,110,CBT,75,44,51,52,38
+2549,desfechos_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,14,10,10,32,20,110,CBT,75,44,51,52,38
+2549,followup_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,14,10,10,32,20,110,CBT,75,44,51,52,38
+2557,recrutamento_arm_1,37.75957177,Feminine,Superior,Married/United,White,20,12,12,28,11,131,ACT,66,49,25,44,29
+2557,elegibilidade_arm_1,37.75957177,Feminine,Superior,Married/United,White,20,12,12,28,11,131,ACT,66,49,25,44,29
+2557,reteste_arm_1,37.75957177,Feminine,Superior,Married/United,White,11,14,10,28,21,125,ACT,66,49,25,44,29
+2557,elegibilidade_mini_arm_1,37.75957177,Feminine,Superior,Married/United,White,11,14,10,28,10,105,ACT,66,49,25,44,29
+2557,desfechos_arm_1,37.75957177,Feminine,Superior,Married/United,White,11,14,10,28,10,105,ACT,66,49,25,44,29
+2557,followup_arm_1,37.75957177,Feminine,Superior,Married/United,White,11,14,10,28,10,105,ACT,66,49,25,44,29
+2571,recrutamento_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,15,4,8,24,19,97,ACT,46,49,49,48,48
+2571,elegibilidade_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,15,4,8,24,19,97,ACT,46,49,49,48,48
+2571,reteste_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,10,4,3,27,18,109,ACT,46,49,49,48,48
+2571,elegibilidade_mini_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,10,4,3,27,27,104,ACT,46,49,49,48,48
+2571,desfechos_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,10,4,3,27,27,104,ACT,46,49,49,48,48
+2571,followup_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,10,4,3,27,27,104,ACT,46,49,49,48,48
+2577,recrutamento_arm_1,37.5,Feminine,Superior,Married/United,White,15,9,4,23,24,104,WL,59,49,41,55,41
+2577,elegibilidade_arm_1,37.5,Feminine,Superior,Married/United,White,15,9,4,23,24,104,WL,59,49,41,55,41
+2577,reteste_arm_1,37.5,Feminine,Superior,Married/United,White,12,9,6,23,32,83,WL,59,49,41,55,41
+2577,elegibilidade_mini_arm_1,37.5,Feminine,Superior,Married/United,White,12,9,6,23,37,79,WL,59,49,41,55,41
+2577,desfechos_arm_1,37.5,Feminine,Superior,Married/United,White,12,9,6,23,37,79,WL,59,49,41,55,41
+2577,followup_arm_1,37.5,Feminine,Superior,Married/United,White,17,11,9,18,21,104,WL,59,49,41,55,41
+2596,recrutamento_arm_1,28.5,Feminine,Superior,Married/United,White,12,9,5,21,36,89,ACT,49,47,56,57,62
+2596,elegibilidade_arm_1,28.5,Feminine,Superior,Married/United,White,12,9,5,21,36,89,ACT,49,47,56,57,62
+2596,reteste_arm_1,28.5,Feminine,Superior,Married/United,White,8,6,4,25,33,89,ACT,49,47,56,57,62
+2596,elegibilidade_mini_arm_1,28.5,Feminine,Superior,Married/United,White,8,6,4,25,42,59,ACT,49,47,56,57,62
+2596,desfechos_arm_1,28.5,Feminine,Superior,Married/United,White,8,6,4,25,42,59,ACT,49,47,56,57,62
+2596,followup_arm_1,28.5,Feminine,Superior,Married/United,White,8,6,4,25,42,59,ACT,49,47,56,57,62
+2615,recrutamento_arm_1,53.3,Feminine,Superior,Married/United,White,11,4,5,22,34,34,WL,NA,NA,NA,NA,NA
+2615,elegibilidade_arm_1,53.3,Feminine,Superior,Married/United,White,11,4,5,22,34,34,WL,NA,NA,NA,NA,NA
+2615,reteste_arm_1,53.3,Feminine,Superior,Married/United,White,12,4,4,20,31,55,WL,NA,NA,NA,NA,NA
+2615,elegibilidade_mini_arm_1,53.3,Feminine,Superior,Married/United,White,12,4,4,20,35,51,WL,NA,NA,NA,NA,NA
+2615,desfechos_arm_1,53.3,Feminine,Superior,Married/United,White,12,4,4,20,35,51,WL,NA,NA,NA,NA,NA
+2615,followup_arm_1,53.3,Feminine,Superior,Married/United,White,9,4,4,26,35,36,WL,NA,NA,NA,NA,NA
+2627,recrutamento_arm_1,26.8,Feminine,Superior,Married/United,Non White,15,4,5,7,24,111,CBT,43,52,48,39,66
+2627,elegibilidade_arm_1,26.8,Feminine,Superior,Married/United,Non White,15,4,5,7,24,111,CBT,43,52,48,39,66
+2627,reteste_arm_1,26.8,Feminine,Superior,Married/United,Non White,1,1,0,7,13,89,CBT,43,52,48,39,66
+2627,elegibilidade_mini_arm_1,26.8,Feminine,Superior,Married/United,Non White,1,1,0,7,26,35,CBT,43,52,48,39,66
+2627,desfechos_arm_1,26.8,Feminine,Superior,Married/United,Non White,1,1,0,7,26,35,CBT,43,52,48,39,66
+2627,followup_arm_1,26.8,Feminine,Superior,Married/United,Non White,1,1,0,7,26,35,CBT,43,52,48,39,66
+2649,recrutamento_arm_1,25.8,Feminine,Superior,Single/Divorced,White,20,13,10,24,12,128,WL,NA,NA,NA,NA,NA
+2649,elegibilidade_arm_1,25.8,Feminine,Superior,Single/Divorced,White,20,13,10,24,12,128,WL,NA,NA,NA,NA,NA
+2649,reteste_arm_1,25.8,Feminine,Superior,Single/Divorced,White,15,12,11,31,14,118,WL,NA,NA,NA,NA,NA
+2649,elegibilidade_mini_arm_1,25.8,Feminine,Superior,Single/Divorced,White,15,12,11,31,17,102,WL,NA,NA,NA,NA,NA
+2649,desfechos_arm_1,25.8,Feminine,Superior,Single/Divorced,White,15,12,11,31,17,102,WL,NA,NA,NA,NA,NA
+2649,followup_arm_1,25.8,Feminine,Superior,Single/Divorced,White,15,13,11,34,21,100,WL,NA,NA,NA,NA,NA
+2677,recrutamento_arm_1,44.4,Feminine,Superior,Married/United,White,15,7,11,26,33,128,ACT,76,44,63,55,44
+2677,elegibilidade_arm_1,44.4,Feminine,Superior,Married/United,White,15,7,11,26,33,128,ACT,76,44,63,55,44
+2677,reteste_arm_1,44.4,Feminine,Superior,Married/United,White,5,8,2,21,23,120,ACT,76,44,63,55,44
+2677,elegibilidade_mini_arm_1,44.4,Feminine,Superior,Married/United,White,5,8,2,21,36,79,ACT,76,44,63,55,44
+2677,desfechos_arm_1,44.4,Feminine,Superior,Married/United,White,5,8,2,21,36,79,ACT,76,44,63,55,44
+2677,followup_arm_1,44.4,Feminine,Superior,Married/United,White,5,8,2,21,36,79,ACT,76,44,63,55,44
+2687,recrutamento_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,9,122,ACT,76,20,46,28,38
+2687,elegibilidade_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,9,122,ACT,76,20,46,28,38
+2687,reteste_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,5,117,ACT,76,20,46,28,38
+2687,elegibilidade_mini_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,5,117,ACT,76,20,46,28,38
+2687,desfechos_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,5,117,ACT,76,20,46,28,38
+2687,followup_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,5,117,ACT,76,20,46,28,38
+2689,recrutamento_arm_1,50.1,Feminine,Superior,Married/United,White,18,11,6,26,23,93,CBT,49,59,56,64,56
+2689,elegibilidade_arm_1,50.1,Feminine,Superior,Married/United,White,18,11,6,26,23,93,CBT,49,59,56,64,56
+2689,reteste_arm_1,50.1,Feminine,Superior,Married/United,White,17,7,3,20,27,110,CBT,49,59,56,64,56
+2689,elegibilidade_mini_arm_1,50.1,Feminine,Superior,Married/United,White,17,7,3,20,28,93,CBT,49,59,56,64,56
+2689,desfechos_arm_1,50.1,Feminine,Superior,Married/United,White,17,7,3,20,28,93,CBT,49,59,56,64,56
+2689,followup_arm_1,50.1,Feminine,Superior,Married/United,White,17,7,3,20,28,93,CBT,49,59,56,64,56
+2698,recrutamento_arm_1,35.9,Feminine,Superior,Married/United,Non White,14,17,5,32,28,107,CBT,42,49,60,57,59
+2698,elegibilidade_arm_1,35.9,Feminine,Superior,Married/United,Non White,14,17,5,32,28,107,CBT,42,49,60,57,59
+2698,reteste_arm_1,35.9,Feminine,Superior,Married/United,Non White,7,9,1,26,25,114,CBT,42,49,60,57,59
+2698,elegibilidade_mini_arm_1,35.9,Feminine,Superior,Married/United,Non White,7,9,1,26,34,83,CBT,42,49,60,57,59
+2698,desfechos_arm_1,35.9,Feminine,Superior,Married/United,Non White,7,9,1,26,34,83,CBT,42,49,60,57,59
+2698,followup_arm_1,35.9,Feminine,Superior,Married/United,Non White,7,9,1,26,34,83,CBT,42,49,60,57,59
+2718,recrutamento_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,21,9,7,27,19,120,CBT,53,45,56,62,53
+2718,elegibilidade_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,21,9,7,27,19,120,CBT,53,45,56,62,53
+2718,reteste_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,6,4,7,24,16,103,CBT,53,45,56,62,53
+2718,elegibilidade_mini_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,6,4,7,24,26,75,CBT,53,45,56,62,53
+2718,desfechos_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,6,4,7,24,26,75,CBT,53,45,56,62,53
+2718,followup_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,6,4,7,24,26,75,CBT,53,45,56,62,53
+2734,recrutamento_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,23,10,10,25,10,117,WL,NA,NA,NA,NA,NA
+2734,elegibilidade_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,23,10,10,25,10,117,WL,NA,NA,NA,NA,NA
+2734,reteste_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,17,9,8,22,8,120,WL,NA,NA,NA,NA,NA
+2734,elegibilidade_mini_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,17,9,8,22,14,126,WL,NA,NA,NA,NA,NA
+2734,desfechos_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,17,9,8,22,14,126,WL,NA,NA,NA,NA,NA
+2734,followup_arm_1,39.4622574,Feminine,Superior,Single/Divorced,White,17,9,8,22,14,126,WL,NA,NA,NA,NA,NA
+2735,recrutamento_arm_1,42.1,Feminine,Superior,Married/United,White,25,13,10,42,2,124,CBT,NA,NA,NA,NA,NA
+2735,elegibilidade_arm_1,42.1,Feminine,Superior,Married/United,White,25,13,10,42,2,124,CBT,NA,NA,NA,NA,NA
+2735,reteste_arm_1,42.1,Feminine,Superior,Married/United,White,12,12,7,37,3,121,CBT,NA,NA,NA,NA,NA
+2735,elegibilidade_mini_arm_1,42.1,Feminine,Superior,Married/United,White,12,12,7,37,16,103,CBT,NA,NA,NA,NA,NA
+2735,desfechos_arm_1,42.1,Feminine,Superior,Married/United,White,12,12,7,37,16,103,CBT,NA,NA,NA,NA,NA
+2735,followup_arm_1,42.1,Feminine,Superior,Married/United,White,12,12,7,37,16,103,CBT,NA,NA,NA,NA,NA
+2765,recrutamento_arm_1,40.9,Feminine,Superior,Married/United,White,18,5,3,19,27,123,ACT,61,57,44,44,47
+2765,elegibilidade_arm_1,40.9,Feminine,Superior,Married/United,White,18,5,3,19,27,123,ACT,61,57,44,44,47
+2765,reteste_arm_1,40.9,Feminine,Superior,Married/United,White,8,7,1,25,26,95,ACT,61,57,44,44,47
+2765,elegibilidade_mini_arm_1,40.9,Feminine,Superior,Married/United,White,8,7,1,25,28,86,ACT,61,57,44,44,47
+2765,desfechos_arm_1,40.9,Feminine,Superior,Married/United,White,8,7,1,25,28,86,ACT,61,57,44,44,47
+2765,followup_arm_1,40.9,Feminine,Superior,Married/United,White,8,7,1,25,28,86,ACT,61,57,44,44,47
+2774,recrutamento_arm_1,32.2,Feminine,Superior,Married/United,White,22,12,9,28,28,97,ACT,66,50,39,41,59
+2774,elegibilidade_arm_1,32.2,Feminine,Superior,Married/United,White,22,12,9,28,28,97,ACT,66,50,39,41,59
+2774,reteste_arm_1,32.2,Feminine,Superior,Married/United,White,3,7,4,20,22,128,ACT,66,50,39,41,59
+2774,elegibilidade_mini_arm_1,32.2,Feminine,Superior,Married/United,White,3,7,4,20,39,58,ACT,66,50,39,41,59
+2774,desfechos_arm_1,32.2,Feminine,Superior,Married/United,White,3,7,4,20,39,58,ACT,66,50,39,41,59
+2774,followup_arm_1,32.2,Feminine,Superior,Married/United,White,3,7,4,20,39,58,ACT,66,50,39,41,59
+2788,recrutamento_arm_1,56.9,Feminine,Superior,Married/United,White,20,8,9,25,21,105,WL,43,44,53,39,43
+2788,elegibilidade_arm_1,56.9,Feminine,Superior,Married/United,White,20,8,9,25,21,105,WL,43,44,53,39,43
+2788,reteste_arm_1,56.9,Feminine,Superior,Married/United,White,22,10,8,24,16,127,WL,43,44,53,39,43
+2788,elegibilidade_mini_arm_1,56.9,Feminine,Superior,Married/United,White,22,10,8,24,11,120,WL,43,44,53,39,43
+2788,desfechos_arm_1,56.9,Feminine,Superior,Married/United,White,22,10,8,24,11,120,WL,43,44,53,39,43
+2788,followup_arm_1,56.9,Feminine,Superior,Married/United,White,21,10,8,26,12,137,WL,43,44,53,39,43
+2822,recrutamento_arm_1,37.2,Feminine,Superior,Married/United,White,27,17,14,40,0,140,CBT,NA,NA,NA,NA,NA
+2822,elegibilidade_arm_1,37.2,Feminine,Superior,Married/United,White,27,17,14,40,0,140,CBT,NA,NA,NA,NA,NA
+2822,reteste_arm_1,37.2,Feminine,Superior,Married/United,White,22,12,12,36,0,128,CBT,NA,NA,NA,NA,NA
+2822,elegibilidade_mini_arm_1,37.2,Feminine,Superior,Married/United,White,22,12,12,36,12,132,CBT,NA,NA,NA,NA,NA
+2822,desfechos_arm_1,37.2,Feminine,Superior,Married/United,White,22,12,12,36,12,132,CBT,NA,NA,NA,NA,NA
+2822,followup_arm_1,37.2,Feminine,Superior,Married/United,White,22,12,12,36,12,132,CBT,NA,NA,NA,NA,NA
+2835,recrutamento_arm_1,27.2,Feminine,Superior,Single/Divorced,White,17,9,2,10,23,48,WL,55,47,36,71,53
+2835,elegibilidade_arm_1,27.2,Feminine,Superior,Single/Divorced,White,17,9,2,10,23,48,WL,55,47,36,71,53
+2835,reteste_arm_1,27.2,Feminine,Superior,Single/Divorced,White,14,7,4,11,25,79,WL,55,47,36,71,53
+2835,elegibilidade_mini_arm_1,27.2,Feminine,Superior,Single/Divorced,White,14,7,4,11,23,71,WL,55,47,36,71,53
+2835,desfechos_arm_1,27.2,Feminine,Superior,Single/Divorced,White,14,7,4,11,23,71,WL,55,47,36,71,53
+2835,followup_arm_1,27.2,Feminine,Superior,Single/Divorced,White,14,4,4,10,25,94,WL,55,47,36,71,53
+2843,recrutamento_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,19,7,14,38,6,141,ACT,NA,NA,NA,NA,NA
+2843,elegibilidade_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,19,7,14,38,6,141,ACT,NA,NA,NA,NA,NA
+2843,elegibilidade_mini_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,10,5,7,38,20,101,ACT,NA,NA,NA,NA,NA
+2843,desfechos_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,10,5,7,38,20,101,ACT,NA,NA,NA,NA,NA
+2843,followup_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,10,5,7,38,20,101,ACT,NA,NA,NA,NA,NA
+2854,recrutamento_arm_1,32.5,Feminine,Superior,Single/Divorced,White,14,4,15,27,23,138,ACT,76,52,65,42,22
+2854,elegibilidade_arm_1,32.5,Feminine,Superior,Single/Divorced,White,14,4,15,27,23,138,ACT,76,52,65,42,22
+2854,reteste_arm_1,32.5,Feminine,Superior,Single/Divorced,White,14,4,15,27,18,125,ACT,76,52,65,42,22
+2854,elegibilidade_mini_arm_1,32.5,Feminine,Superior,Single/Divorced,White,14,4,15,27,18,125,ACT,76,52,65,42,22
+2856,recrutamento_arm_1,28.2,Masculine,Superior,Single/Divorced,White,21,9,4,24,28,83,WL,55,54,65,37,59
+2856,elegibilidade_arm_1,28.2,Masculine,Superior,Single/Divorced,White,21,9,4,24,28,83,WL,55,54,65,37,59
+2856,reteste_arm_1,28.2,Masculine,Superior,Single/Divorced,White,17,3,4,12,33,86,WL,55,54,65,37,59
+2856,elegibilidade_mini_arm_1,28.2,Masculine,Superior,Single/Divorced,White,17,3,4,12,39,46,WL,55,54,65,37,59
+2856,desfechos_arm_1,28.2,Masculine,Superior,Single/Divorced,White,17,3,4,12,39,46,WL,55,54,65,37,59
+2856,followup_arm_1,28.2,Masculine,Superior,Single/Divorced,White,19,6,5,14,38,66,WL,55,54,65,37,59
+2859,recrutamento_arm_1,37.9,Feminine,Superior,Married/United,Non White,14,5,1,23,28,97,ACT,38,44,44,48,44
+2859,elegibilidade_arm_1,37.9,Feminine,Superior,Married/United,Non White,14,5,1,23,28,97,ACT,38,44,44,48,44
+2859,reteste_arm_1,37.9,Feminine,Superior,Married/United,Non White,8,1,0,17,22,97,ACT,38,44,44,48,44
+2859,elegibilidade_mini_arm_1,37.9,Feminine,Superior,Married/United,Non White,8,1,0,17,28,74,ACT,38,44,44,48,44
+2859,desfechos_arm_1,37.9,Feminine,Superior,Married/United,Non White,8,1,0,17,28,74,ACT,38,44,44,48,44
+2859,followup_arm_1,37.9,Feminine,Superior,Married/United,Non White,8,1,0,17,28,74,ACT,38,44,44,48,44
+2860,recrutamento_arm_1,36.57471382,Masculine,Superior,Married/United,White,16,7,5,15,29,106,WL,53,47,44,33,59
+2860,elegibilidade_arm_1,36.57471382,Masculine,Superior,Married/United,White,16,7,5,15,29,106,WL,53,47,44,33,59
+2860,reteste_arm_1,36.57471382,Masculine,Superior,Married/United,White,10,4,2,13,24,106,WL,53,47,44,33,59
+2860,elegibilidade_mini_arm_1,36.57471382,Masculine,Superior,Married/United,White,10,4,2,13,31,115,WL,53,47,44,33,59
+2860,desfechos_arm_1,36.57471382,Masculine,Superior,Married/United,White,10,4,2,13,31,115,WL,53,47,44,33,59
+2860,followup_arm_1,36.57471382,Masculine,Superior,Married/United,White,10,4,2,13,31,115,WL,53,47,44,33,59
+2866,recrutamento_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,15,6,3,27,10,121,WL,58,45,37,57,44
+2866,elegibilidade_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,15,6,3,27,10,121,WL,58,45,37,57,44
+2866,reteste_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,14,8,10,31,12,117,WL,58,45,37,57,44
+2866,elegibilidade_mini_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,14,8,10,31,11,137,WL,58,45,37,57,44
+2866,desfechos_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,14,8,10,31,11,137,WL,58,45,37,57,44
+2866,followup_arm_1,30.82548911,Feminine,Nao Superior,Married/United,White,14,8,10,31,11,137,WL,58,45,37,57,44
+2878,recrutamento_arm_1,58.40864606,Masculine,Superior,Married/United,White,24,7,7,30,24,143,CBT,45,27,27,62,60
+2878,elegibilidade_arm_1,58.40864606,Masculine,Superior,Married/United,White,24,7,7,30,24,143,CBT,45,27,27,62,60
+2878,reteste_arm_1,58.40864606,Masculine,Superior,Married/United,White,8,1,3,15,26,113,CBT,45,27,27,62,60
+2878,elegibilidade_mini_arm_1,58.40864606,Masculine,Superior,Married/United,White,8,1,3,15,20,31,CBT,45,27,27,62,60
+2878,desfechos_arm_1,58.40864606,Masculine,Superior,Married/United,White,8,1,3,15,20,31,CBT,45,27,27,62,60
+2878,followup_arm_1,58.40864606,Masculine,Superior,Married/United,White,8,1,3,15,20,31,CBT,45,27,27,62,60
+2888,recrutamento_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,20,12,14,35,8,141,CBT,55,32,36,46,38
+2888,elegibilidade_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,20,12,14,35,8,141,CBT,55,32,36,46,38
+2888,reteste_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,11,15,12,36,11,138,CBT,55,32,36,46,38
+2888,elegibilidade_mini_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,11,15,12,36,25,96,CBT,55,32,36,46,38
+2888,desfechos_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,11,15,12,36,25,96,CBT,55,32,36,46,38
+2888,followup_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,11,15,12,36,25,96,CBT,55,32,36,46,38
+2907,recrutamento_arm_1,44.4,Feminine,Superior,Married/United,White,15,15,16,31,20,98,CBT,NA,NA,NA,NA,NA
+2907,elegibilidade_arm_1,44.4,Feminine,Superior,Married/United,White,15,15,16,31,20,98,CBT,NA,NA,NA,NA,NA
+2907,reteste_arm_1,44.4,Feminine,Superior,Married/United,White,6,9,12,29,20,118,CBT,NA,NA,NA,NA,NA
+2907,elegibilidade_mini_arm_1,44.4,Feminine,Superior,Married/United,White,6,9,12,29,24,80,CBT,NA,NA,NA,NA,NA
+2907,desfechos_arm_1,44.4,Feminine,Superior,Married/United,White,6,9,12,29,24,80,CBT,NA,NA,NA,NA,NA
+2907,followup_arm_1,44.4,Feminine,Superior,Married/United,White,6,9,12,29,24,80,CBT,NA,NA,NA,NA,NA
+2910,recrutamento_arm_1,56.8,Feminine,Superior,Married/United,White,9,12,6,34,30,54,ACT,69,57,41,70,66
+2910,elegibilidade_arm_1,56.8,Feminine,Superior,Married/United,White,9,12,6,34,30,54,ACT,69,57,41,70,66
+2910,reteste_arm_1,56.8,Feminine,Superior,Married/United,White,2,11,7,28,30,56,ACT,69,57,41,70,66
+2910,elegibilidade_mini_arm_1,56.8,Feminine,Superior,Married/United,White,2,11,7,28,27,39,ACT,69,57,41,70,66
+2910,desfechos_arm_1,56.8,Feminine,Superior,Married/United,White,2,11,7,28,27,39,ACT,69,57,41,70,66
+2910,followup_arm_1,56.8,Feminine,Superior,Married/United,White,2,11,7,28,27,39,ACT,69,57,41,70,66
+2926,recrutamento_arm_1,51,Feminine,Superior,Married/United,White,23,7,15,34,17,118,CBT,65,39,37,75,66
+2926,elegibilidade_arm_1,51,Feminine,Superior,Married/United,White,23,7,15,34,17,118,CBT,65,39,37,75,66
+2926,reteste_arm_1,51,Feminine,Superior,Married/United,White,8,1,1,10,17,109,CBT,65,39,37,75,66
+2926,elegibilidade_mini_arm_1,51,Feminine,Superior,Married/United,White,8,1,1,10,25,84,CBT,65,39,37,75,66
+2926,desfechos_arm_1,51,Feminine,Superior,Married/United,White,8,1,1,10,25,84,CBT,65,39,37,75,66
+2926,followup_arm_1,51,Feminine,Superior,Married/United,White,8,1,1,10,25,84,CBT,65,39,37,75,66
+2953,recrutamento_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,15,14,3,30,8,104,WL,NA,NA,NA,NA,NA
+2953,elegibilidade_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,15,14,3,30,8,104,WL,NA,NA,NA,NA,NA
+2953,reteste_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,12,6,3,24,15,92,WL,NA,NA,NA,NA,NA
+2953,elegibilidade_mini_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,12,6,3,24,34,78,WL,NA,NA,NA,NA,NA
+2953,desfechos_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,12,6,3,24,34,78,WL,NA,NA,NA,NA,NA
+2953,followup_arm_1,56.31205069,Masculine,Superior,Single/Divorced,White,12,6,3,24,34,78,WL,NA,NA,NA,NA,NA
+2955,recrutamento_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,19,11,13,14,13,95,ACT,56,35,41,52,34
+2955,elegibilidade_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,19,11,13,14,13,95,ACT,56,35,41,52,34
+2955,elegibilidade_mini_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,17,8,7,21,20,92,ACT,56,35,41,52,34
+2955,desfechos_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,17,8,7,21,20,92,ACT,56,35,41,52,34
+2955,followup_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,17,8,7,21,20,92,ACT,56,35,41,52,34
+2957,recrutamento_arm_1,57.4,Feminine,Superior,Married/United,White,20,15,12,32,12,127,WL,51,28,36,57,63
+2957,elegibilidade_arm_1,57.4,Feminine,Superior,Married/United,White,20,15,12,32,12,127,WL,51,28,36,57,63
+2957,reteste_arm_1,57.4,Feminine,Superior,Married/United,White,18,11,10,13,22,113,WL,51,28,36,57,63
+2957,elegibilidade_mini_arm_1,57.4,Feminine,Superior,Married/United,White,18,11,10,13,23,111,WL,51,28,36,57,63
+2957,desfechos_arm_1,57.4,Feminine,Superior,Married/United,White,18,11,10,13,23,111,WL,51,28,36,57,63
+2957,followup_arm_1,57.4,Feminine,Superior,Married/United,White,16,11,9,22,28,110,WL,51,28,36,57,63
+2959,recrutamento_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,19,8,5,24,15,97,CBT,62,42,53,57,53
+2959,elegibilidade_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,19,8,5,24,15,97,CBT,62,42,53,57,53
+2959,reteste_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,13,9,6,27,23,102,CBT,62,42,53,57,53
+2959,elegibilidade_mini_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,13,9,6,27,26,81,CBT,62,42,53,57,53
+2959,desfechos_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,13,9,6,27,26,81,CBT,62,42,53,57,53
+2959,followup_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,13,9,6,27,26,81,CBT,62,42,53,57,53
+2974,recrutamento_arm_1,53.2,Feminine,Superior,Married/United,White,25,18,8,30,11,109,WL,69,33,51,44,50
+2974,elegibilidade_arm_1,53.2,Feminine,Superior,Married/United,White,25,18,8,30,11,109,WL,69,33,51,44,50
+2974,reteste_arm_1,53.2,Feminine,Superior,Married/United,White,23,11,7,28,16,121,WL,69,33,51,44,50
+2974,elegibilidade_mini_arm_1,53.2,Feminine,Superior,Married/United,White,23,11,7,28,11,104,WL,69,33,51,44,50
+2974,desfechos_arm_1,53.2,Feminine,Superior,Married/United,White,23,11,7,28,11,104,WL,69,33,51,44,50
+2974,followup_arm_1,53.2,Feminine,Superior,Married/United,White,23,14,6,29,11,107,WL,69,33,51,44,50
+2988,recrutamento_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,18,10,14,30,16,116,ACT,NA,NA,NA,NA,NA
+2988,elegibilidade_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,18,10,14,30,16,116,ACT,NA,NA,NA,NA,NA
+2988,reteste_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,11,10,12,26,28,107,ACT,NA,NA,NA,NA,NA
+2988,elegibilidade_mini_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,11,10,12,26,35,82,ACT,NA,NA,NA,NA,NA
+2988,desfechos_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,11,10,12,26,35,82,ACT,NA,NA,NA,NA,NA
+2988,followup_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,11,10,12,26,35,82,ACT,NA,NA,NA,NA,NA
+2990,recrutamento_arm_1,37.9,Feminine,Superior,Married/United,White,17,13,11,29,24,110,WL,51,30,42,50,57
+2990,elegibilidade_arm_1,37.9,Feminine,Superior,Married/United,White,17,13,11,29,24,110,WL,51,30,42,50,57
+2990,reteste_arm_1,37.9,Feminine,Superior,Married/United,White,14,10,12,29,30,118,WL,51,30,42,50,57
+2990,elegibilidade_mini_arm_1,37.9,Feminine,Superior,Married/United,White,14,10,12,29,35,89,WL,51,30,42,50,57
+2990,desfechos_arm_1,37.9,Feminine,Superior,Married/United,White,14,10,12,29,35,89,WL,51,30,42,50,57
+2990,followup_arm_1,37.9,Feminine,Superior,Married/United,White,5,2,4,20,39,80,WL,51,30,42,50,57
+3005,recrutamento_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,18,7,9,19,26,109,CBT,48,49,56,62,62
+3005,elegibilidade_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,18,7,9,19,26,109,CBT,48,49,56,62,62
+3005,reteste_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,12,5,5,13,19,83,CBT,48,49,56,62,62
+3005,elegibilidade_mini_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,12,5,5,13,25,57,CBT,48,49,56,62,62
+3005,desfechos_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,12,5,5,13,25,57,CBT,48,49,56,62,62
+3005,followup_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,12,5,5,13,25,57,CBT,48,49,56,62,62
+3012,recrutamento_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,25,13,13,21,17,91,ACT,58,37,54,46,57
+3012,elegibilidade_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,25,13,13,21,17,91,ACT,58,37,54,46,57
+3012,reteste_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,10,6,12,18,14,115,ACT,58,37,54,46,57
+3012,elegibilidade_mini_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,10,6,12,18,29,91,ACT,58,37,54,46,57
+3012,desfechos_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,10,6,12,18,29,91,ACT,58,37,54,46,57
+3012,followup_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,10,6,12,18,29,91,ACT,58,37,54,46,57
+3013,recrutamento_arm_1,29.3,Feminine,Superior,Single/Divorced,White,28,9,5,29,17,118,WL,51,45,36,55,37
+3013,elegibilidade_arm_1,29.3,Feminine,Superior,Single/Divorced,White,28,9,5,29,17,118,WL,51,45,36,55,37
+3013,reteste_arm_1,29.3,Feminine,Superior,Single/Divorced,White,18,8,5,29,19,110,WL,51,45,36,55,37
+3013,elegibilidade_mini_arm_1,29.3,Feminine,Superior,Single/Divorced,White,18,8,5,29,20,100,WL,51,45,36,55,37
+3013,desfechos_arm_1,29.3,Feminine,Superior,Single/Divorced,White,18,8,5,29,20,100,WL,51,45,36,55,37
+3013,followup_arm_1,29.3,Feminine,Superior,Single/Divorced,White,23,7,4,26,21,89,WL,51,45,36,55,37
+3016,recrutamento_arm_1,38.3,Feminine,Superior,Married/United,Non White,28,21,16,47,1,150,WL,NA,NA,NA,NA,NA
+3016,elegibilidade_arm_1,38.3,Feminine,Superior,Married/United,Non White,28,21,16,47,1,150,WL,NA,NA,NA,NA,NA
+3016,elegibilidade_mini_arm_1,38.3,Feminine,Superior,Married/United,Non White,28,9,2,24,1,127,WL,NA,NA,NA,NA,NA
+3016,desfechos_arm_1,38.3,Feminine,Superior,Married/United,Non White,28,9,2,24,1,127,WL,NA,NA,NA,NA,NA
+3016,followup_arm_1,38.3,Feminine,Superior,Married/United,Non White,28,10,5,34,0,141,WL,NA,NA,NA,NA,NA
+3040,recrutamento_arm_1,36.4,Feminine,Superior,Married/United,White,12,2,2,16,29,116,WL,48,33,34,50,54
+3040,elegibilidade_arm_1,36.4,Feminine,Superior,Married/United,White,12,2,2,16,29,116,WL,48,33,34,50,54
+3040,reteste_arm_1,36.4,Feminine,Superior,Married/United,White,12,5,6,15,29,99,WL,48,33,34,50,54
+3040,elegibilidade_mini_arm_1,36.4,Feminine,Superior,Married/United,White,12,5,6,15,33,136,WL,48,33,34,50,54
+3040,desfechos_arm_1,36.4,Feminine,Superior,Married/United,White,12,5,6,15,33,136,WL,48,33,34,50,54
+3040,followup_arm_1,36.4,Feminine,Superior,Married/United,White,11,5,5,19,38,118,WL,48,33,34,50,54
+3042,recrutamento_arm_1,54.2,Feminine,Superior,Married/United,White,20,7,7,34,25,115,ACT,58,20,70,59,60
+3042,elegibilidade_arm_1,54.2,Feminine,Superior,Married/United,White,20,7,7,34,25,115,ACT,58,20,70,59,60
+3042,elegibilidade_mini_arm_1,54.2,Feminine,Superior,Married/United,White,8,5,8,36,23,88,ACT,58,20,70,59,60
+3042,desfechos_arm_1,54.2,Feminine,Superior,Married/United,White,8,5,8,36,23,88,ACT,58,20,70,59,60
+3042,followup_arm_1,54.2,Feminine,Superior,Married/United,White,8,5,8,36,23,88,ACT,58,20,70,59,60
+3048,recrutamento_arm_1,35.5,Feminine,Superior,Single/Divorced,White,20,14,1,26,22,100,WL,61,67,58,62,56
+3048,elegibilidade_arm_1,35.5,Feminine,Superior,Single/Divorced,White,20,14,1,26,22,100,WL,61,67,58,62,56
+3048,reteste_arm_1,35.5,Feminine,Superior,Single/Divorced,White,19,12,3,27,17,91,WL,61,67,58,62,56
+3048,elegibilidade_mini_arm_1,35.5,Feminine,Superior,Single/Divorced,White,19,12,3,27,20,103,WL,61,67,58,62,56
+3048,desfechos_arm_1,35.5,Feminine,Superior,Single/Divorced,White,19,12,3,27,20,103,WL,61,67,58,62,56
+3048,followup_arm_1,35.5,Feminine,Superior,Single/Divorced,White,19,12,3,27,20,103,WL,61,67,58,62,56
+3054,recrutamento_arm_1,46.9,Masculine,Superior,Married/United,Non White,19,15,12,27,10,133,WL,58,50,46,53,54
+3054,elegibilidade_arm_1,46.9,Masculine,Superior,Married/United,Non White,19,15,12,27,10,133,WL,58,50,46,53,54
+3054,reteste_arm_1,46.9,Masculine,Superior,Married/United,Non White,15,11,11,30,19,149,WL,58,50,46,53,54
+3054,elegibilidade_mini_arm_1,46.9,Masculine,Superior,Married/United,Non White,15,11,11,30,14,118,WL,58,50,46,53,54
+3054,desfechos_arm_1,46.9,Masculine,Superior,Married/United,Non White,15,11,11,30,14,118,WL,58,50,46,53,54
+3054,followup_arm_1,46.9,Masculine,Superior,Married/United,Non White,16,13,14,28,10,136,WL,58,50,46,53,54
+3061,recrutamento_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,17,9,11,29,17,126,ACT,65,55,22,59,59
+3061,elegibilidade_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,17,9,11,29,17,126,ACT,65,55,22,59,59
+3061,reteste_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,12,9,8,27,18,129,ACT,65,55,22,59,59
+3061,elegibilidade_mini_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,12,9,8,27,28,107,ACT,65,55,22,59,59
+3061,desfechos_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,12,9,8,27,28,107,ACT,65,55,22,59,59
+3061,followup_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,12,9,8,27,28,107,ACT,65,55,22,59,59
+3063,recrutamento_arm_1,58.8,Feminine,Superior,Single/Divorced,White,20,12,11,32,27,96,ACT,46,50,54,64,57
+3063,elegibilidade_arm_1,58.8,Feminine,Superior,Single/Divorced,White,20,12,11,32,27,96,ACT,46,50,54,64,57
+3063,reteste_arm_1,58.8,Feminine,Superior,Single/Divorced,White,19,6,9,28,25,85,ACT,46,50,54,64,57
+3063,elegibilidade_mini_arm_1,58.8,Feminine,Superior,Single/Divorced,White,19,6,9,28,29,86,ACT,46,50,54,64,57
+3063,desfechos_arm_1,58.8,Feminine,Superior,Single/Divorced,White,19,6,9,28,29,86,ACT,46,50,54,64,57
+3063,followup_arm_1,58.8,Feminine,Superior,Single/Divorced,White,19,6,9,28,29,86,ACT,46,50,54,64,57
+3070,recrutamento_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,14,7,6,12,19,84,CBT,39,52,32,62,57
+3070,elegibilidade_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,14,7,6,12,19,84,CBT,39,52,32,62,57
+3070,reteste_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,8,7,10,18,18,127,CBT,39,52,32,62,57
+3070,elegibilidade_mini_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,8,7,10,18,18,65,CBT,39,52,32,62,57
+3070,desfechos_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,8,7,10,18,18,65,CBT,39,52,32,62,57
+3070,followup_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,8,7,10,18,18,65,CBT,39,52,32,62,57
+3075,recrutamento_arm_1,51.2,Feminine,Superior,Married/United,White,23,7,2,23,17,117,ACT,52,32,44,64,44
+3075,elegibilidade_arm_1,51.2,Feminine,Superior,Married/United,White,23,7,2,23,17,117,ACT,52,32,44,64,44
+3075,reteste_arm_1,51.2,Feminine,Superior,Married/United,White,8,4,5,20,7,105,ACT,52,32,44,64,44
+3075,elegibilidade_mini_arm_1,51.2,Feminine,Superior,Married/United,White,8,4,5,20,18,88,ACT,52,32,44,64,44
+3075,desfechos_arm_1,51.2,Feminine,Superior,Married/United,White,8,4,5,20,18,88,ACT,52,32,44,64,44
+3075,followup_arm_1,51.2,Feminine,Superior,Married/United,White,8,4,5,20,18,88,ACT,52,32,44,64,44
+3077,recrutamento_arm_1,54.1,Feminine,Superior,Single/Divorced,White,26,14,10,32,11,140,CBT,55,59,61,57,34
+3077,elegibilidade_arm_1,54.1,Feminine,Superior,Single/Divorced,White,26,14,10,32,11,140,CBT,55,59,61,57,34
+3077,reteste_arm_1,54.1,Feminine,Superior,Single/Divorced,White,10,15,9,29,6,142,CBT,55,59,61,57,34
+3077,elegibilidade_mini_arm_1,54.1,Feminine,Superior,Single/Divorced,White,10,15,9,29,18,115,CBT,55,59,61,57,34
+3077,desfechos_arm_1,54.1,Feminine,Superior,Single/Divorced,White,10,15,9,29,18,115,CBT,55,59,61,57,34
+3077,followup_arm_1,54.1,Feminine,Superior,Single/Divorced,White,10,15,9,29,18,115,CBT,55,59,61,57,34
+3097,recrutamento_arm_1,45,Masculine,Superior,Married/United,White,20,15,11,42,17,152,WL,68,55,34,44,44
+3097,elegibilidade_arm_1,45,Masculine,Superior,Married/United,White,20,15,11,42,17,152,WL,68,55,34,44,44
+3097,reteste_arm_1,45,Masculine,Superior,Married/United,White,14,13,10,39,8,158,WL,68,55,34,44,44
+3097,elegibilidade_mini_arm_1,45,Masculine,Superior,Married/United,White,14,13,10,39,16,150,WL,68,55,34,44,44
+3097,desfechos_arm_1,45,Masculine,Superior,Married/United,White,14,13,10,39,16,150,WL,68,55,34,44,44
+3097,followup_arm_1,45,Masculine,Superior,Married/United,White,20,11,9,26,23,156,WL,68,55,34,44,44
+3113,recrutamento_arm_1,47.9,Masculine,Superior,Married/United,White,18,6,7,32,22,118,CBT,69,20,49,42,37
+3113,elegibilidade_arm_1,47.9,Masculine,Superior,Married/United,White,18,6,7,32,22,118,CBT,69,20,49,42,37
+3113,reteste_arm_1,47.9,Masculine,Superior,Married/United,White,11,8,5,28,24,126,CBT,69,20,49,42,37
+3113,elegibilidade_mini_arm_1,47.9,Masculine,Superior,Married/United,White,11,8,5,28,23,92,CBT,69,20,49,42,37
+3113,desfechos_arm_1,47.9,Masculine,Superior,Married/United,White,11,8,5,28,23,92,CBT,69,20,49,42,37
+3113,followup_arm_1,47.9,Masculine,Superior,Married/United,White,11,8,5,28,23,92,CBT,69,20,49,42,37
+3120,recrutamento_arm_1,37.7,Feminine,Superior,Married/United,White,20,10,0,22,23,79,CBT,71,40,27,32,32
+3120,elegibilidade_arm_1,37.7,Feminine,Superior,Married/United,White,20,10,0,22,23,79,CBT,71,40,27,32,32
+3120,reteste_arm_1,37.7,Feminine,Superior,Married/United,White,10,11,3,29,15,110,CBT,71,40,27,32,32
+3120,elegibilidade_mini_arm_1,37.7,Feminine,Superior,Married/United,White,10,11,3,29,31,47,CBT,71,40,27,32,32
+3120,desfechos_arm_1,37.7,Feminine,Superior,Married/United,White,10,11,3,29,31,47,CBT,71,40,27,32,32
+3120,followup_arm_1,37.7,Feminine,Superior,Married/United,White,10,11,3,29,31,47,CBT,71,40,27,32,32
+3148,recrutamento_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,18,12,11,39,5,118,WL,79,28,49,61,31
+3148,elegibilidade_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,18,12,11,39,5,118,WL,79,28,49,61,31
+3148,reteste_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,14,11,12,39,9,103,WL,79,28,49,61,31
+3148,elegibilidade_mini_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,14,11,12,39,12,86,WL,79,28,49,61,31
+3148,desfechos_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,14,11,12,39,12,86,WL,79,28,49,61,31
+3148,followup_arm_1,26.4,Masculine,Nao Superior,Single/Divorced,White,14,11,12,39,12,86,WL,79,28,49,61,31
+3156,recrutamento_arm_1,35.3,Feminine,Superior,Single/Divorced,White,24,7,8,20,12,120,ACT,42,57,56,55,66
+3156,elegibilidade_arm_1,35.3,Feminine,Superior,Single/Divorced,White,24,7,8,20,12,120,ACT,42,57,56,55,66
+3156,reteste_arm_1,35.3,Feminine,Superior,Single/Divorced,White,18,7,8,20,11,132,ACT,42,57,56,55,66
+3156,elegibilidade_mini_arm_1,35.3,Feminine,Superior,Single/Divorced,White,18,7,8,20,14,101,ACT,42,57,56,55,66
+3156,desfechos_arm_1,35.3,Feminine,Superior,Single/Divorced,White,18,7,8,20,14,101,ACT,42,57,56,55,66
+3156,followup_arm_1,35.3,Feminine,Superior,Single/Divorced,White,18,7,8,20,14,101,ACT,42,57,56,55,66
+3157,recrutamento_arm_1,32.2,Feminine,Superior,Single/Divorced,White,14,4,8,20,27,95,ACT,42,33,63,39,53
+3157,elegibilidade_arm_1,32.2,Feminine,Superior,Single/Divorced,White,14,4,8,20,27,95,ACT,42,33,63,39,53
+3157,reteste_arm_1,32.2,Feminine,Superior,Single/Divorced,White,11,7,6,25,28,104,ACT,42,33,63,39,53
+3157,elegibilidade_mini_arm_1,32.2,Feminine,Superior,Single/Divorced,White,11,7,6,25,25,84,ACT,42,33,63,39,53
+3157,desfechos_arm_1,32.2,Feminine,Superior,Single/Divorced,White,11,7,6,25,25,84,ACT,42,33,63,39,53
+3157,followup_arm_1,32.2,Feminine,Superior,Single/Divorced,White,11,7,6,25,25,84,ACT,42,33,63,39,53
+3166,recrutamento_arm_1,47,Feminine,Superior,Single/Divorced,White,21,7,8,16,17,105,ACT,NA,NA,NA,NA,NA
+3166,elegibilidade_arm_1,47,Feminine,Superior,Single/Divorced,White,21,7,8,16,17,105,ACT,NA,NA,NA,NA,NA
+3166,reteste_arm_1,47,Feminine,Superior,Single/Divorced,White,5,1,3,14,12,100,ACT,NA,NA,NA,NA,NA
+3166,elegibilidade_mini_arm_1,47,Feminine,Superior,Single/Divorced,White,5,1,3,14,37,56,ACT,NA,NA,NA,NA,NA
+3166,desfechos_arm_1,47,Feminine,Superior,Single/Divorced,White,5,1,3,14,37,56,ACT,NA,NA,NA,NA,NA
+3166,followup_arm_1,47,Feminine,Superior,Single/Divorced,White,5,1,3,14,37,56,ACT,NA,NA,NA,NA,NA
+3168,recrutamento_arm_1,36,Feminine,Superior,Married/United,White,15,5,5,23,40,129,CBT,NA,NA,NA,NA,NA
+3168,elegibilidade_arm_1,36,Feminine,Superior,Married/United,White,15,5,5,23,40,129,CBT,NA,NA,NA,NA,NA
+3168,reteste_arm_1,36,Feminine,Superior,Married/United,White,15,5,5,23,41,82,CBT,NA,NA,NA,NA,NA
+3168,elegibilidade_mini_arm_1,36,Feminine,Superior,Married/United,White,15,5,5,23,41,82,CBT,NA,NA,NA,NA,NA
+3192,recrutamento_arm_1,51.5,Feminine,Superior,Single/Divorced,White,24,13,7,33,6,134,ACT,NA,NA,NA,NA,NA
+3192,elegibilidade_arm_1,51.5,Feminine,Superior,Single/Divorced,White,24,13,7,33,6,134,ACT,NA,NA,NA,NA,NA
+3192,reteste_arm_1,51.5,Feminine,Superior,Single/Divorced,White,24,13,7,33,19,111,ACT,NA,NA,NA,NA,NA
+3192,elegibilidade_mini_arm_1,51.5,Feminine,Superior,Single/Divorced,White,24,13,7,33,19,111,ACT,NA,NA,NA,NA,NA
+3192,desfechos_arm_1,51.5,Feminine,Superior,Single/Divorced,White,24,13,7,33,19,111,ACT,NA,NA,NA,NA,NA
+3209,recrutamento_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,12,2,4,12,30,86,CBT,41,37,51,52,47
+3209,elegibilidade_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,12,2,4,12,30,86,CBT,41,37,51,52,47
+3209,reteste_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,3,2,4,9,32,80,CBT,41,37,51,52,47
+3209,elegibilidade_mini_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,3,2,4,9,43,77,CBT,41,37,51,52,47
+3209,desfechos_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,3,2,4,9,43,77,CBT,41,37,51,52,47
+3209,followup_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,3,2,4,9,43,77,CBT,41,37,51,52,47
+3250,recrutamento_arm_1,27.3,Feminine,Nao Superior,Married/United,White,20,17,7,22,20,127,ACT,69,47,56,48,53
+3250,elegibilidade_arm_1,27.3,Feminine,Nao Superior,Married/United,White,20,17,7,22,20,127,ACT,69,47,56,48,53
+3250,reteste_arm_1,27.3,Feminine,Nao Superior,Married/United,White,7,10,5,23,15,121,ACT,69,47,56,48,53
+3250,elegibilidade_mini_arm_1,27.3,Feminine,Nao Superior,Married/United,White,7,10,5,23,31,83,ACT,69,47,56,48,53
+3250,desfechos_arm_1,27.3,Feminine,Nao Superior,Married/United,White,7,10,5,23,31,83,ACT,69,47,56,48,53
+3250,followup_arm_1,27.3,Feminine,Nao Superior,Married/United,White,7,10,5,23,31,83,ACT,69,47,56,48,53
+3251,recrutamento_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,20,14,9,44,12,149,WL,NA,NA,NA,NA,NA
+3251,elegibilidade_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,20,14,9,44,12,149,WL,NA,NA,NA,NA,NA
+3251,reteste_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,26,17,12,41,14,141,WL,NA,NA,NA,NA,NA
+3251,elegibilidade_mini_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,26,17,12,41,16,142,WL,NA,NA,NA,NA,NA
+3251,desfechos_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,26,17,12,41,16,142,WL,NA,NA,NA,NA,NA
+3251,followup_arm_1,36.1,Feminine,Superior,Single/Divorced,Non White,26,17,12,41,16,142,WL,NA,NA,NA,NA,NA
+3267,recrutamento_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,19,12,6,28,14,126,CBT,62,35,39,53,43
+3267,elegibilidade_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,19,12,6,28,14,126,CBT,62,35,39,53,43
+3267,reteste_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,8,10,5,16,13,120,CBT,62,35,39,53,43
+3267,elegibilidade_mini_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,8,10,5,16,37,57,CBT,62,35,39,53,43
+3267,desfechos_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,8,10,5,16,37,57,CBT,62,35,39,53,43
+3267,followup_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,8,10,5,16,37,57,CBT,62,35,39,53,43
+3304,recrutamento_arm_1,39.26380308,Masculine,Superior,Single/Divorced,White,19,14,16,41,9,138,CBT,NA,NA,NA,NA,NA
+3304,elegibilidade_arm_1,39.26380308,Masculine,Superior,Single/Divorced,White,19,14,16,41,9,138,CBT,NA,NA,NA,NA,NA
+3304,reteste_arm_1,39.26380308,Masculine,Superior,Single/Divorced,White,19,14,16,41,14,139,CBT,NA,NA,NA,NA,NA
+3304,elegibilidade_mini_arm_1,39.26380308,Masculine,Superior,Single/Divorced,White,19,14,16,41,14,139,CBT,NA,NA,NA,NA,NA
+3304,desfechos_arm_1,39.26380308,Masculine,Superior,Single/Divorced,White,19,14,16,41,14,139,CBT,NA,NA,NA,NA,NA
+3310,recrutamento_arm_1,34.8,Feminine,Nao Superior,Single/Divorced,Non White,23,12,8,31,20,131,WL,NA,NA,NA,NA,NA
+3310,elegibilidade_arm_1,34.8,Feminine,Nao Superior,Single/Divorced,Non White,23,12,8,31,20,131,WL,NA,NA,NA,NA,NA
+3310,elegibilidade_mini_arm_1,34.8,Feminine,Nao Superior,Single/Divorced,Non White,12,9,9,40,20,146,WL,NA,NA,NA,NA,NA
+3310,desfechos_arm_1,34.8,Feminine,Nao Superior,Single/Divorced,Non White,12,9,9,40,20,146,WL,NA,NA,NA,NA,NA
+3310,followup_arm_1,34.8,Feminine,Nao Superior,Single/Divorced,Non White,12,9,9,40,20,146,WL,NA,NA,NA,NA,NA
+3311,recrutamento_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,24,11,15,48,9,139,WL,NA,NA,NA,NA,NA
+3311,elegibilidade_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,24,11,15,48,9,139,WL,NA,NA,NA,NA,NA
+3311,reteste_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,25,15,17,43,9,131,WL,NA,NA,NA,NA,NA
+3311,elegibilidade_mini_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,25,15,17,43,6,127,WL,NA,NA,NA,NA,NA
+3311,desfechos_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,25,15,17,43,6,127,WL,NA,NA,NA,NA,NA
+3311,followup_arm_1,56.5,Feminine,Nao Superior,Single/Divorced,White,25,15,17,43,6,127,WL,NA,NA,NA,NA,NA
+3325,recrutamento_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,21,16,12,41,11,136,CBT,63,47,53,46,40
+3325,elegibilidade_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,21,16,12,41,11,136,CBT,63,47,53,46,40
+3325,elegibilidade_mini_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,14,15,9,32,10,133,CBT,63,47,53,46,40
+3325,desfechos_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,14,15,9,32,10,133,CBT,63,47,53,46,40
+3325,followup_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,14,15,9,32,10,133,CBT,63,47,53,46,40
+3355,recrutamento_arm_1,42.2,Feminine,Superior,Single/Divorced,White,20,14,11,39,15,111,ACT,NA,NA,NA,NA,NA
+3355,elegibilidade_arm_1,42.2,Feminine,Superior,Single/Divorced,White,20,14,11,39,15,111,ACT,NA,NA,NA,NA,NA
+3355,reteste_arm_1,42.2,Feminine,Superior,Single/Divorced,White,9,13,12,44,20,135,ACT,NA,NA,NA,NA,NA
+3355,elegibilidade_mini_arm_1,42.2,Feminine,Superior,Single/Divorced,White,9,13,12,44,29,110,ACT,NA,NA,NA,NA,NA
+3355,desfechos_arm_1,42.2,Feminine,Superior,Single/Divorced,White,9,13,12,44,29,110,ACT,NA,NA,NA,NA,NA
+3355,followup_arm_1,42.2,Feminine,Superior,Single/Divorced,White,9,13,12,44,29,110,ACT,NA,NA,NA,NA,NA
+3358,recrutamento_arm_1,52.5,Masculine,Superior,Married/United,White,22,11,14,28,13,142,ACT,NA,NA,NA,NA,NA
+3358,elegibilidade_arm_1,52.5,Masculine,Superior,Married/United,White,22,11,14,28,13,142,ACT,NA,NA,NA,NA,NA
+3358,reteste_arm_1,52.5,Masculine,Superior,Married/United,White,18,8,8,27,8,134,ACT,NA,NA,NA,NA,NA
+3358,elegibilidade_mini_arm_1,52.5,Masculine,Superior,Married/United,White,18,8,8,27,16,130,ACT,NA,NA,NA,NA,NA
+3358,desfechos_arm_1,52.5,Masculine,Superior,Married/United,White,18,8,8,27,16,130,ACT,NA,NA,NA,NA,NA
+3358,followup_arm_1,52.5,Masculine,Superior,Married/United,White,18,8,8,27,16,130,ACT,NA,NA,NA,NA,NA
+3368,recrutamento_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,12,6,25,18,101,ACT,49,42,46,53,43
+3368,elegibilidade_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,12,6,25,18,101,ACT,49,42,46,53,43
+3368,reteste_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,6,4,22,11,122,ACT,49,42,46,53,43
+3368,elegibilidade_mini_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,6,4,22,18,89,ACT,49,42,46,53,43
+3368,desfechos_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,6,4,22,18,89,ACT,49,42,46,53,43
+3368,followup_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,6,4,22,18,89,ACT,49,42,46,53,43
+3392,recrutamento_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,26,14,12,33,4,143,CBT,73,42,46,57,53
+3392,elegibilidade_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,26,14,12,33,4,143,CBT,73,42,46,57,53
+3392,reteste_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,10,8,5,17,9,147,CBT,73,42,46,57,53
+3392,elegibilidade_mini_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,10,8,5,17,28,59,CBT,73,42,46,57,53
+3392,desfechos_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,10,8,5,17,28,59,CBT,73,42,46,57,53
+3392,followup_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,10,8,5,17,28,59,CBT,73,42,46,57,53
+3395,recrutamento_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,19,12,9,23,15,107,CBT,51,42,51,64,56
+3395,elegibilidade_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,19,12,9,23,15,107,CBT,51,42,51,64,56
+3395,reteste_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,6,14,12,33,13,123,CBT,51,42,51,64,56
+3395,elegibilidade_mini_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,6,14,12,33,26,73,CBT,51,42,51,64,56
+3395,desfechos_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,6,14,12,33,26,73,CBT,51,42,51,64,56
+3395,followup_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,6,14,12,33,26,73,CBT,51,42,51,64,56
+3408,recrutamento_arm_1,37.6,Masculine,Superior,Married/United,White,12,10,5,19,26,103,CBT,NA,NA,NA,NA,NA
+3408,elegibilidade_arm_1,37.6,Masculine,Superior,Married/United,White,12,10,5,19,26,103,CBT,NA,NA,NA,NA,NA
+3408,reteste_arm_1,37.6,Masculine,Superior,Married/United,White,4,2,2,10,26,107,CBT,NA,NA,NA,NA,NA
+3408,elegibilidade_mini_arm_1,37.6,Masculine,Superior,Married/United,White,4,2,2,10,39,29,CBT,NA,NA,NA,NA,NA
+3408,desfechos_arm_1,37.6,Masculine,Superior,Married/United,White,4,2,2,10,39,29,CBT,NA,NA,NA,NA,NA
+3408,followup_arm_1,37.6,Masculine,Superior,Married/United,White,4,2,2,10,39,29,CBT,NA,NA,NA,NA,NA
+3435,recrutamento_arm_1,32.9,Feminine,Superior,Married/United,White,18,11,7,21,23,113,WL,62,65,29,53,40
+3435,elegibilidade_arm_1,32.9,Feminine,Superior,Married/United,White,18,11,7,21,23,113,WL,62,65,29,53,40
+3435,reteste_arm_1,32.9,Feminine,Superior,Married/United,White,18,8,7,21,18,124,WL,62,65,29,53,40
+3435,elegibilidade_mini_arm_1,32.9,Feminine,Superior,Married/United,White,18,8,7,21,29,107,WL,62,65,29,53,40
+3435,desfechos_arm_1,32.9,Feminine,Superior,Married/United,White,18,8,7,21,29,107,WL,62,65,29,53,40
+3435,followup_arm_1,32.9,Feminine,Superior,Married/United,White,18,8,7,21,29,107,WL,62,65,29,53,40
+3454,recrutamento_arm_1,37.7,Feminine,Superior,Single/Divorced,White,25,12,7,27,12,140,ACT,NA,NA,NA,NA,NA
+3454,elegibilidade_arm_1,37.7,Feminine,Superior,Single/Divorced,White,25,12,7,27,12,140,ACT,NA,NA,NA,NA,NA
+3454,reteste_arm_1,37.7,Feminine,Superior,Single/Divorced,White,21,13,10,26,12,142,ACT,NA,NA,NA,NA,NA
+3454,elegibilidade_mini_arm_1,37.7,Feminine,Superior,Single/Divorced,White,21,13,10,26,13,133,ACT,NA,NA,NA,NA,NA
+3454,desfechos_arm_1,37.7,Feminine,Superior,Single/Divorced,White,21,13,10,26,13,133,ACT,NA,NA,NA,NA,NA
+3454,followup_arm_1,37.7,Feminine,Superior,Single/Divorced,White,21,13,10,26,13,133,ACT,NA,NA,NA,NA,NA
+3460,recrutamento_arm_1,50.3,Feminine,Superior,Married/United,White,24,12,14,43,9,135,CBT,71,35,53,35,29
+3460,elegibilidade_arm_1,50.3,Feminine,Superior,Married/United,White,24,12,14,43,9,135,CBT,71,35,53,35,29
+3460,elegibilidade_mini_arm_1,50.3,Feminine,Superior,Married/United,White,24,12,14,43,9,135,CBT,71,35,53,35,29
+3460,desfechos_arm_1,50.3,Feminine,Superior,Married/United,White,24,12,14,43,9,135,CBT,71,35,53,35,29
+3478,recrutamento_arm_1,30.7,Feminine,Superior,Single/Divorced,White,22,8,7,26,10,137,ACT,58,47,70,55,56
+3478,elegibilidade_arm_1,30.7,Feminine,Superior,Single/Divorced,White,22,8,7,26,10,137,ACT,58,47,70,55,56
+3478,reteste_arm_1,30.7,Feminine,Superior,Single/Divorced,White,21,9,2,22,14,146,ACT,58,47,70,55,56
+3478,elegibilidade_mini_arm_1,30.7,Feminine,Superior,Single/Divorced,White,21,9,2,22,34,116,ACT,58,47,70,55,56
+3478,desfechos_arm_1,30.7,Feminine,Superior,Single/Divorced,White,21,9,2,22,34,116,ACT,58,47,70,55,56
+3478,followup_arm_1,30.7,Feminine,Superior,Single/Divorced,White,21,9,2,22,34,116,ACT,58,47,70,55,56
+3482,recrutamento_arm_1,44.5,Feminine,Nao Superior,Married/United,White,23,9,12,29,6,124,ACT,53,32,34,52,41
+3482,elegibilidade_arm_1,44.5,Feminine,Nao Superior,Married/United,White,23,9,12,29,6,124,ACT,53,32,34,52,41
+3482,reteste_arm_1,44.5,Feminine,Nao Superior,Married/United,White,11,7,9,33,5,101,ACT,53,32,34,52,41
+3482,elegibilidade_mini_arm_1,44.5,Feminine,Nao Superior,Married/United,White,11,7,9,33,26,44,ACT,53,32,34,52,41
+3482,desfechos_arm_1,44.5,Feminine,Nao Superior,Married/United,White,11,7,9,33,26,44,ACT,53,32,34,52,41
+3482,followup_arm_1,44.5,Feminine,Nao Superior,Married/United,White,11,7,9,33,26,44,ACT,53,32,34,52,41
+3486,recrutamento_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,16,13,41,4,141,WL,76,25,42,53,35
+3486,elegibilidade_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,16,13,41,4,141,WL,76,25,42,53,35
+3486,reteste_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,19,17,48,9,153,WL,76,25,42,53,35
+3486,elegibilidade_mini_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,19,17,48,3,135,WL,76,25,42,53,35
+3486,desfechos_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,19,17,48,3,135,WL,76,25,42,53,35
+3486,followup_arm_1,31.6,Feminine,Superior,Single/Divorced,White,27,19,17,48,3,135,WL,76,25,42,53,35
+3489,recrutamento_arm_1,37.4,Feminine,Superior,Married/United,Non White,21,9,10,29,4,125,WL,61,55,61,41,43
+3489,elegibilidade_arm_1,37.4,Feminine,Superior,Married/United,Non White,21,9,10,29,4,125,WL,61,55,61,41,43
+3489,reteste_arm_1,37.4,Feminine,Superior,Married/United,Non White,11,8,9,30,6,134,WL,61,55,61,41,43
+3489,elegibilidade_mini_arm_1,37.4,Feminine,Superior,Married/United,Non White,11,8,9,30,19,126,WL,61,55,61,41,43
+3489,desfechos_arm_1,37.4,Feminine,Superior,Married/United,Non White,11,8,9,30,19,126,WL,61,55,61,41,43
+3489,followup_arm_1,37.4,Feminine,Superior,Married/United,Non White,11,8,9,30,19,126,WL,61,55,61,41,43
+3516,recrutamento_arm_1,42.7,Feminine,Superior,Married/United,NA,17,9,1,12,18,116,CBT,58,64,61,48,50
+3516,elegibilidade_arm_1,42.7,Feminine,Superior,Married/United,NA,17,9,1,12,18,116,CBT,58,64,61,48,50
+3516,reteste_arm_1,42.7,Feminine,Superior,Married/United,NA,10,8,1,15,25,125,CBT,58,64,61,48,50
+3516,elegibilidade_mini_arm_1,42.7,Feminine,Superior,Married/United,NA,10,8,1,15,28,90,CBT,58,64,61,48,50
+3516,desfechos_arm_1,42.7,Feminine,Superior,Married/United,NA,10,8,1,15,28,90,CBT,58,64,61,48,50
+3516,followup_arm_1,42.7,Feminine,Superior,Married/United,NA,10,8,1,15,28,90,CBT,58,64,61,48,50
+3520,recrutamento_arm_1,37,Masculine,Superior,Single/Divorced,White,23,9,4,34,25,115,WL,62,64,44,46,63
+3520,elegibilidade_arm_1,37,Masculine,Superior,Single/Divorced,White,23,9,4,34,25,115,WL,62,64,44,46,63
+3520,reteste_arm_1,37,Masculine,Superior,Single/Divorced,White,13,4,3,26,29,75,WL,62,64,44,46,63
+3520,elegibilidade_mini_arm_1,37,Masculine,Superior,Single/Divorced,White,13,4,3,26,33,90,WL,62,64,44,46,63
+3520,desfechos_arm_1,37,Masculine,Superior,Single/Divorced,White,13,4,3,26,33,90,WL,62,64,44,46,63
+3520,followup_arm_1,37,Masculine,Superior,Single/Divorced,White,13,4,3,26,33,90,WL,62,64,44,46,63
+3544,recrutamento_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,10,128,CBT,NA,NA,NA,NA,NA
+3544,elegibilidade_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,10,128,CBT,NA,NA,NA,NA,NA
+3544,reteste_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,9,137,CBT,NA,NA,NA,NA,NA
+3544,elegibilidade_mini_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,9,137,CBT,NA,NA,NA,NA,NA
+3544,desfechos_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,9,137,CBT,NA,NA,NA,NA,NA
+3544,followup_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,9,137,CBT,NA,NA,NA,NA,NA
+3545,recrutamento_arm_1,49.4,Masculine,Superior,Married/United,Non White,24,14,12,24,3,135,WL,NA,NA,NA,NA,NA
+3545,elegibilidade_arm_1,49.4,Masculine,Superior,Married/United,Non White,24,14,12,24,3,135,WL,NA,NA,NA,NA,NA
+3545,reteste_arm_1,49.4,Masculine,Superior,Married/United,Non White,15,9,11,24,5,128,WL,NA,NA,NA,NA,NA
+3545,elegibilidade_mini_arm_1,49.4,Masculine,Superior,Married/United,Non White,15,9,11,24,11,116,WL,NA,NA,NA,NA,NA
+3545,desfechos_arm_1,49.4,Masculine,Superior,Married/United,Non White,15,9,11,24,11,116,WL,NA,NA,NA,NA,NA
+3545,followup_arm_1,49.4,Masculine,Superior,Married/United,Non White,15,9,11,24,11,116,WL,NA,NA,NA,NA,NA

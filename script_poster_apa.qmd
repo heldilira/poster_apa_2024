@@ -1,0 +1,531 @@
+```{r}
+#| label: Import Packages
+library(tidyverse)
+library(readr)
+library(readxl)
+library(summarytools)
+library(gtsummary)
+library(modelsummary)
+library(jtools)
+library(patchwork)
+library(easystats)
+library(nnet)
+library(qrcode)
+library(janitor)
+library(esquisse)
+library(labelled)
+library(lme4)
+library(DHARMa)
+library(car)
+```
+
+```{r}
+#| label: Import Data
+df <- read_csv("data/banco_ila_personalidade_rct.csv")
+```
+
+```{r}
+#| label: dfSummary
+
+df |> 
+  dfSummary(round.digits = 1) |> 
+  stview()
+
+# Saved to /output for later reference
+```
+
+# Data Cleaning/Recoding
+
+```{r}
+#| label: Clean Data
+
+clean_df <- df |> 
+  clean_names() |>
+  rename(idade = idade_594) |> 
+  mutate(
+    sexo_tr = case_when(
+      sexo == 1 ~ "Feminine",
+      sexo == 2 ~ "Masculine"),
+    escolaridade_tr = case_when(
+      escolaridade <= 8 ~ "Nao Superior",
+      escolaridade >= 9 ~ "Superior"),
+    estado_civil_tr = case_when(
+      estado_civil <= 2 ~ "Married/United",
+      estado_civil >= 3 ~ "Single/Divorced"),
+    randomizacao_tr = case_when(
+      randomizacao == 1 ~ "ACT",
+      randomizacao == 2 ~ "CBT",
+      randomizacao == 3 ~ "WL"),
+    etnia_tr = case_when(
+      etnia == 1 ~ "White",
+      etnia >= 2 ~ "Non White"))|> 
+  select(record_id,redcap_event_name, idade, sexo, sexo_tr, escolaridade, escolaridade_tr, estado_civil, estado_civil_tr, etnia, etnia_tr, igi_escore, ehad_ansiedade_escore, ehad_depressao_escore, aaq_score, spaq_score, dbas_score, randomizacao, randomizacao_tr, neuroticismo_escore_t, extroversao_escore_t, abertura_escore_t, amabilidade_escore_t, conscienciosidade_escore_t) |> 
+  mutate(across(c("redcap_event_name", "sexo_tr", "escolaridade_tr", "estado_civil_tr", "etnia_tr", "randomizacao_tr"), as_factor))
+
+# Checking if the transformations are correct
+clean_df |> 
+  dfSummary(round.digits = 1) |> 
+  stview()
+
+# Selecting only the necessary variables
+clean_select_df <- clean_df |> 
+  select(record_id, redcap_event_name, idade, sexo_tr, escolaridade_tr, estado_civil_tr, etnia_tr, igi_escore, ehad_ansiedade_escore, ehad_depressao_escore, aaq_score, spaq_score, dbas_score, randomizacao_tr, neuroticismo_escore_t, extroversao_escore_t, abertura_escore_t, amabilidade_escore_t, conscienciosidade_escore_t)
+
+# Relevelling the Randomization Variable   
+clean_select_df$randomizacao_tr <- fct_relevel(clean_select_df$randomizacao_tr, c("WL", "ACT", "CBT"))
+
+write_csv(clean_select_df, file = "data/clean_select_df.csv")
+```
+
+```{r}
+#| label: Labelling variables
+ 
+clean_select_df <- clean_select_df |> 
+  set_variable_labels(
+    idade = "Age",
+    sexo_tr = "Sex",
+    escolaridade_tr = "Education",
+    estado_civil_tr = "Marital Status",
+    etnia_tr = "Ethnicity",
+    igi_escore = "ISI score",
+    ehad_depressao_escore = "Depression Score (HADS-D)",
+    ehad_ansiedade_escore = "Anxiety Score (HADS-A)", 
+    aaq_score = "AAQ Score",
+    spaq_score = "SPAQ Score", 
+    dbas_score = "DBAS Score", 
+    randomizacao_tr = "Group", 
+    neuroticismo_escore_t = "Neuroticism (t-score)",
+    extroversao_escore_t = "Extroversion (t-score)", 
+    abertura_escore_t = "Openness (t-score)",
+    amabilidade_escore_t = "Agreeableness (t-score)", 
+    conscienciosidade_escore_t = "Conscientiousness (t-score)")
+```
+
+# Descriptives
+
+```{r}
+#| label: Descriptives for the poster
+
+banco_pre_poster <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr)) |> 
+  select(idade, sexo_tr, escolaridade_tr, estado_civil_tr, igi_escore, ehad_ansiedade_escore, ehad_depressao_escore, aaq_score, dbas_score, randomizacao_tr) |> 
+  mutate(escolaridade_tr = case_when(
+    escolaridade_tr == "Superior" ~ "High Education", 
+    escolaridade_tr == "Nao Superior" ~ "Basic Education")) |> 
+  rename("Education" = escolaridade_tr)
+
+
+pre_descriptives_poster <- banco_pre_poster |>  
+  tbl_summary(by = randomizacao_tr,
+    statistic = list(
+    all_continuous() ~ "{mean} ({sd})",
+    all_categorical() ~ "{n} / {N} ({p}%)"),
+    missing = "no",
+    digits = all_continuous() ~ 1) |> add_p()
+
+
+# Convert gtsummary table to data frame
+pre_descriptives_poster <- as.data.frame(pre_descriptives_poster)
+
+# Export data frame to CSV
+write.csv(pre_descriptives_poster, "data/table1.csv", row.names = FALSE)
+#saveRDS(object = pre_descriptives_poster, file = "data/table1.RDS")
+```
+
+```{r}
+#| label: Descriptives banco_pre
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+pre_descriptives <- banco_pre |>  
+  tbl_summary(by = randomizacao_tr,
+    statistic = list(
+    all_continuous() ~ "{mean} ({sd})",
+    all_categorical() ~ "{n} / {N} ({p}%)"),
+    missing_text = "NA",
+    digits = all_continuous() ~ 1) |> add_p()
+
+pre_descriptives
+```
+
+```{r}
+#| label: Descriptives banco_pos
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+pos_descriptives <- banco_pos |>  
+  tbl_summary(by = randomizacao_tr,
+    statistic = list(
+    all_continuous() ~ "{mean} ({sd})",
+    all_categorical() ~ "{n} / {N} ({p}%)"),
+    missing_text = "NA",
+    digits = all_continuous() ~ 1) |> add_p()
+
+pos_descriptives
+```
+
+```{r}
+#| label: Descriptives banco followup
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+followup_descriptives <- banco_followup |>  
+  tbl_summary(by = randomizacao_tr,
+    statistic = list(
+    all_continuous() ~ "{mean} ({sd})",
+    all_categorical() ~ "{n} / {N} ({p}%)"), 
+    missing_text = "NA",
+    digits = all_continuous() ~ 1) |> add_p()
+
+followup_descriptives
+```
+
+# Multinomial Logistic Regression
+
+```{r}
+#| label: Multinomial Logistic Models (ref = WL) with sociodemographic variables
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+
+# Pre Data
+  pre_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre)
+
+# Pos Data
+  pos_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos)
+
+# Followup Data 
+  followup_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup)
+
+panels <- list("Pre" = pre_nomial_regresssion, "Pos" = pos_nomial_regresssion, "Follow Up" = followup_nomial_regresssion)
+
+modelsummary(panels,
+             shape = response ~ model,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+```
+
+```{r}
+#| label: Multinomial Logistic Models (ref = WL) excluding sociodemographic
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("WL", "ACT", "CBT")))
+
+# Pre Data
+  pre_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre)
+
+# Pos Data
+  pos_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos)
+
+# Followup Data 
+  followup_nomial_regresssion <- nnet::multinom(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup)
+
+panels <- list("Pre" = pre_nomial_regresssion, "Pos" = pos_nomial_regresssion, "Follow Up" = followup_nomial_regresssion)
+
+modelsummary(panels,
+             shape = response ~ model,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+```
+
+# Binomial Logistic Regression
+
+```{r}
+#| label: Binomial Logistic Models (ref = CBT) with sociodemographic variables
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+bin_log_models <- list("Pre" = glm(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre, family = binomial), 
+     "Pos" = glm(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos, family = binomial),
+     "Follow Up" = glm(randomizacao_tr ~ idade + sexo_tr + estado_civil_tr + etnia_tr + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup, family = binomial))
+
+modelsummary(bin_log_models,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+
+levels(banco_pre$randomizacao_tr)
+levels(banco_pos$randomizacao_tr)
+levels(banco_followup$randomizacao_tr)
+```
+
+```{r}
+#| label: Binomial Logistic Models (ref = CBT) excluding sociodemographic variables
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr))
+
+bin_log_models <- list("Pre" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre, family = binomial), 
+     "Pos" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos, family = binomial),
+     "Follow Up" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup, family = binomial))
+
+modelsummary(bin_log_models,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+
+levels(banco_pre$randomizacao_tr)
+levels(banco_pos$randomizacao_tr)
+levels(banco_followup$randomizacao_tr)
+```
+
+```{r}
+#| label: Binomial Logistic Models (ref = ACT) excluding sociodemographic variables
+
+clean_select_df$randomizacao_tr <- fct_relevel(clean_select_df$randomizacao_tr, c("ACT", "CBT"))
+
+
+banco_pre <- clean_select_df |> 
+  filter(redcap_event_name == "elegibilidade_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("ACT", "CBT")))
+
+banco_pos <- clean_select_df |> 
+  filter(redcap_event_name == "desfechos_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("ACT", "CBT")))
+
+banco_followup <- clean_select_df |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+  mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+    filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_rev(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("ACT", "CBT")))
+
+bin_log_models <- list("Pre" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre, family = binomial), 
+     "Pos" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos, family = binomial),
+     "Follow Up" = glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup, family = binomial))
+
+modelsummary(bin_log_models,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+
+levels(banco_pre$randomizacao_tr)
+levels(banco_pos$randomizacao_tr)
+levels(banco_followup$randomizacao_tr)
+```
+
+## Poster - plot coeficients
+
+```{r}
+#| label: Binomial Logistic plot (ref = CBT) of the coefficients
+
+pre_step <- glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre, family = binomial)
+
+pos_step <- glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pos, family = binomial)
+
+followup_step <- glm(randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_followup, family = binomial)
+
+
+logplot <- plot_coefs(pos_step, followup_step,
+           exp = TRUE, 
+           colors = c("#254E5B", "#E84646"),
+           legend.title = "Time",
+           model.names = c("Post Intervention", "6 Month Follow Up"),
+           coefs = c("Anxiety (HADS-A)" = "ehad_ansiedade_escore",
+                     "AAQ score" = "aaq_score",
+                     "SPAQ score" = "spaq_score",
+                     "DBAS score" = "dbas_score"))
+
+logplot[["labels"]][["x"]] <- "exp(Estimate) \n Favours ACT                Favours CBT"
+
+ggsave(filename = "img/logplot.png", plot = logplot, dpi = 600, width = 5, height = 4.5)
+```
+
+# Repeated Measures Logistic Regression
+
+```{r}
+#| label: mixed model approach
+mixed_model_df <- clean_select_df |> 
+  rename("time" = redcap_event_name) |> 
+  filter(time %in% c("elegibilidade_arm_1", "desfechos_arm_1","followup_arm_1")) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |>
+  mutate(time = fct_drop(time)) #|> 
+  #mutate(across(c(ehad_depressao_escore, ehad_ansiedade_escore, aaq_score, spaq_score, dbas_score), datawizard::standardize))
+
+
+simple_model <- glmer(randomizacao_tr ~ time + ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + (1 | record_id), family = binomial, data = mixed_model_df)
+
+modelsummary(simple_model,
+             exponentiate = TRUE,
+             stars = c('*' =.05, '**' = .01),
+             fmt = 2, 
+             estimate = "{estimate}{stars} [{conf.low}, {conf.high}]", statistic = NULL )
+```
+
+# Regressão Linear
+
+```{r}
+pre_step <- lm(formula =  igi_escore ~ ehad_ansiedade_escore + ehad_depressao_escore + aaq_score + spaq_score + dbas_score + randomizacao_tr , data = banco_pre)
+
+pos_step <- lm(formula =  igi_escore ~ ehad_ansiedade_escore + ehad_depressao_escore + aaq_score + spaq_score + dbas_score + randomizacao_tr , data = banco_pos)
+
+followup_step <- lm(formula =  igi_escore ~ ehad_ansiedade_escore + ehad_depressao_escore + aaq_score + spaq_score + dbas_score + randomizacao_tr , data = banco_followup)
+
+step_regression <- modelsummary(
+  models = list("Pre"= pre_step, "Pos" = pos_step, "Follow Up" = followup_step), 
+  estimate = "{estimate}{stars} [{conf.low}, {conf.high}]",
+  stars = c('*' =.05, '**' = .01),
+  statistic = NULL, 
+  # coef_map = cm, 
+  gof_omit = 'Log.Lik|RMSE',
+  fmt = 2,
+  standardize = "refit"
+  # output = "huxtable"
+  )
+
+step_regression
+```
+
+GGplot com as variaveis contínuas ao longo do tempo
+
+```{r}
+clean_select_df |> 
+  filter(redcap_event_name %in% c("elegibilidade_arm_1", "desfechos_arm_1","followup_arm_1")) |> 
+ggplot(aes(x = ehad_ansiedade_escore, y = redcap_event_name, fill = randomizacao_tr)) +
+  geom_boxplot() +
+  theme_minimal() +
+  scale_color_viridis_c()
+```
+
+# Plots
+
+A seguir, se quisermos examinar as mudanças na probabilidade prevista associadas a uma das nossas duas variáveis, podemos criar pequenos conjuntos de dados variando uma variável enquanto mantemos a outra constante. Primeiramente, para demonstrar o efeito da `ansiedade`, vamos manter as outras variáveis contínuas na média.
+
+```{r}
+
+banco_followup_plot <- clean_select_df |>
+  select(igi_escore, ehad_depressao_escore, aaq_score, spaq_score, dbas_score, randomizacao_tr, redcap_event_name, ehad_ansiedade_escore) |> 
+  filter(!randomizacao_tr == "WL") |> 
+  filter(redcap_event_name == "followup_arm_1") |> 
+    drop_na(igi_escore, ehad_depressao_escore, ehad_ansiedade_escore, aaq_score, spaq_score, dbas_score)  |> 
+  mutate(across(c(igi_escore, ehad_depressao_escore, aaq_score, spaq_score, dbas_score), mean)) |> 
+  #mutate(redcap_event_name = fct_drop(redcap_event_name)) |> 
+  mutate(randomizacao_tr = fct_drop(randomizacao_tr)) |> 
+  mutate(randomizacao_tr = fct_relevel(randomizacao_tr, c("CBT", "ACT"))) |> 
+  mutate(prediction = fitted(bin_log_models[["Follow Up"]]))
+
+banco_followup_plot$pred <- predict(bin_log_models[["Follow Up"]], newdata = banco_followup_plot, type = "response")
+
+log_plotggplot <- ggplot(banco_followup_plot) +
+  geom_smooth(aes(y = pred, x = ehad_ansiedade_escore), colour = "#1E000E", se = TRUE, size = 1.5) +
+  #geom_smooth(aes(y = prediction, x = ehad_ansiedade_escore), colour = "blue", se = TRUE, size = 1.5) +
+  ylim(0,1) + 
+  xlim(0,20) +
+  labs(x = "Anxiety Score", y = "Probability") +
+  theme_light(base_size = 20) +
+  theme(axis.text = element_text(size = 14)) 
+
+log_plotggplot
+#dados_tr_logplot <- cbind(dados_tr_logplot, log_predicted)
+
+#randomizacao_tr ~ ehad_depressao_escore + ehad_ansiedade_escore + aaq_score + spaq_score + dbas_score + igi_escore, data = banco_pre
+```
+
+# Qr-code
+
+```{r}
+postercode <- qr_code("https://doi.org/10.1037/ccp0000881", "M")
+
+generate_svg(
+  postercode,
+  "img/qrcode.svg",
+  size = 300,
+  foreground = "white",
+  background = "#65ADC2",
+  show = FALSE
+  )
+
+
+```

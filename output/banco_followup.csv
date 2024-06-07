@@ -1,0 +1,128 @@
+record_id,redcap_event_name,idade,sexo_tr,escolaridade_tr,estado_civil_tr,etnia_tr,igi_escore,ehad_ansiedade_escore,ehad_depressao_escore,aaq_score,spaq_score,dbas_score,randomizacao_tr,neuroticismo_escore_t,extroversao_escore_t,abertura_escore_t,amabilidade_escore_t,conscienciosidade_escore_t
+3,followup_arm_1,35,Masculine,Superior,Single/Divorced,White,12,9,4,22,27,65,ACT,65,30,53,62,51
+16,followup_arm_1,32.3,Feminine,Superior,Married/United,Non White,5,8,6,29,39,48,CBT,68,32,58,66,44
+71,followup_arm_1,41.6,Feminine,Nao Superior,Married/United,White,13,11,8,32,19,113,ACT,71,45,48,55,51
+82,followup_arm_1,59.3,Feminine,Superior,Married/United,White,7,7,5,23,44,31,ACT,45,33,44,71,47
+84,followup_arm_1,51.1,Feminine,Superior,Married/United,White,10,10,12,33,25,92,CBT,42,52,58,55,44
+85,followup_arm_1,44.1,Masculine,Superior,Single/Divorced,Non White,16,6,3,16,32,70,CBT,51,39,56,26,35
+106,followup_arm_1,40.2,Feminine,Superior,Married/United,White,9,8,4,26,32,103,ACT,48,44,58,55,63
+122,followup_arm_1,36.7,Feminine,Superior,Single/Divorced,White,15,10,10,34,16,116,ACT,73,45,53,33,47
+135,followup_arm_1,38.3,Feminine,Superior,Married/United,White,1,1,2,12,42,10,CBT,42,49,48,71,59
+194,followup_arm_1,57.1,Feminine,Superior,Single/Divorced,White,7,6,9,28,34,74,ACT,56,44,58,48,53
+235,followup_arm_1,50,Feminine,Superior,Married/United,White,1,5,1,14,42,2,CBT,56,71,61,46,56
+248,followup_arm_1,44.9,Masculine,Nao Superior,Single/Divorced,White,10,5,4,17,24,90,ACT,48,32,32,59,47
+264,followup_arm_1,34.7,Feminine,Superior,Single/Divorced,White,4,3,4,20,43,15,ACT,63,42,49,41,53
+274,followup_arm_1,23.1,Masculine,Nao Superior,Single/Divorced,White,4,4,3,17,33,44,CBT,51,40,65,35,46
+280,followup_arm_1,39.2,Feminine,Superior,Single/Divorced,White,16,12,2,24,21,97,CBT,52,57,23,26,47
+283,followup_arm_1,36.2,Feminine,Superior,Married/United,White,4,5,2,19,21,16,CBT,63,49,25,42,43
+287,followup_arm_1,37.7,Feminine,Superior,Married/United,White,5,5,2,16,38,69,ACT,49,33,53,61,53
+313,followup_arm_1,32.6,Feminine,Nao Superior,Single/Divorced,Non White,4,8,4,22,35,31,CBT,46,65,34,61,62
+343,followup_arm_1,32.6,Feminine,Superior,Married/United,White,17,15,7,39,26,96,ACT,62,55,46,46,32
+368,followup_arm_1,41,Feminine,Superior,Married/United,White,8,13,8,40,21,128,ACT,63,30,49,50,38
+393,followup_arm_1,44.8,Masculine,Nao Superior,Married/United,Non White,22,16,10,41,9,109,CBT,62,40,20,42,53
+412,followup_arm_1,42,Masculine,Superior,Married/United,Non White,8,3,0,8,30,38,CBT,38,37,41,52,56
+437,followup_arm_1,54,Feminine,Superior,Single/Divorced,White,5,13,6,34,41,55,ACT,58,40,56,61,47
+448,followup_arm_1,26.6,Feminine,Superior,Married/United,Non White,17,11,1,25,20,88,ACT,62,54,41,59,46
+470,followup_arm_1,33.6,Masculine,Superior,Married/United,White,9,5,2,12,27,66,CBT,51,28,60,55,54
+481,followup_arm_1,34.5,Feminine,Superior,Married/United,White,8,8,5,32,23,126,ACT,71,60,56,50,32
+533,followup_arm_1,50.7,Feminine,Superior,Married/United,White,12,10,3,16,44,57,CBT,65,49,41,48,56
+549,followup_arm_1,31.3,Masculine,Superior,Single/Divorced,White,7,5,4,14,24,104,CBT,45,52,49,52,54
+564,followup_arm_1,44.2,Feminine,Superior,Married/United,White,16,9,8,23,32,100,ACT,52,45,56,48,50
+568,followup_arm_1,55.1,Feminine,Superior,Married/United,Non White,20,3,2,15,26,50,ACT,28,42,49,62,48
+641,followup_arm_1,32.8,Masculine,Superior,Single/Divorced,Non White,3,6,7,17,39,60,ACT,53,30,25,32,40
+651,followup_arm_1,54,Masculine,Superior,Single/Divorced,White,6,8,4,19,30,41,CBT,63,37,58,52,38
+657,followup_arm_1,34.4,Feminine,Nao Superior,Single/Divorced,White,8,11,6,36,21,107,ACT,66,33,58,53,34
+660,followup_arm_1,35.5,Feminine,Superior,Single/Divorced,Non White,3,8,10,20,21,5,CBT,53,54,42,61,56
+706,followup_arm_1,54.6,Feminine,Superior,Married/United,White,6,5,2,12,44,110,CBT,49,42,49,52,41
+722,followup_arm_1,38.5,Masculine,Superior,Single/Divorced,White,10,3,1,11,38,68,CBT,52,62,39,42,59
+734,followup_arm_1,20.2,Masculine,Nao Superior,Single/Divorced,White,16,16,13,45,6,112,ACT,75,20,46,53,22
+776,followup_arm_1,58.1,Feminine,Nao Superior,Single/Divorced,White,7,4,5,22,18,29,CBT,58,45,44,52,48
+778,followup_arm_1,57.8,Feminine,Superior,Married/United,White,17,4,7,18,36,38,ACT,52,49,54,64,50
+824,followup_arm_1,46.7,Feminine,Superior,Married/United,Non White,19,6,7,34,7,153,ACT,55,39,34,59,53
+863,followup_arm_1,31.1,Masculine,Superior,Married/United,White,21,8,2,14,33,83,ACT,49,42,54,64,60
+870,followup_arm_1,47,Feminine,Superior,Married/United,Non White,5,2,1,9,26,31,CBT,43,50,49,66,47
+893,followup_arm_1,54.6,Feminine,Superior,Single/Divorced,White,6,4,6,21,24,102,ACT,38,60,54,71,66
+917,followup_arm_1,24.1,Masculine,Superior,Single/Divorced,White,4,1,3,10,48,11,CBT,63,35,48,20,34
+922,followup_arm_1,32.3,Feminine,Superior,Single/Divorced,White,13,7,12,30,23,70,CBT,46,33,32,50,59
+926,followup_arm_1,38.8,Feminine,Superior,Married/United,White,17,12,7,32,24,127,ACT,62,49,37,70,60
+929,followup_arm_1,31.4,Masculine,Superior,Single/Divorced,White,9,6,5,22,32,82,CBT,59,50,44,50,40
+930,followup_arm_1,25.5,Masculine,Superior,Single/Divorced,Non White,10,12,6,21,42,18,CBT,NA,NA,NA,NA,NA
+939,followup_arm_1,49.3,Feminine,Superior,Married/United,White,3,2,1,13,21,66,ACT,33,45,39,64,60
+979,followup_arm_1,33.2,Feminine,Superior,Married/United,White,10,10,2,16,24,59,ACT,51,57,49,50,32
+1057,followup_arm_1,42.1,Feminine,Superior,Single/Divorced,White,6,9,3,20,33,24,CBT,58,47,58,57,57
+1075,followup_arm_1,50.9,Feminine,Superior,Single/Divorced,White,5,5,7,22,36,61,CBT,62,40,46,33,47
+1078,followup_arm_1,49.2,Masculine,Superior,Married/United,White,7,3,2,11,48,32,ACT,55,44,56,64,56
+1178,followup_arm_1,42.3,Feminine,Superior,Single/Divorced,Non White,5,6,3,10,43,18,CBT,61,49,61,42,62
+1191,followup_arm_1,27.2,Feminine,Superior,Married/United,White,13,10,15,19,22,115,ACT,61,60,42,55,59
+1244,followup_arm_1,31,Feminine,Superior,Married/United,White,7,7,1,14,42,61,ACT,65,50,70,57,66
+1292,followup_arm_1,48.2,Feminine,Superior,Married/United,Non White,2,3,2,7,42,9,ACT,42,40,34,61,56
+1302,followup_arm_1,37.1,Feminine,Superior,Married/United,White,5,5,4,14,43,9,CBT,49,57,37,42,51
+1308,followup_arm_1,45.6,Feminine,Nao Superior,Married/United,White,4,2,2,17,48,40,CBT,48,35,49,68,66
+1375,followup_arm_1,53.1,Masculine,Superior,Married/United,Non White,10,8,9,9,28,44,CBT,28,33,27,53,44
+1424,followup_arm_1,34.5,Feminine,Superior,Single/Divorced,White,11,9,2,21,22,106,CBT,49,50,49,59,25
+1438,followup_arm_1,31.6,Feminine,Nao Superior,Single/Divorced,White,12,2,2,12,39,30,CBT,38,33,42,70,60
+1439,followup_arm_1,28.9,Feminine,Superior,Single/Divorced,Non White,17,13,13,35,24,96,ACT,71,32,54,33,24
+1448,followup_arm_1,59.2,Feminine,Superior,Married/United,White,17,9,7,26,12,120,ACT,53,50,46,53,47
+1515,followup_arm_1,59.4,Feminine,Superior,Married/United,White,14,12,13,34,26,95,CBT,68,22,48,53,57
+1522,followup_arm_1,27.7,Masculine,Superior,Single/Divorced,White,10,7,10,26,25,74,ACT,73,39,46,42,22
+1541,followup_arm_1,52.2,Feminine,Superior,Married/United,White,9,3,3,12,34,48,CBT,36,57,36,62,53
+1567,followup_arm_1,55.4,Feminine,Superior,Married/United,White,13,11,10,28,20,98,ACT,55,44,54,52,48
+1598,followup_arm_1,54.7,Feminine,Superior,Married/United,White,5,3,3,11,24,60,ACT,NA,NA,NA,NA,NA
+1644,followup_arm_1,57.5,Masculine,Superior,Married/United,White,25,8,8,17,8,145,ACT,38,67,53,57,63
+1654,followup_arm_1,47.5,Masculine,Superior,Married/United,White,10,2,5,7,38,60,ACT,29,20,51,44,62
+1701,followup_arm_1,44.8,Feminine,Nao Superior,Married/United,White,8,3,0,18,35,10,ACT,46,52,41,59,63
+1720,followup_arm_1,28.3,Feminine,Superior,Single/Divorced,White,7,8,3,24,23,138,CBT,62,30,54,33,40
+1736,followup_arm_1,48,Feminine,Superior,Married/United,Non White,10,4,8,24,28,67,CBT,55,32,39,48,47
+1742,followup_arm_1,51.4,Feminine,Nao Superior,Married/United,White,14,4,3,26,19,103,ACT,43,54,39,55,59
+2549,followup_arm_1,40.72190167,Masculine,Superior,Married/United,Non White,14,10,10,32,20,110,CBT,75,44,51,52,38
+2557,followup_arm_1,37.75957177,Feminine,Superior,Married/United,White,11,14,10,28,10,105,ACT,66,49,25,44,29
+2571,followup_arm_1,38,Masculine,Nao Superior,Single/Divorced,White,10,4,3,27,27,104,ACT,46,49,49,48,48
+2596,followup_arm_1,28.5,Feminine,Superior,Married/United,White,8,6,4,25,42,59,ACT,49,47,56,57,62
+2627,followup_arm_1,26.8,Feminine,Superior,Married/United,Non White,1,1,0,7,26,35,CBT,43,52,48,39,66
+2677,followup_arm_1,44.4,Feminine,Superior,Married/United,White,5,8,2,21,36,79,ACT,76,44,63,55,44
+2687,followup_arm_1,43.73728135,Feminine,Superior,Single/Divorced,White,26,11,13,39,5,117,ACT,76,20,46,28,38
+2689,followup_arm_1,50.1,Feminine,Superior,Married/United,White,17,7,3,20,28,93,CBT,49,59,56,64,56
+2698,followup_arm_1,35.9,Feminine,Superior,Married/United,Non White,7,9,1,26,34,83,CBT,42,49,60,57,59
+2718,followup_arm_1,46.5,Feminine,Superior,Single/Divorced,NA,6,4,7,24,26,75,CBT,53,45,56,62,53
+2735,followup_arm_1,42.1,Feminine,Superior,Married/United,White,12,12,7,37,16,103,CBT,NA,NA,NA,NA,NA
+2765,followup_arm_1,40.9,Feminine,Superior,Married/United,White,8,7,1,25,28,86,ACT,61,57,44,44,47
+2774,followup_arm_1,32.2,Feminine,Superior,Married/United,White,3,7,4,20,39,58,ACT,66,50,39,41,59
+2822,followup_arm_1,37.2,Feminine,Superior,Married/United,White,22,12,12,36,12,132,CBT,NA,NA,NA,NA,NA
+2843,followup_arm_1,39.5,Masculine,Nao Superior,Married/United,Non White,10,5,7,38,20,101,ACT,NA,NA,NA,NA,NA
+2859,followup_arm_1,37.9,Feminine,Superior,Married/United,Non White,8,1,0,17,28,74,ACT,38,44,44,48,44
+2878,followup_arm_1,58.40864606,Masculine,Superior,Married/United,White,8,1,3,15,20,31,CBT,45,27,27,62,60
+2888,followup_arm_1,57.1,Feminine,Nao Superior,Married/United,Non White,11,15,12,36,25,96,CBT,55,32,36,46,38
+2907,followup_arm_1,44.4,Feminine,Superior,Married/United,White,6,9,12,29,24,80,CBT,NA,NA,NA,NA,NA
+2910,followup_arm_1,56.8,Feminine,Superior,Married/United,White,2,11,7,28,27,39,ACT,69,57,41,70,66
+2926,followup_arm_1,51,Feminine,Superior,Married/United,White,8,1,1,10,25,84,CBT,65,39,37,75,66
+2955,followup_arm_1,32.4,Masculine,Superior,Single/Divorced,Non White,17,8,7,21,20,92,ACT,56,35,41,52,34
+2959,followup_arm_1,29,Feminine,Nao Superior,Single/Divorced,White,13,9,6,27,26,81,CBT,62,42,53,57,53
+2988,followup_arm_1,37.98712868,Feminine,Superior,Married/United,Non White,11,10,12,26,35,82,ACT,NA,NA,NA,NA,NA
+3005,followup_arm_1,41.8,Feminine,Superior,Single/Divorced,Non White,12,5,5,13,25,57,CBT,48,49,56,62,62
+3012,followup_arm_1,31.69911251,Masculine,Superior,Single/Divorced,Non White,10,6,12,18,29,91,ACT,58,37,54,46,57
+3042,followup_arm_1,54.2,Feminine,Superior,Married/United,White,8,5,8,36,23,88,ACT,58,20,70,59,60
+3061,followup_arm_1,40.40227029,Feminine,Superior,Married/United,Non White,12,9,8,27,28,107,ACT,65,55,22,59,59
+3063,followup_arm_1,58.8,Feminine,Superior,Single/Divorced,White,19,6,9,28,29,86,ACT,46,50,54,64,57
+3070,followup_arm_1,29.1,Feminine,Superior,Single/Divorced,Non White,8,7,10,18,18,65,CBT,39,52,32,62,57
+3075,followup_arm_1,51.2,Feminine,Superior,Married/United,White,8,4,5,20,18,88,ACT,52,32,44,64,44
+3077,followup_arm_1,54.1,Feminine,Superior,Single/Divorced,White,10,15,9,29,18,115,CBT,55,59,61,57,34
+3113,followup_arm_1,47.9,Masculine,Superior,Married/United,White,11,8,5,28,23,92,CBT,69,20,49,42,37
+3120,followup_arm_1,37.7,Feminine,Superior,Married/United,White,10,11,3,29,31,47,CBT,71,40,27,32,32
+3156,followup_arm_1,35.3,Feminine,Superior,Single/Divorced,White,18,7,8,20,14,101,ACT,42,57,56,55,66
+3157,followup_arm_1,32.2,Feminine,Superior,Single/Divorced,White,11,7,6,25,25,84,ACT,42,33,63,39,53
+3166,followup_arm_1,47,Feminine,Superior,Single/Divorced,White,5,1,3,14,37,56,ACT,NA,NA,NA,NA,NA
+3209,followup_arm_1,37.6,Masculine,Superior,Single/Divorced,Non White,3,2,4,9,43,77,CBT,41,37,51,52,47
+3250,followup_arm_1,27.3,Feminine,Nao Superior,Married/United,White,7,10,5,23,31,83,ACT,69,47,56,48,53
+3267,followup_arm_1,34.60634025,Feminine,Superior,Married/United,Non White,8,10,5,16,37,57,CBT,62,35,39,53,43
+3325,followup_arm_1,33.5,Feminine,Nao Superior,Married/United,Non White,14,15,9,32,10,133,CBT,63,47,53,46,40
+3355,followup_arm_1,42.2,Feminine,Superior,Single/Divorced,White,9,13,12,44,29,110,ACT,NA,NA,NA,NA,NA
+3358,followup_arm_1,52.5,Masculine,Superior,Married/United,White,18,8,8,27,16,130,ACT,NA,NA,NA,NA,NA
+3368,followup_arm_1,33.3,Masculine,Superior,Single/Divorced,Non White,16,6,4,22,18,89,ACT,49,42,46,53,43
+3392,followup_arm_1,26.05862356,Feminine,Superior,Single/Divorced,White,10,8,5,17,28,59,CBT,73,42,46,57,53
+3395,followup_arm_1,56.82936763,Feminine,Superior,Single/Divorced,White,6,14,12,33,26,73,CBT,51,42,51,64,56
+3408,followup_arm_1,37.6,Masculine,Superior,Married/United,White,4,2,2,10,39,29,CBT,NA,NA,NA,NA,NA
+3454,followup_arm_1,37.7,Feminine,Superior,Single/Divorced,White,21,13,10,26,13,133,ACT,NA,NA,NA,NA,NA
+3478,followup_arm_1,30.7,Feminine,Superior,Single/Divorced,White,21,9,2,22,34,116,ACT,58,47,70,55,56
+3482,followup_arm_1,44.5,Feminine,Nao Superior,Married/United,White,11,7,9,33,26,44,ACT,53,32,34,52,41
+3516,followup_arm_1,42.7,Feminine,Superior,Married/United,NA,10,8,1,15,28,90,CBT,58,64,61,48,50
+3544,followup_arm_1,31.2,Masculine,Superior,Single/Divorced,White,24,11,9,31,9,137,CBT,NA,NA,NA,NA,NA
